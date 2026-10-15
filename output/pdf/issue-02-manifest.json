@@ -1,0 +1,2971 @@
+{
+  "title": "The Portrait Edit - Issue 02 - The Prompt Issue",
+  "source": "DALL-E.prompts/dalle-prompts.md",
+  "source_sha256": "bac8e7e0449ac5c28c7e99a8ac087642ec975f2184ac188d7b053a4ae9a5aa47",
+  "design_reference": "Downloads/The Portrait Edit.pdf (Issue 01, 103 pages)",
+  "studies": 174,
+  "unique_references": 170,
+  "pages": 180,
+  "entries": [
+    {
+      "number": 1,
+      "title": "Autumn Hat Portrait",
+      "reference": "4916.jpg",
+      "prompt": "A vertical portrait of a young woman with long light-brown hair and freckles, wearing a wide-brimmed black hat with a dark fabric rosette and a high-necked black top with textured lace-like detailing. She glances over her shoulder toward the camera with a calm, slightly serious expression. Shot from mid-thigh up with a shallow depth of field, the background a soft blur of autumn foliage in amber and gold at the top left, fading into deep green. Soft, diffused natural daylight, muted warm-cool palette dominated by blacks and greens, with gentle film grain and vintage 1970s color rendering. Melancholic, romantic, Victorian-inspired mood, cinematic and nostalgic.",
+      "notes": "- Original prompt is long; a trimmed version may give more controlled results.\n- Consider adding a film stock anchor such as \"35mm, Kodak Portra.\"",
+      "style": "Moody, film-like, Victorian-inspired",
+      "tags": "#portrait #autumn #film #period",
+      "page": 7
+    },
+    {
+      "number": 2,
+      "title": "Golden Hour Street Selfie",
+      "reference": "4564.jpg",
+      "prompt": "A candid, arm's-length selfie of a young woman on a city street at golden hour, framed vertically. She has loose, shoulder-length honey-blonde hair with soft face-framing waves and wears a beige trench coat over a dark top with a delicate layered gold necklace. Low, warm sunlight creates a glowing rim light on her hair and a soft peach wash across her skin. Behind her, a tree-lined street with parked bicycles, cream-colored building facades, and a long shadow stretching across the pavement. Shallow, natural depth of field, warm amber, honey, and peach palette, relaxed and sun-kissed, with a nostalgic summer feel typical of a casual social media photo.",
+      "notes": "- Good candidate for a mood board or social post.\n- Variations: different season or city, more painterly treatment.",
+      "style": "Candid, sun-kissed, casual social media",
+      "tags": "#lifestyle #golden-hour #street #social",
+      "page": 8
+    },
+    {
+      "number": 3,
+      "title": "High-Key Beauty Portrait",
+      "reference": "4570.jpg",
+      "prompt": "A minimalist, high-key beauty portrait of an original young woman against a near-white seamless backdrop, framed vertically and cropped from the upper chest up. Long, straight, glossy black hair falls past her shoulders, with a few loose strands drifting across her face. Her skin is smooth and matte, her lips a muted rosy-brown, and her expression calm, direct, and slightly contemplative. Her arms are folded across her chest, one hand resting on the opposite shoulder, with a thin silver band on one finger. Soft, even studio lighting with little visible shadow, a cool, restrained palette of off-white, pale blue-gray, and deep black, generous negative space that keeps focus on her face and hands. Clean, airy, serene, and quietly melancholic, in the style of a contemporary skincare or jewelry campaign.",
+      "notes": "- Suited to skincare, cosmetics, or jewelry campaigns.\n- Could be warmed up or the pose changed.",
+      "style": "Clean, airy, quietly melancholic",
+      "tags": "#beauty #minimalist #studio #campaign",
+      "page": 9
+    },
+    {
+      "number": 4,
+      "title": "Studio Ponytail Portrait",
+      "reference": "4571.jpg",
+      "prompt": "A minimalist studio portrait of an original young woman against a pale gray-white seamless backdrop, framed vertically and cropped from mid-torso up. Her long, straight black hair is swept back from her face and pulled to one side in a low, sleek ponytail that falls past her shoulder and down her chest, with loose strands framing her temples. She wears a fitted black strapless top, with bare shoulders and arms. Natural makeup with soft pink-brown lips, and a calm, direct gaze toward the camera. Soft, even studio lighting with gentle shadows along the jaw and collarbone, a monochrome palette of soft grays, white, and deep black, warm-neutral skin tones. The long ponytail creates a strong diagonal line down the right side of the frame. Poised, editorial, and graphic, in the style of a hair care or minimalist fashion lookbook.",
+      "notes": "- Strong choice for hair care campaigns or lookbooks.\n- The diagonal ponytail is the key compositional element.",
+      "style": "Poised, graphic, monochrome",
+      "tags": "#hair #studio #editorial #minimalist",
+      "page": 10
+    },
+    {
+      "number": 5,
+      "title": "Frost Fantasy Portrait",
+      "reference": "4572.jpg",
+      "prompt": "A cinematic fantasy portrait of an original young woman standing near the center of the frame, cropped from the thighs up, facing the camera. Long, wavy chestnut-brown hair falls past her shoulders with lighter highlights where the light catches it. She wears a fitted, semi-sheer blue bodice with an embossed frost-like pattern and long, translucent sleeves. A high collar holds a jeweled choker and a layered pendant necklace, with small drop earrings. Her expression is calm and direct, with softly parted lips. Behind her, towering blue ice crystals fill the background, softly out of focus. Soft, directional backlight outlines her hair and shoulders in a faint glow. Cool, saturated palette of icy blues, deep indigo, and silver, with warm skin tones for contrast. Subtle film grain and shallow depth of field give it a film-still quality. Regal, mysterious, and wintry, in the style of a fantasy book cover or winter-themed editorial.",
+      "notes": "- Good for book covers or poster concepts.\n- Warmer setting or different costume are easy variations.",
+      "style": "Regal, mysterious, wintry",
+      "tags": "#fantasy #cinematic #winter #book-cover",
+      "page": 11
+    },
+    {
+      "number": 6,
+      "title": "Victorian Library Portrait",
+      "reference": "4574.jpg",
+      "prompt": "A moody, period-inspired portrait of an original young woman standing in a softly blurred library filled with old leather-bound books and brass objects, cropped from mid-thigh up and framed vertically. Long, voluminous light auburn hair falls past her shoulders in soft, defined curls. She wears a fitted dark velvet jacket with a row of small buttons down the front and a high lace-trimmed collar fastened with an ornate brooch. A layered beaded bracelet sits on one wrist, and her arms are folded across her body. Her expression is serious and direct. Warm, soft lighting with gentle falloff into shadow, a muted palette of deep browns and burgundy, amber and gold from the wood and metalwork, and soft rose tones in her skin. Fine grain and slightly faded color give a vintage film look. Scholarly, dignified, and quietly intense, in the style of a historical fiction book cover or Victorian fashion editorial.",
+      "notes": "- Suited to period drama posters or historical fiction covers.\n- Can be shifted to a different era by changing the costume.",
+      "style": "Moody, scholarly, vintage film",
+      "tags": "#period #victorian #library #gothic #book-cover",
+      "page": 12
+    },
+    {
+      "number": 7,
+      "title": "Cream Knit Co-ord",
+      "reference": "4991.jpg",
+      "prompt": "A full-length studio fashion portrait of an original young woman with long, voluminous copper-auburn wavy hair, standing against a seamless white backdrop. She wears a matching cream knit co-ord: a cropped, long-sleeved cardigan with a textured, slightly sparkly tweed weave and pearl buttons down the front, layered over a knit camisole, paired with a fitted knit mini skirt with two front flap pockets and a ribbed waistband. A thin chain necklace sits at her neck. She wears cream knee-high boots and holds a black quilted shoulder bag with silver hardware at her side. Her expression is calm and direct, gazing toward the camera. Soft, even studio lighting with minimal shadow, a clean, neutral palette of ivory, cream, and pale gold, with warm copper hair as the single accent. Polished, romantic, and classic, in the style of a contemporary knitwear lookbook.",
+      "notes": "- Swap the copper hair for a dark or blonde shade for a different look.\n- A cropped, three-quarter framing works well for social media ads.",
+      "style": "Soft, feminine, classic",
+      "tags": "#fashion #knitwear #studio #lookbook",
+      "page": 13
+    },
+    {
+      "number": 8,
+      "title": "Powder Blue Knit Set",
+      "reference": "4992.jpg",
+      "prompt": "A full-body studio fashion portrait of an original young woman with an updo of loose, tousled hair, wearing large silver hoop earrings and a beaded black choker with a small floral charm. She wears a fitted powder blue ribbed knit cardigan with a V-neck, frayed raw-edged trim, a row of small silver buttons down the front, and long flared sleeves. Beneath it, a pale blue pleated knit mini skirt. She wears white faux-fur leg warmers over her legs and chunky black loafers with gold-toned buckles. She holds a small woven bead-and-chain handbag. Her expression is calm and direct, standing straight against a plain white seamless backdrop. Soft, even studio lighting, a soft palette of powder blue, cream white, and silver with black accents. Fresh, cozy, and playful, in the style of a Y2K-inspired online clothing catalog.",
+      "notes": "- The mix of soft knit and faux fur is the signature detail; keep both in the prompt.\n- Add \"full-length, head to toe\" to keep the entire outfit in frame.",
+      "style": "Playful, cozy, layered",
+      "tags": "#fashion #knitwear #full-body #playful",
+      "page": 14
+    },
+    {
+      "number": 9,
+      "title": "Mustard Twist Dress",
+      "reference": "4993.jpg",
+      "prompt": "A vertical studio fashion portrait of an original young woman with long, wavy copper-red hair falling past her shoulders, standing against a plain white seamless backdrop. She wears a mustard-yellow long-sleeved bodycon mini dress with a high mandarin-style collar, a small ring-shaped cutout at the neckline, an asymmetrical cross-over bodice with a twisted front knot, and softly ruched fabric along the sides. The sleeves are long and slightly flared at the wrists, with silver rings on her fingers. She holds a pale pink structured handbag by its strap. Her expression is calm and direct. Soft, even studio lighting with minimal shadow, a warm, saturated palette of mustard, ochre, and copper against neutral white. Bold, retro, and editorial, in the style of a 1970s-inspired fashion campaign.",
+      "notes": "- The twisted bodice and ruching are the defining details; name them specifically.\n- Mustard works best against a plain backdrop, so keep the background minimal.",
+      "style": "Bold, retro, editorial",
+      "tags": "#fashion #retro #studio #bodycon",
+      "page": 15
+    },
+    {
+      "number": 10,
+      "title": "Chocolate Turtleneck & Striped Skirt",
+      "reference": "5028.jpg",
+      "prompt": "A vertical studio fashion portrait of an original young woman with light brown, straight hair and full bangs, swept slightly to one side with loose strands blowing across her shoulder. She wears a fitted chocolate-brown long-sleeved turtleneck with a softly ruched center front and contrast stitching at the cuffs, layered with a pearl necklace that has a small silver charm at the center. Her hands rest on her hips. She wears a knit midi skirt in horizontal bands of raspberry pink and chocolate brown, edged with fuzzy turquoise trim, with a drawstring waistband ending in fluffy brown pom-poms. Her expression is calm and direct, with light blush on her cheeks. Soft, even studio lighting against a pale gray-white seamless backdrop, a palette of chocolate, raspberry, and turquoise accents. Textured, cozy, and nostalgic, in the style of a 1990s-inspired knitwear lookbook.",
+      "notes": "- The striped knit skirt with fuzzy trim is the focal point; keep the band colors specific.\n- Add \"full-length\" if you want the drawstring pom-poms visible.",
+      "style": "Cozy, textured, 90s-inspired",
+      "tags": "#fashion #knitwear #studio #90s",
+      "page": 16
+    },
+    {
+      "number": 11,
+      "title": "Brown Mock-Neck & Leather Mini",
+      "reference": "5029.jpg",
+      "prompt": "A three-quarter fashion portrait of an original young woman with long, soft blonde waves and blunt bangs, standing against a soft, muted gray backdrop. She wears a fitted chocolate-brown mock-neck long-sleeved top with an asymmetric hem that dips toward one side and slightly gathered waist. Beneath it, a dark brown embossed leather mini skirt with a floral pattern, a silver western-style belt buckle, and sheer black tights. She holds a bundle of dried flowers in one hand, low by her side. Her expression is calm, with her gaze turned to the left. Soft, diffused natural light with gentle shadows, a muted palette of chocolate, espresso, and warm gray with silver accents. Editorial, understated, and slightly romantic, in the style of a contemporary fall fashion editorial.",
+      "notes": "- The asymmetric hem and embossed leather are the key details; keep both.\n- The dried flowers add a soft counterpoint to the leather; drop them for a sharper look.",
+      "style": "Edgy, earthy, minimal",
+      "tags": "#fashion #editorial #leather #minimal",
+      "page": 17
+    },
+    {
+      "number": 12,
+      "title": "Polka Dot Bows & Floral Blouse",
+      "reference": "5030.jpg",
+      "prompt": "A close-up portrait of an original young woman with soft, wavy light brown hair parted in the center, styled into two loose braids tied with red polka-dot bows at the sides, with a few loose wisps framing her face. She wears small gold hoop earrings and a delicate thin silver chain necklace over a white crew-neck tee with a small printed label. Over the tee, a cream pinafore-style top with a small red floral print, a ruffled trim, and puff sleeves. She has a gentle, closed-mouth smile and a soft, dewy complexion with light freckles. Soft, even studio lighting against a pale, neutral backdrop. A palette of cream, cherry red, and soft brown with light floral accents. Sweet, nostalgic, and wholesome, in the style of a vintage-inspired children's or heritage clothing catalog.",
+      "notes": "- The red polka-dot bows are the signature detail; name the color and pattern.\n- \"Closed-mouth smile\" keeps the expression soft; change to \"neutral\" for a more serious tone.",
+      "style": "Sweet, nostalgic, whimsical",
+      "tags": "#portrait #hairstyle #vintage #whimsical",
+      "page": 18
+    },
+    {
+      "number": 13,
+      "title": "Black Turtleneck & White Socks",
+      "reference": "5031.jpg",
+      "prompt": "A full-body studio fashion portrait of an original young woman with long, straight black hair parted in the center, falling past her shoulders, standing against a plain white seamless backdrop. She wears a fitted black ribbed knit turtleneck with long sleeves that end at her wrists, paired with a short white mini skirt with a relaxed A-line cut. Tall white ribbed knee-high socks and black pointed-toe flats with a small bow detail complete the look. Her arms are relaxed at her sides, and her expression is calm and direct. Soft, even studio lighting with minimal shadow, a high-contrast palette of black, white, and warm skin tones. Clean, preppy, and graphic, in the style of a minimalist catalog or school uniform-inspired fashion editorial.",
+      "notes": "- The black and white contrast is the core idea; keep the backdrop plain.\n- Add \"head to toe\" to make sure the flats and socks stay in frame.",
+      "style": "Clean, preppy, graphic",
+      "tags": "#fashion #minimal #preppy #studio",
+      "page": 19
+    },
+    {
+      "number": 14,
+      "title": "Red Headband Pop",
+      "reference": "5032.jpg",
+      "prompt": "A vertical close-up portrait of an original young woman with long, straight black hair and full bangs, wearing a glossy red satin headband across the top of her head. She wears a red sheer puff-sleeve top with a small rounded collar over a pale pink undershirt, with the sleeves gathered at the shoulders. She sits with her knees drawn up, partly visible at the bottom of the frame, with white knee socks. Her skin is pale and luminous, with soft rosy blush on the cheeks and glossy, coral-pink lips. Her expression is calm and slightly intense, with a direct gaze toward the camera. Soft, flat studio lighting against a dusty pink seamless backdrop, a palette of cherry red, blush pink, and cream white. Playful, graphic, and pastel, in the style of a retro-inspired beauty or fashion editorial.",
+      "notes": "- The red headband and dusty pink backdrop create the color contrast; keep both specific.\n- Adding \"soft film grain\" gives a more vintage print look.",
+      "style": "Playful, graphic, pastel",
+      "tags": "#portrait #pastel #graphic #editorial",
+      "page": 20
+    },
+    {
+      "number": 15,
+      "title": "Rust Floral Blouse & Chains",
+      "reference": "5088.jpg",
+      "prompt": "A vertical portrait of an original young woman seated on the ground, looking up and off to one side with a thoughtful, slightly wistful expression. She has long, loose, wavy brown hair falling past her shoulders and down her back, with light freckles across her cheeks and a soft, natural flush. She wears a rust-orange long-sleeved blouse with a small-print floral pattern, a soft collar, and a button placket that opens at the chest. Layered silver chains sit at her neck, one a delicate link chain and the other a longer pendant on a thin chain. Her hands rest in her lap, and her trousers are a deep chocolate brown. The background is a softly blurred pale gray wall with a muted concrete texture. Soft, diffused natural daylight from the side, a warm, earthy palette of rust, caramel, and brown against cool gray. Quiet, bohemian, and contemplative, in the style of a 1970s-inspired natural portrait.",
+      "notes": "- The rust floral blouse and layered chains are the main styling details; keep both.\n- \"Looking up and off to one side\" gives the image its mood; change to \"direct gaze\" for a more confident tone.",
+      "style": "Soft, bohemian, contemplative",
+      "tags": "#portrait #bohemian #seated #natural-light",
+      "page": 21
+    },
+    {
+      "number": 16,
+      "title": "Jade Backdrop & Hairpin",
+      "reference": "5089.jpg",
+      "prompt": "A vertical, tightly framed studio portrait of an original young woman with dark hair pulled back into a low, smooth bun, secured with an ornamental hairpin whose carved, pale ornament sits at the side of her head. Her skin is fair and luminous, with defined brows, soft eye makeup, and a deep red lip. She wears a fitted black top with a crisp white V-shaped collar that sits high at the neckline. Her expression is calm, composed, and direct. The background is a deep, muted jade-teal backdrop with soft, even tonal gradation. Soft, low-key studio lighting with a gentle falloff into shadow, a palette of jade, charcoal black, and ivory white with a single red accent at the lips. Subtle film grain and a slightly faded print finish. Quiet, elegant, and moody, in the style of a fine-art editorial portrait.",
+      "notes": "- The jade backdrop and the single red lip are the key color contrast; keep both specific.\n- The hairpin is a strong detail; name the ornament material (for example, carved jade or pearl) to control its look.",
+      "style": "Quiet, elegant, moody",
+      "tags": "#portrait #moody #traditional-inspired #film",
+      "page": 22
+    },
+    {
+      "number": 17,
+      "title": "Blue Satin Blouse & White Peonies",
+      "reference": "24607.jpg",
+      "prompt": "An original young woman with long, straight jet-black hair and pale skin holds a large bouquet of white peonies at her waist. She wears a deep blue satin high-necked blouse with covered buttons and full sleeves with lace cuffs, plus a slim silver bracelet. Her expression is calm and direct against a plain pale gray seamless backdrop. Soft, diffused window light, a cool palette of cornflower blue, ivory white, and jet black. Romantic and painterly, in the style of a classical fine-art portrait.",
+      "notes": "- Mixing satin and lace is the key texture contrast.\n- Swap the peonies for dried flowers for a moodier version.",
+      "style": "Romantic, painterly, cool",
+      "tags": "#portrait #fine-art #romantic #studio",
+      "page": 23
+    },
+    {
+      "number": 18,
+      "title": "Crimson Wool Coat by the Car",
+      "reference": "24603.jpg",
+      "prompt": "An original young woman with long, windswept dark brown hair stands beside a dark car in cool daylight. She wears a full-length red wool wrap coat with a stand collar, a row of gold buttons at the shoulder, and a self-tie belt. She holds a black leather top-handle bag with gold hardware and wears black gloves. Her expression is serious, and her gaze is steady. Crisp, natural light, a rich palette of crimson, charcoal, and gold. Confident and polished, in the style of a winter fashion editorial.",
+      "notes": "- The red coat should be the dominant color; keep the backdrop muted.\n- Add 'shallow depth of field' to separate her from the car.",
+      "style": "Confident, bold, editorial",
+      "tags": "#editorial #street-style #red #urban",
+      "page": 24
+    },
+    {
+      "number": 19,
+      "title": "Silver Beaded Headdress on a Misty Shore",
+      "reference": "24598.jpg",
+      "prompt": "An original young woman wears a silver headdress of dangling beads and small chains that frame her face. Two long dark braids fall over a cream embroidered brocade coat with silver trim. She stands before weathered driftwood, with a misty green-blue shoreline behind her. Her expression is composed, with a serious, quiet gaze. Soft overcast light, a muted palette of silver, cream, slate blue, and deep moss green. Sculptural and mystical, in the style of a high-fashion editorial shot on film.",
+      "notes": "- The headdress is the focal point; describe its beads and chains precisely.\n- Remove the driftwood for a cleaner, more minimal shot.",
+      "style": "Mystical, sculptural, muted",
+      "tags": "#fantasy #editorial #beadwork #landscape",
+      "page": 25
+    },
+    {
+      "number": 20,
+      "title": "Laughing in the Snow",
+      "reference": "24604.jpg",
+      "prompt": "An original young woman with long black hair and wispy bangs laughs with her eyes crinkled and cheeks flushed. She wears a bright blue track jacket with white side stripes and black gloves, and holds a handful of snow. Snow-covered mountains rise behind her under a clear blue sky. Bright, natural sunlight with warm highlights, a palette of royal blue, white, and crisp black. Candid and joyful, in the style of a winter travel photo.",
+      "notes": "- The laugh and the snow in her hand carry the mood.\n- Add 'snowflakes in the air' for a livelier feel.",
+      "style": "Joyful, bright, candid",
+      "tags": "#lifestyle #winter #candid #mountains",
+      "page": 26
+    },
+    {
+      "number": 21,
+      "title": "Blue Track Jacket & Alpine Glow",
+      "reference": "24606.jpg",
+      "prompt": "An original young woman with long black hair and blunt bangs wears a blue quilted jacket with white side stripes. She glances over her shoulder toward the camera, with a soft, neutral expression and a light blush on her cheeks. Snow-covered alpine peaks and a deep blue sky fill the background. Bright, clean sunlight, a palette of cobalt blue, white, and warm skin tones. Fresh and calm, in the style of an outdoor lifestyle portrait.",
+      "notes": "- The over-the-shoulder glance adds intimacy; keep it in the prompt.\n- Use 'close-up, head and shoulders' for a tighter crop.",
+      "style": "Calm, fresh, clear",
+      "tags": "#portrait #winter #mountains #candid",
+      "page": 27
+    },
+    {
+      "number": 22,
+      "title": "Red Embroidered Bodice by the Sea",
+      "reference": "24600.jpg",
+      "prompt": "An original young woman with dark brown hair in a loose side braid, with strands blowing across her face, wears a red embroidered high-necked bodice over a white gathered blouse with puff sleeves. Red ribbon ties hang from her shoulders, and gold drop earrings catch the light. She stands on a windswept shoreline under an overcast sky. Her expression is steady and serious. Soft, muted daylight, a palette of crimson, cream, and sandy gold. Timeless and windswept, in the style of a film photograph.",
+      "notes": "- The red embroidery against the cream blouse is the defining contrast.\n- Keep the overcast sky to maintain the muted palette.",
+      "style": "Earthy, windswept, timeless",
+      "tags": "#folk #coastal #film #portrait",
+      "page": 28
+    },
+    {
+      "number": 23,
+      "title": "Blue Jacket in Profile",
+      "reference": "24605.jpg",
+      "prompt": "An original young woman with long black hair and full bangs looks over her shoulder with a faint, closed-lip smile. She wears a blue track jacket with white stripes along the sleeves. Snowy mountains fill the background, with soft, even sunlight. Her profile is softly lit, and the palette is cobalt blue, white, and black. Quiet and poised, in the style of a minimal winter lookbook.",
+      "notes": "- The faint smile and profile angle set the tone.\n- Describe the lighting as 'soft, even sunlight' to avoid harsh shadows.",
+      "style": "Quiet, poised, soft",
+      "tags": "#portrait #winter #profile #minimal",
+      "page": 29
+    },
+    {
+      "number": 24,
+      "title": "Fur Hat & Charcoal Scarf in the Snow",
+      "reference": "24599.jpg",
+      "prompt": "An original young woman sits on a snowbank in a brown fur-trimmed hat and a long charcoal wool scarf. She wears a tan embroidered shawl over a dark wool coat and holds white gloves in her lap. Her face is turned to the side, with hair blowing loose at her temple and a soft red lip. Bright winter sun, a palette of charcoal, camel, cream, and icy blue. Warm and adventurous, in the style of a winter travel editorial.",
+      "notes": "- The layered textures of fur, wool, and embroidery define the look.\n- Add 'soft sunlight on the snow' to strengthen the warm glow.",
+      "style": "Warm, cozy, adventurous",
+      "tags": "#winter #layered #outdoor #portrait",
+      "page": 30
+    },
+    {
+      "number": 25,
+      "title": "Cream Shearling & Striped Top",
+      "reference": "24572.jpg",
+      "prompt": "An original young woman with long dark hair wears a cream shearling bonnet and a matching shearling-trimmed jacket. Under it, a brown and cream striped top with a lace hem and a gold cross pendant. She holds one arm up beside an open car door, and her expression is confident and a little playful. Snowy hills and a vivid blue sky stretch behind her. Bright, crisp sunlight, a palette of cream, camel, and cobalt blue. Playful and bold, in the style of a street-style winter lookbook.",
+      "notes": "- The shearling textures and striped top are the signature details.\n- Keep the raised arm for a dynamic pose.",
+      "style": "Playful, cozy, bold",
+      "tags": "#winter #playful #fashion #outdoor",
+      "page": 31
+    },
+    {
+      "number": 26,
+      "title": "Black Knit & Dark Studio Gradient",
+      "reference": "24573.jpg",
+      "prompt": "An original young woman with dark hair pulled back at the crown rests one arm across her forehead, with the other arm extended toward the lens. She wears a fitted black long-sleeve knit with a high neck. Her lips are warm coral, and her expression is calm and direct. A deep charcoal backdrop with soft gradient light falls off into shadow. Low-key studio lighting, a palette of charcoal, black, and warm coral. Dramatic and sleek, in the style of a beauty campaign.",
+      "notes": "- The coral lip is the only warm accent against the dark tones.\n- Add 'dramatic side lighting' to sharpen the cheekbones.",
+      "style": "Dramatic, sleek, moody",
+      "tags": "#studio #editorial #moody #beauty",
+      "page": 32
+    },
+    {
+      "number": 27,
+      "title": "Monochrome Leather & Blunt Bangs",
+      "reference": "24547.jpg",
+      "prompt": "An original young woman with long, straight, blunt-cut hair and wind-swept strands sits in a black-and-white portrait. She wears a black leather zip jacket with a wide collar and a twisted silver hoop earring. Her expression is direct and intense. A light gray seamless backdrop, high-contrast studio lighting, and sharp shadows along the jaw. Monochrome palette of black, white, and mid-gray. Sharp and graphic, in the style of a contemporary fashion campaign.",
+      "notes": "- The blunt bangs and leather collar are the key shapes.\n- Add 'black and white film' to set the monochrome tone.",
+      "style": "Sharp, graphic, editorial",
+      "tags": "#monochrome #fashion #leather #campaign",
+      "page": 33
+    },
+    {
+      "number": 28,
+      "title": "Fur Hood & Gold Earrings",
+      "reference": "24570.jpg",
+      "prompt": "An original young woman in a fluffy beige fur-lined hood wears ornate gold drop earrings and a cream ribbed turtleneck. A tiger-stripe faux-fur collar frames her shoulder. Her expression is serious, with her gaze slightly off to the side. Bright, sunlit sky and a distant hillside behind her. Warm light with film grain, a palette of cream, camel, and gold with deep black accents. Textured and warm, in the style of a film-shot winter editorial.",
+      "notes": "- The fur hood and tiger-stripe collar are the texture focus.\n- Keep the film grain to match the vintage feel.",
+      "style": "Warm, textured, sunlit",
+      "tags": "#winter #texture #film #portrait",
+      "page": 34
+    },
+    {
+      "number": 29,
+      "title": "Red Folk Bodice with a Stork",
+      "reference": "24537.jpg",
+      "prompt": "An original young woman with copper-red hair in a loose braid and pale blue eyes stands in a wheat field beside a white stork with wings half-open. She wears a red and cream embroidered bodice with layered pearl and beaded necklaces, a tan linen blouse with gathered puff sleeves, and a striped red skirt. A woven basket sits at her side. Her expression is steady and direct. Soft, late-afternoon sun under a blue sky. Warm palette of wheat gold, cream, and crimson. Rustic and cinematic, in the style of a pastoral fashion editorial.",
+      "notes": "- The stork and wheat field set the story; keep them in the frame.\n- Use 'wide shot' to show more of the landscape.",
+      "style": "Rustic, cinematic, warm",
+      "tags": "#folk #pastoral #cinematic #portrait",
+      "page": 35
+    },
+    {
+      "number": 30,
+      "title": "Off-Shoulder Ribbon & Misty Landscape",
+      "reference": "24548.jpg",
+      "prompt": "An original young woman with long dark hair and a ribbon tied at the back of her head poses in a black-and-white portrait. She wears a white off-shoulder blouse with voluminous puff sleeves and a small pearl earring. Her expression is calm and composed. A soft gray, misty landscape painted on the backdrop, with gentle studio lighting. Monochrome palette of white, gray, and black. Elegant and classic, in the style of a vintage studio portrait.",
+      "notes": "- The ribbon and off-shoulder sleeves are the defining details.\n- Describe the backdrop as 'soft, painted mist' for a more ethereal feel.",
+      "style": "Elegant, soft, classic",
+      "tags": "#black-and-white #studio #elegant #portrait",
+      "page": 36
+    },
+    {
+      "number": 31,
+      "title": "Sun-Washed Blonde in Black",
+      "reference": "24535.jpg",
+      "prompt": "An original young woman with long, straight blonde hair parted at the side and fine loose strands catching the light looks directly at the camera. She wears a fitted black mock-neck top with a subtle diagonal seam. Her skin is natural, with light freckles and a soft pink lip. Bright, overexposed sunlight behind her, with blurred green foliage. Soft, natural palette of ivory, gold, and deep black. Natural and direct, in the style of a 35mm film portrait.",
+      "notes": "- The overexposed daylight and fine hair strands create the soft film look.\n- Use 'natural skin texture' to keep the realism.",
+      "style": "Natural, soft, direct",
+      "tags": "#outdoor #film #minimal #portrait",
+      "page": 37
+    },
+    {
+      "number": 32,
+      "title": "Pearls & Red Embroidery with a Stork",
+      "reference": "24536.jpg",
+      "prompt": "An original young woman with copper-red braids and light freckles stands in a golden wheat field beside a white stork with a red beak. She wears a red and white embroidered high-necked dress with a lace collar, several strands of pearls, and a brown leather strap across her chest. Small silver drop earrings hang from her ears. Her expression is calm and direct. Soft daylight, a palette of wheat gold, crimson, cream, and white. Striking and poised, in the style of a pastoral editorial.",
+      "notes": "- The stork's red beak and the pearl strands are the focal details.\n- Adjust 'blue wildflowers' in the background for a different season.",
+      "style": "Striking, rustic, poised",
+      "tags": "#folk #portrait #pastoral #editorial",
+      "page": 38
+    },
+    {
+      "number": 33,
+      "title": "Coin Headdress & Silver Drops",
+      "reference": "24533.jpg",
+      "prompt": "An original young woman wears a silver headdress with coin-like plaques and heart-shaped pendants that fall at her temples. Red coral beads and silver drop earrings add color. Her hair is pulled back, and her expression is calm, with a slight smile. A close-up portrait against a warm neutral backdrop, with soft directional light. Palette of silver, coral red, and warm beige. Ornate and graceful, in the style of a traditional-inspired jewelry editorial.",
+      "notes": "- The headdress is the subject; describe its plaques and pendants.\n- Add 'extreme close-up' to fill the frame with the jewelry.",
+      "style": "Ornate, graceful, intimate",
+      "tags": "#portrait #jewelry #beauty #close-up",
+      "page": 39
+    },
+    {
+      "number": 34,
+      "title": "Warm Glow & Hands at the Chin",
+      "reference": "24546.jpg",
+      "prompt": "An original young woman with dark hair in a loose low bun and soft face-framing strands rests her chin on her folded hands. She wears a white oversized top with billowing sleeves and a brown strap at the shoulder. Her gaze is direct, with a subtle, sultry expression. Warm amber light falls across her face against a soft, blurred background. Palette of amber, cream, and deep brown. Intimate and warm, in the style of a beauty campaign.",
+      "notes": "- The hand position and warm light create the intimate tone.\n- Add 'soft focus' for a dreamy effect.",
+      "style": "Warm, intimate, sultry",
+      "tags": "#portrait #warm #beauty #studio",
+      "page": 40
+    },
+    {
+      "number": 35,
+      "title": "Clean Nordic Tee & Blue Eyes",
+      "reference": "24534.jpg",
+      "prompt": "An original young woman with long, straight blonde hair swept to one side looks over her shoulder with striking blue eyes and soft rosy lips. She wears a white short-sleeve V-neck tee. Her expression is calm and focused against a pale blue-gray seamless backdrop. Soft, even studio light with minimal shadow. Palette of pale blue, ivory, and soft rose. Clean and understated, in the style of a Nordic minimalist catalog.",
+      "notes": "- The pale palette and simple tee keep the focus on the eyes.\n- Add 'natural skin texture' to avoid a plastic look.",
+      "style": "Clean, understated, airy",
+      "tags": "#portrait #minimal #studio #beauty",
+      "page": 41
+    },
+    {
+      "number": 36,
+      "title": "Burgundy Velvet & Gold Drops",
+      "reference": "24373.jpg",
+      "prompt": "An original young woman with long, dark brown wavy hair parted at the center wears gold drop earrings and a deep burgundy velvet top with a V-neck. Her expression is calm and composed, with a neutral pink lip and subtle, defined brows. A soft gray studio backdrop with gentle light. Palette of burgundy, gold, and warm neutral skin tones. Refined and sleek, in the style of a runway beauty editorial.",
+      "notes": "- The burgundy velvet and gold drops are the color accents.\n- Use 'close-up, head and shoulders' for a beauty-focused crop.",
+      "style": "Refined, sleek, understated",
+      "tags": "#portrait #runway #beauty #minimal",
+      "page": 42
+    },
+    {
+      "number": 37,
+      "title": "Black Tweed Set & Gold Chains",
+      "reference": "24375.jpg",
+      "prompt": "An original young woman with long, glossy, wavy black hair and layered gold chain necklaces stands in a full-length portrait. She wears a black tweed cropped jacket with gold-trimmed edges and jeweled buttons, over a matching black tweed A-line midi skirt with patch pockets. She carries a small black leather bag and wears black slingback heels. Her expression is calm and composed. A pale gray studio backdrop with a dark gray floor and soft even light. Palette of black, charcoal, and gold. Elegant and classic, in the style of a luxury tweed lookbook.",
+      "notes": "- The gold-trimmed tweed is the signature texture.\n- Add 'full-length, head to toe' to keep the heels in frame.",
+      "style": "Elegant, classic, chic",
+      "tags": "#fashion #tweed #studio #full-length",
+      "page": 43
+    },
+    {
+      "number": 38,
+      "title": "Butter Yellow Tee & Plaid Mini",
+      "reference": "24377.jpg",
+      "prompt": "An original young woman with long, straight copper-red hair and freckles stands against a soft gray wall. She wears a butter-yellow long-sleeve fitted top with a scoop neck and a small script graphic, plus a thin silver pendant necklace. Below, a brown houndstooth pleated mini skirt with a brown leather belt, and tall taupe knee-high socks. Her expression is calm and direct. Soft, even daylight, a palette of butter yellow, warm brown, and camel. Playful and preppy, in the style of a Y2K-inspired fashion catalog.",
+      "notes": "- The yellow top and houndstooth skirt create the color contrast.\n- Use 'full-length' to show the socks and skirt together.",
+      "style": "Playful, preppy, bright",
+      "tags": "#fashion #preppy #y2k #studio",
+      "page": 44
+    },
+    {
+      "number": 39,
+      "title": "Blue Hair & Plaid Skirt Street Style",
+      "reference": "24385.jpg",
+      "prompt": "An original young woman with long, bright blue hair falls past her shoulders, wearing a fitted mustard-yellow graphic tee with sleeves cut short. Layered chains and a studded belt sit at her waist over a blue plaid pleated skirt with lace trim. A dark backpack rests on one shoulder. Her expression is serious, her gaze turned slightly to the side. Blurred crowd and green trees in the background, natural daylight. Palette of cobalt blue, mustard, and navy. Bold and candid, in the style of a 2000s alternative street-style photo.",
+      "notes": "- The blue hair and mustard tee are the strongest color cues.\n- Keep the blurred crowd for a candid, on-location feel.",
+      "style": "Bold, edgy, candid",
+      "tags": "#street-style #alt #y2k #candid",
+      "page": 45
+    },
+    {
+      "number": 40,
+      "title": "Camel Suede Trench with Cape Collar",
+      "reference": "24386.jpg",
+      "prompt": "An original young woman with long, wind-swept light brown hair walks a runway. She wears a long camel suede trench coat with a deep cape collar fastened with a buckle clasp, a self-tie belt at the waist, and cuffed sleeves. Brown knee-high boots show at the hem. Her expression is calm and direct. A dark wooden wall behind her, a purple carpet runway, and warm stage lighting. Palette of camel, chocolate, and violet. Elegant and dramatic, in the style of a fall runway editorial.",
+      "notes": "- The cape collar and belt are the defining structure.\n- Add 'mid-stride' to capture the walking motion.",
+      "style": "Elegant, dramatic, structured",
+      "tags": "#runway #outerwear #fashion #editorial",
+      "page": 46
+    },
+    {
+      "number": 41,
+      "title": "Navy Lace-Trim Tiered Dress",
+      "reference": "24380.jpg",
+      "prompt": "An original young woman with long, tousled brown hair and wispy bangs stands against a plain white backdrop with her arms crossed loosely. She wears a fitted navy long-sleeve knit top with a lace-trimmed scoop neckline and a row of small buttons at the center, over a tiered navy ruffled mini skirt. Her expression is calm and slightly guarded. Soft, even studio light with minimal shadow. Palette of navy, white, and muted charcoal. Sweet and romantic, in the style of a coquette-inspired online clothing catalog.",
+      "notes": "- The tiered ruffles and lace neckline are the signature details.\n- Add 'soft film grain' for a more intimate feel.",
+      "style": "Sweet, romantic, layered",
+      "tags": "#dress #coquette #studio #soft",
+      "page": 47
+    },
+    {
+      "number": 42,
+      "title": "Fur-Collar Beret & Dark Turtleneck",
+      "reference": "24381.jpg",
+      "prompt": "An original young woman with shoulder-length straight blonde hair wears a black sequined beret and a warm taupe ribbed turtleneck. A black fur-collared coat frames her shoulders, and small drop earrings catch the light. Her expression is serious, with her gaze looking off into the distance. A blurred winter street with passersby in the background, bright sunlight. Palette of black, taupe, and soft cream. Classic and moody, in the style of a 1990s film still.",
+      "notes": "- The sequined beret and taupe turtleneck are the key styling.\n- Add 'shallow depth of field' to keep the crowd soft.",
+      "style": "Classic, moody, wintry",
+      "tags": "#portrait #vintage #street-style #winter",
+      "page": 48
+    },
+    {
+      "number": 43,
+      "title": "Satin Oxblood Top & Low Bun",
+      "reference": "24387.jpg",
+      "prompt": "An original young woman with dark brown hair in a neat high bun, with face-framing strands, smiles softly with glossy mauve lips. She wears a deep oxblood satin high-neck top with full sleeves. Behind her, blurred warm lights and a dark floral arrangement fill the space. Her expression is relaxed and warm. Soft, warm evening light, a palette of oxblood, deep brown, and warm amber highlights. Polished and understated, in the style of an event candid portrait.",
+      "notes": "- The satin texture and oxblood color are the focus.\n- Keep the blurred lights for a warm, evening feel.",
+      "style": "Warm, polished, understated",
+      "tags": "#portrait #minimal #evening #candid",
+      "page": 49
+    },
+    {
+      "number": 44,
+      "title": "Pink Top & Camo Knit Skirt",
+      "reference": "24384.jpg",
+      "prompt": "An original young woman with long, wavy light brown hair in a half-up style wears a dusty pink long-sleeve top with thin tonal seams and a short cream sweater skirt with a cloud-like pattern. Cream ribbed tights and gray chunky leg warmers. A gray puffer bag hangs from one shoulder, and gray chunky sneakers complete the look. Her expression is calm. Plain white studio backdrop, even light. Palette of dusty pink, gray, and cream. Playful and cozy, in the style of a Y2K-inspired lookbook.",
+      "notes": "- The leg warmers and cloud-print skirt set the playful tone.\n- Use 'full-length' to show the leg warmers and sneakers.",
+      "style": "Soft, playful, cozy",
+      "tags": "#fashion #y2k #knitwear #studio",
+      "page": 50
+    },
+    {
+      "number": 45,
+      "title": "Cream Knit & Brown Pleated Skirt",
+      "reference": "24382.jpg",
+      "prompt": "An original young woman with long, dark wavy hair and a soft smile stands on a warm-toned street. She wears a cream knit top with a high neck and fitted sleeves, paired with a brown pleated midi skirt with a wide waistband. A pendant necklace sits at her throat, and she carries a taupe leather tote at her side. Warm, natural light, a palette of cream, chocolate, and taupe. Polished and cozy, in the style of an autumn street-style look book.",
+      "notes": "- The pleated skirt and cream top create a clean color contrast.\n- Describe the tote as 'structured leather' for a more polished look.",
+      "style": "Polished, cozy, timeless",
+      "tags": "#fashion #classic #studio #knitwear",
+      "page": 51
+    },
+    {
+      "number": 46,
+      "title": "Gray Fur Vest & Leather Mini",
+      "reference": "24388.jpg",
+      "prompt": "An original young woman with long, sleek, light blonde hair walks a runway with a slight wind lift. She wears a plush gray faux-fur vest with studded edges over a fitted black knit top, and a black leather mini skirt with white piping. Sheer black tights and black heels complete the look. Her expression is calm and direct. A dark wooden wall behind her, a purple carpet runway, and warm stage light. Palette of gray, black, and violet. Edgy and glamorous, in the style of a winter runway editorial.",
+      "notes": "- The plush fur vest and studded edges define the look.\n- Add 'mid-stride' for a walking runway shot.",
+      "style": "Edgy, glamorous, bold",
+      "tags": "#runway #fur #leather #fashion",
+      "page": 52
+    },
+    {
+      "number": 47,
+      "title": "Gray Bow Knit & Black Boots",
+      "reference": "24383.jpg",
+      "prompt": "An original young woman with long, dark wavy hair stands in a full-length pose against a pale gray studio backdrop. She wears a gray ribbed knit top with an oversized tied bow at the neck and buttons down the side, layered over a black gathered mini skirt. Sheer gray tights and cream ribbed socks show above tall black lace-up combat boots. She holds a black structured handbag with a small red charm. Her expression is calm and direct. Soft diagonal studio light. Palette of gray, black, and cream. Refined and playful, in the style of a contemporary knitwear catalog.",
+      "notes": "- The oversized tied bow and combat boots are the signature details.\n- Add 'head to toe' to keep the boots in frame.",
+      "style": "Refined, playful, structured",
+      "tags": "#fashion #studio #knitwear #bow",
+      "page": 53
+    },
+    {
+      "number": 48,
+      "title": "Hot Pink Crop Top & Mini Skirt",
+      "reference": "24389.jpg",
+      "prompt": "An original young woman with long, dark brown hair falls past her shoulders, standing outdoors with her arms folded loosely. She wears a fitted hot pink crop top with a one-shoulder neckline and a hot pink satin mini skirt with a quilted cream panel at one side. Her expression is relaxed and confident. A gravel lot, a low building, and partly cloudy blue sky in the background. Bright daylight. Palette of hot pink, cream, and sky blue. Bold and energetic, in the style of a sporty street-style photo.",
+      "notes": "- The hot pink satin and quilted panel are the signature color.\n- Keep the gravel lot for a casual, on-location feel.",
+      "style": "Bold, bright, energetic",
+      "tags": "#fashion #street-style #bold #outdoor",
+      "page": 54
+    },
+    {
+      "number": 49,
+      "title": "Black Collared Dress with Cream Trim",
+      "reference": "24378.jpg",
+      "prompt": "An original young woman with soft, shoulder-length light brown waves sits on a stone ledge in front of a weathered stone wall. She wears a fitted black short-sleeve knit dress with a cream collar, cream placket, and pearl buttons, with cream trim at the cuffs and hem. A simple gold bracelet sits on one wrist. Her expression is calm and composed, looking toward the camera. Soft natural daylight, a palette of black, cream, and warm stone. Refined and classic, in the style of a timeless street portrait.",
+      "notes": "- The cream trim and pearl buttons are the key details.\n- Keep the stone wall for a classic architectural backdrop.",
+      "style": "Refined, classic, composed",
+      "tags": "#portrait #classic #vintage #sitting",
+      "page": 55
+    },
+    {
+      "number": 50,
+      "title": "Studded Leather & Hooded Jacket",
+      "reference": "24392.jpg",
+      "prompt": "An original young woman with long, loose dark brown curls peeks out from a deep gray acid-washed hood. She wears a cropped zip hoodie over a black leather corset, a studded wide belt, and a black leather pleated mini skirt. Studded fingerless gloves and a studded black shoulder bag complete the look. Her expression is serious, with a bold red lip. A city street at night with soft ambient light. Palette of charcoal, black, and silver studs. Edgy and dramatic, in the style of a night-out street-style photo.",
+      "notes": "- The studded belt and gloves are the signature accents.\n- Describe the lighting as 'soft street light' to avoid harsh flash.",
+      "style": "Edgy, dramatic, confident",
+      "tags": "#street-style #alt #punk #evening",
+      "page": 56
+    },
+    {
+      "number": 51,
+      "title": "Blue Satin Halter & Pearls",
+      "reference": "24393.jpg",
+      "prompt": "An original young woman with blonde hair slicked back into a low ponytail, with a pale blue satin ribbon tied around it. She wears a pale blue satin halter top with a printed pattern and a delicate pearl necklace. Gold drop earrings and bright blue eyes. Her expression is calm and composed. A soft blue backdrop with gentle, even lighting. Palette of powder blue, gold, and ivory. Polished and feminine, in the style of a runway beauty close-up.",
+      "notes": "- The satin ribbon and pearl necklace are the defining accents.\n- Use 'extreme close-up' to focus on the hair and earrings.",
+      "style": "Polished, feminine, sleek",
+      "tags": "#portrait #runway #beauty #close-up",
+      "page": 57
+    },
+    {
+      "number": 52,
+      "title": "Black Lace Sleeves & Pale Blue Sky",
+      "reference": "24391.jpg",
+      "prompt": "An original young woman with blonde hair framing her face peeks out through black lace sleeves that rise above her head. She wears a black floral lace top with a soft tied neckline. Her expression is calm and direct, with soft peach lips. A pale blue sky and blurred foliage in the background. Soft natural light. Palette of black, peach, and sky blue. Romantic and dramatic, in the style of a summer lace editorial.",
+      "notes": "- The lace sleeves framing the face are the central composition.\n- Add 'shallow depth of field' to blur the background.",
+      "style": "Romantic, dramatic, editorial",
+      "tags": "#portrait #lace #editorial #outdoor",
+      "page": 58
+    },
+    {
+      "number": 53,
+      "title": "Striped Tank & Denim Lounge",
+      "reference": "24390.jpg",
+      "prompt": "An original young woman with wavy, sun-kissed blonde hair sits on a white couch with her knees drawn up. She wears a red-and-white striped tank top with a small bow detail and light wash straight-leg denim jeans. Red chunky platform sandals complete the look. Her expression is calm, looking straight at the camera. Warm, golden indoor light and a plain beige wall behind her. Palette of cream, denim blue, and cherry red. Relaxed and nostalgic, in the style of a 2000s lifestyle photo.",
+      "notes": "- The red sandals and striped tank create the color accents.\n- Keep the warm light for a sunny, relaxed feel.",
+      "style": "Relaxed, nostalgic, candid",
+      "tags": "#lifestyle #casual #y2k #candid",
+      "page": 59
+    },
+    {
+      "number": 54,
+      "title": "Camel Double-Breasted Runway Coat",
+      "reference": "24376.jpg",
+      "prompt": "An original young woman with long, sleek blonde hair pulled back walks a runway. She wears a camel double-breasted wool coat with gold buttons, a shawl collar with a long matching scarf, and a self-tie belt at the waist. Tall camel suede knee-high boots complete the look. Her expression is calm and direct. A dark wooden backdrop, a violet carpet runway, and warm stage lighting. Palette of camel, gold, and violet. Structured and polished, in the style of a fall runway editorial.",
+      "notes": "- The double-breasted coat and matching scarf define the look.\n- Add 'mid-stride' to capture the walk.",
+      "style": "Structured, polished, warm",
+      "tags": "#runway #outerwear #fashion #editorial",
+      "page": 60
+    },
+    {
+      "number": 55,
+      "title": "Brown Cardigan & Plaid Skirt Parlor",
+      "reference": "24396.jpg",
+      "prompt": "An original young woman with long, straight black hair and a cream knit beret stands in an elegant parlor with cream walls and a fireplace. She wears a brown knit cardigan with a cream peter-pan collar, gold buttons, and a small brooch, paired with a long brown and cream plaid skirt with a tassel hem. She holds a cream structured bag with tan leather handles. A straw boater hat and magazine rest on a nearby armchair. Warm, soft interior light. Palette of chocolate brown, cream, and warm gold. Cozy and classic, in the style of a vintage-inspired fashion editorial.",
+      "notes": "- The cream collar and plaid skirt are the signature details.\n- Add 'full-length' to show the tassel hem.",
+      "style": "Cozy, classic, vintage-inspired",
+      "tags": "#interior #classic #cozy #vintage",
+      "page": 61
+    },
+    {
+      "number": 56,
+      "title": "Black Turtleneck & Pleated Mini",
+      "reference": "24395.jpg",
+      "prompt": "An original young woman with long, straight black hair and bangs, wearing black rectangular glasses, walks a runway. She wears a fitted black ribbed turtleneck with a small red emblem, a black pleated mini skirt with a cream ruffled hem, and sheer black tights. A black structured bag hangs from one shoulder, and she wears black mary-jane heels. Her expression is calm and direct. A saturated blue runway backdrop with soft, even light. Palette of black, cream, and cobalt blue. Sharp and graphic, in the style of a minimalist runway show.",
+      "notes": "- The glasses and cream ruffled hem are the unexpected touches.\n- Keep the blue backdrop for a graphic contrast.",
+      "style": "Sharp, graphic, minimal",
+      "tags": "#runway #minimal #glasses #fashion",
+      "page": 62
+    },
+    {
+      "number": 57,
+      "title": "Blue Lace Blouse & Honey Waves",
+      "reference": "24402.jpg",
+      "prompt": "An original young woman with long, honey-blonde hair falling over one shoulder sits against a deep blue backdrop. She wears a sheer blue blouse with lace-trimmed cuffs and a ruffled placket, and a single silver drop earring. Her expression is calm and direct, with light freckles. Even studio light, a palette of cornflower blue, honey gold, and soft peach skin. Soft and retro, in the style of a late-1990s editorial portrait.",
+      "notes": "- The sheer lace blouse and honey hair are the key textures.\n- Add 'film grain' to match the vintage print look.",
+      "style": "Soft, retro, editorial",
+      "tags": "#portrait #retro #studio #textured",
+      "page": 63
+    },
+    {
+      "number": 58,
+      "title": "Off-Shoulder Gown in the Garden",
+      "reference": "24408.jpg",
+      "prompt": "An original young woman with long, straight golden-blonde hair stands on a garden path in front of a stone colonnade. She wears a black off-shoulder gown with a deep V neckline and a structured bodice, a layered gold choker, and large gold drop earrings. Her expression is calm and direct. Soft, late-afternoon daylight, a palette of black, gold, and warm stone. Classic and glamorous, in the style of a 1990s couture show photograph.",
+      "notes": "- The off-shoulder neckline and gold jewelry define the look.\n- Add 'mid-stride' for a runway walk.",
+      "style": "Classic, glamorous, timeless",
+      "tags": "#runway #classic #jewelry #outdoor",
+      "page": 64
+    },
+    {
+      "number": 59,
+      "title": "Mint Ribbon Uniform Costume",
+      "reference": "24401.jpg",
+      "prompt": "An original young woman with long, straight black hair and wispy bangs smiles brightly with her head tilted. She wears a white and mint ruffled costume with ribbon ties at the shoulders and waist, a mint cap with white cross details and lace trim, and a mint choker. Her hands are clasped near her chest. A pale wood-panel backdrop with soft, even light. Palette of mint, white, and soft pink skin. Sweet and playful, in the style of a cheerful costume-cosplay photo.",
+      "notes": "- The mint ribbons and cap are the signature details.\n- Keep the warm, open smile for a friendly tone.",
+      "style": "Sweet, playful, bright",
+      "tags": "#costume #playful #sweet #portrait",
+      "page": 65
+    },
+    {
+      "number": 60,
+      "title": "Pearl Drop & Printed Blouse",
+      "reference": "24413.jpg",
+      "prompt": "An original young woman with copper-red hair swept back from her face wears a single pearl drop earring and a black blouse with a small white printed motif. Her expression is calm, with soft peach lips and a direct gaze. Soft, even studio light against a plain pale backdrop. Palette of black, ivory, and copper. Romantic and polished, in the style of a runway beauty editorial.",
+      "notes": "- The copper hair against black is the strongest contrast.\n- Use 'close-up, head and shoulders' for a tighter crop.",
+      "style": "Romantic, polished, soft",
+      "tags": "#portrait #runway #soft #editorial",
+      "page": 66
+    },
+    {
+      "number": 61,
+      "title": "Cream Shearling Coat by the Woodpile",
+      "reference": "24407.jpg",
+      "prompt": "An original young woman sits in a wooden lounge chair beside a stacked woodpile and a weathered plank wall, with light snow on the ground. She wears a long, cream wool belted coat with a high funnel collar, a cream knit headband with star earrings, and cream knit gloves. A soft white fur throw drapes the chair. Her expression is calm and direct. Cool, overcast daylight. Palette of cream, weathered brown, and icy blue. Soft and elegant, in the style of a winter lookbook.",
+      "notes": "- The cream coat and fur throw are the textures to highlight.\n- Keep the woodpile and snow for a rustic winter setting.",
+      "style": "Soft, elegant, wintry",
+      "tags": "#winter #elegant #outdoor #portrait",
+      "page": 67
+    },
+    {
+      "number": 62,
+      "title": "Cream Turtleneck at a Teahouse Table",
+      "reference": "24412.jpg",
+      "prompt": "An original young woman with long, soft brown hair sits at a wooden table in a traditional teahouse, holding a glass water bottle. She wears a cream ribbed turtleneck and a dainty gold pendant necklace. Bowls of noodles and cups of tea sit in front of her. Her expression is relaxed, with a gentle smile. Warm, late-afternoon light through wooden lattice windows. Palette of cream, honey wood, and soft blue. Warm and cozy, in the style of a casual travel lifestyle photo.",
+      "notes": "- The warm light through the lattice windows sets the mood.\n- Keep the tea and noodles for a sense of place.",
+      "style": "Warm, cozy, candid",
+      "tags": "#lifestyle #cozy #candid #interior",
+      "page": 68
+    },
+    {
+      "number": 63,
+      "title": "Lilac Ribbed Top & Patterned Trousers",
+      "reference": "24415.jpg",
+      "prompt": "An original young woman with long, sleek brown hair pulled back holds a patterned mug while seated cross-legged on a sage floral sofa. She wears a lavender ribbed turtleneck, layered silver chains, and gold hoop earrings. Her patterned purple-and-brown knit trousers and chunky pale sneakers complete the look. Soft morning light from a sheer curtain. Palette of lilac, sage, and warm gold. Cozy and nostalgic, in the style of a 1990s film still.",
+      "notes": "- The layered chains and patterned trousers are the signature styling.\n- Use 'soft film grain' for a vintage feel.",
+      "style": "Cozy, nostalgic, eclectic",
+      "tags": "#vintage #cozy #layered #portrait",
+      "page": 69
+    },
+    {
+      "number": 64,
+      "title": "White Pleated Collared Mini Dress",
+      "reference": "24411.jpg",
+      "prompt": "An original young woman with shoulder-length light brown hair stands on a green lawn. She wears a fitted sleeveless white collared dress with a deep V neckline and a pleated mini skirt with a brown leather belt. She carries a gray quilted shoulder bag on a tan strap. Her expression is calm, looking off to the side. Soft, natural daylight. Palette of white, green, and warm brown. Fresh and preppy, in the style of a summer street-style editorial.",
+      "notes": "- The pleated skirt and collared neckline are the key details.\n- Add 'full-length' to show the belt and skirt hem.",
+      "style": "Preppy, fresh, sporty",
+      "tags": "#fashion #preppy #outdoor #summer",
+      "page": 70
+    },
+    {
+      "number": 65,
+      "title": "Silver Chains & Black Blazer",
+      "reference": "24414.jpg",
+      "prompt": "An original young woman with a high, sleek black ponytail wears a black blazer over a sheer black lace bralette. She has layered silver chain necklaces, a small silver hoop earring, and bold red lips. Her gaze is directed down and to the side. A deep blue studio backdrop with soft directional light. Palette of cobalt, black, and silver. Sharp and moody, in the style of a cool-toned fashion editorial.",
+      "notes": "- The layered silver chains and blue backdrop create the mood.\n- Add 'dramatic side lighting' to sharpen the shadows.",
+      "style": "Sharp, moody, cool",
+      "tags": "#editorial #studio #jewelry #moody",
+      "page": 71
+    },
+    {
+      "number": 66,
+      "title": "Close-Up at the Teahouse Table",
+      "reference": "24319.jpg",
+      "prompt": "An original young woman with long, soft brown hair and a gentle smile holds a glass water bottle close to the camera. She wears a cream ribbed turtleneck with a dainty gold pendant. Behind her, dark wooden beams and warm, blurred interior light. Her expression is relaxed and warm. Palette of cream, honey wood, and soft amber. Warm and intimate, in the style of a candid lifestyle close-up.",
+      "notes": "- This is a tighter crop of the teahouse photo; keep the shallow depth of field.\n- Add 'shallow depth of field' to blur the background.",
+      "style": "Warm, intimate, candid",
+      "tags": "#lifestyle #close-up #candid #warm",
+      "page": 72
+    },
+    {
+      "number": 67,
+      "title": "Fur Capelet & Snowy Forest",
+      "reference": "24404.jpg",
+      "prompt": "An original young woman with long, fair hair under a deep fur-lined hood looks up and to the side. She wears a fur capelet with a brown ribbon tie at the throat over a cream wool coat. Tall snow-covered evergreens rise behind her. Her expression is calm and dreamy. Soft, diffused winter light. Palette of cream, taupe, and snowy white. Wintry and romantic, in the style of a fairytale winter editorial.",
+      "notes": "- The fur capelet and ribbon tie are the signature details.\n- Keep the snowy trees for a storybook backdrop.",
+      "style": "Wintry, romantic, storybook",
+      "tags": "#winter #fairytale #outdoor #portrait",
+      "page": 73
+    },
+    {
+      "number": 68,
+      "title": "Y2K Crop Top & Studded Cargo",
+      "reference": "24403.jpg",
+      "prompt": "An original young woman with long, dark brown hair stands with one hand in her pocket against a gray studio backdrop. She wears a dark brown fitted crop top, layered silver chains, and a wide studded belt with a pendant. Dark cargo trousers with drawstring pockets and silver bangles complete the look. Her expression is confident, with a slight smirk. Soft, even studio light. Palette of chocolate, charcoal gray, and silver. Playful and edgy, in the style of a Y2K streetwear lookbook.",
+      "notes": "- The studded belt and cargo trousers are the defining pieces.\n- Add 'full-length' to show the cargo pocket details.",
+      "style": "Playful, edgy, Y2K",
+      "tags": "#y2k #streetwear #edgy #studio",
+      "page": 74
+    },
+    {
+      "number": 69,
+      "title": "Black Sleeveless Dress by the Lanterns",
+      "reference": "24318.jpg",
+      "prompt": "An original young woman with long, straight black hair and blunt bangs reaches up to a red paper lantern. She wears a fitted black sleeveless mock-neck dress with sheer panels at the waist and a silver bangle. Behind her, red lanterns hang above old brick walls and stone steps. Her expression is calm, looking back over her shoulder. Warm, late-afternoon light. Palette of black, red, and weathered brick. Bold and urban, in the style of a travel street-style photo.",
+      "notes": "- The red lanterns and brick walls set the location.\n- Keep the stone steps in the background for depth.",
+      "style": "Bold, urban, candid",
+      "tags": "#street-style #travel #urban #candid",
+      "page": 75
+    },
+    {
+      "number": 70,
+      "title": "Cream Wool Coat & Fur Hat in Snow",
+      "reference": "24410.jpg",
+      "prompt": "An original young woman with soft, wavy light brown hair stands in a snowy garden. She wears a long, fit-and-flare cream wool coat with a brown fur collar and matching brown fur cuffs, and a brown fur pillbox hat. Cream knit gloves rest together at her waist. Her expression is calm and composed. Overcast winter light and a bare tree in the background. Palette of cream, chocolate brown, and snow white. Classic and vintage, in the style of a mid-century winter fashion plate.",
+      "notes": "- The brown fur collar and cuffs against the cream coat are the defining contrast.\n- Use 'full-length' to show the coat's flared hem.",
+      "style": "Classic, vintage, wintry",
+      "tags": "#vintage #winter #classic #portrait",
+      "page": 76
+    },
+    {
+      "number": 71,
+      "title": "Black Blazer & Sheer Mock Neck",
+      "reference": "24398.jpg",
+      "prompt": "An original young woman with dark brown hair in a low, loose updo with soft strands at her temples stands against a pale white backdrop. She wears a black tailored blazer with wide notched lapels over a sheer black mock-neck top. Her expression is calm and direct, with soft pink lips. Soft, even studio light. Palette of black, ivory, and soft rose. Sharp and modern, in the style of a minimalist tailoring campaign.",
+      "notes": "- The sheer mock neck against the tailored blazer is the key detail.\n- Describe the hair as 'loose low updo' for a relaxed take.",
+      "style": "Sharp, modern, minimal",
+      "tags": "#portrait #minimal #tailored #studio",
+      "page": 77
+    },
+    {
+      "number": 72,
+      "title": "Blush Belted Coat & Plaid Mini",
+      "reference": "24400.jpg",
+      "prompt": "An original young woman with long, soft light brown hair falls past her shoulders and smiles gently. She wears a blush-pink wool coat with a belted waist, oversized sleeves, and a tartan plaid collar. Beneath it, a pleated tartan mini skirt and cream cable-knit tights. Her expression is warm and relaxed. A pale plaster backdrop with soft, even light. Palette of blush, camel, and cream. Sweet and layered, in the style of a winter boutique lookbook.",
+      "notes": "- The blush coat and tartan collar create the soft contrast.\n- Keep the cable-knit tights for a cozy winter layer.",
+      "style": "Sweet, soft, layered",
+      "tags": "#layered #sweet #winter #studio",
+      "page": 78
+    },
+    {
+      "number": 73,
+      "title": "Smooth Center Part & Tweed Collar",
+      "reference": "24405.jpg",
+      "prompt": "An original young woman with long, sleek ash-brown hair parted at the center, with bright blue-gray eyes and soft pink lips. A tweed-textured dark collar peeks into the frame at the bottom. Her expression is calm and direct. A soft, warm-gray blurred backdrop with natural light. Palette of ash brown, soft gray, and muted rose. Clean and sleek, in the style of a runway beauty close-up.",
+      "notes": "- The sleek center part and clean skin are the focus.\n- Use 'extreme close-up' to emphasize the hair texture.",
+      "style": "Clean, sleek, runway",
+      "tags": "#beauty #close-up #runway #minimal",
+      "page": 79
+    },
+    {
+      "number": 74,
+      "title": "Long Waves & Beige Satin Top",
+      "reference": "24399.jpg",
+      "prompt": "An original young woman with long, loose brown waves falling past her shoulders gives a soft, closed-mouth smile. She wears a beige satin strapless top. Her skin is fresh and natural, with light brows and warm rose lips. A pale, seamless white backdrop with soft, even light. Palette of warm brown, beige, and soft ivory. Natural and polished, in the style of a hair care campaign.",
+      "notes": "- The long waves and the satin top define the look.\n- Describe the smile as 'soft, closed-mouth' to keep it subtle.",
+      "style": "Natural, polished, soft",
+      "tags": "#portrait #natural #studio #beauty",
+      "page": 80
+    },
+    {
+      "number": 75,
+      "title": "Pink Crop Top & Quilted Skirt",
+      "reference": "24317.jpg",
+      "prompt": "An original young woman with long, dark brown hair arms herself with a cross-armed pose in a gravel lot. She wears a hot pink one-shoulder crop top and a hot pink satin mini skirt with a quilted cream panel. Her expression is calm and friendly. Bright, sunny daylight with blue sky and a low building behind her. Palette of hot pink, cream, and sky blue. Bold and sporty, in the style of a summer street-style photo.",
+      "notes": "- This is a near-duplicate of the pink set in section 48; keep only one if you don't need both.\n- Add 'shallow depth of field' to separate her from the lot.",
+      "style": "Bold, sporty, sunny",
+      "tags": "#street-style #sporty #sunny #outdoor",
+      "page": 81
+    },
+    {
+      "number": 76,
+      "title": "Black Dress by the Lanterns, Looking Back",
+      "reference": "24409.jpg",
+      "prompt": "An original young woman with long, straight black hair and blunt bangs looks back over one shoulder beside a red paper lantern. She wears a fitted black sleeveless mock-neck dress with sheer panels at the waist, and a silver bangle. Red lanterns, weathered brick, and stone steps fill the background. Her expression is calm and direct. Warm, late-afternoon light. Palette of black, red, and brick tones. Bold and urban, in the style of a travel street-style photo.",
+      "notes": "- This is a near-duplicate of section 69; keep only one if you don't need both.\n- Use 'warm late-afternoon light' for a glowing atmosphere.",
+      "style": "Bold, urban, candid",
+      "tags": "#street-style #travel #urban #candid",
+      "page": 82
+    },
+    {
+      "number": 77,
+      "title": "Black Lace Knit & Plaid Mini",
+      "reference": "24969.jpg",
+      "prompt": "An original young woman with long, wavy black hair stands against a warm off-white backdrop. She wears a black ribbed knit long-sleeve top with a sheer lace yoke and a lace neck tie, layered over a low-rise black belt with a silver western buckle. Below, a dark green and navy plaid pleated mini skirt with sheer black tulle trim. Her expression is calm and direct. Soft, even studio light. Palette of black, forest green, and soft ivory. Dark and romantic, in the style of a grunge-inspired knitwear lookbook.",
+      "notes": "- The lace yoke and tulle hem are the signature layers.\n- Add 'full-length' to show the boots.",
+      "style": "Dark, romantic, layered",
+      "tags": "#fashion #grunge #knitwear #studio",
+      "page": 83
+    },
+    {
+      "number": 78,
+      "title": "Floral Sheer Blouse & Flare Jeans",
+      "reference": "24982.jpg",
+      "prompt": "An original young woman with long, straight black hair walks along a wet stone path beside a low hedge. She wears a sheer amber floral blouse with flared sleeves, a tie front, and a white cami underneath. A silver conchos belt cinches her waist. Light-wash flared jeans complete the look. Her expression is calm, with her gaze to the side. Soft autumn daylight, a palette of amber, rust, and pale denim. Earthy and relaxed, in the style of an autumn street-style editorial.",
+      "notes": "- The sheer floral blouse and flared jeans are the defining silhouette.\n- Keep the wet path and hedge for an outdoor autumn setting.",
+      "style": "Earthy, flowing, relaxed",
+      "tags": "#outdoor #autumn #street-style #candid",
+      "page": 84
+    },
+    {
+      "number": 79,
+      "title": "Reindeer Cardigan by the Window",
+      "reference": "24983.jpg",
+      "prompt": "An original young woman with long, wavy light brown hair and thin round glasses sits on a window ledge, holding a small ginger kitten. She wears a brown and cream reindeer-pattern knit cardigan over a charcoal turtleneck, with a burgundy plaid skirt. Her expression is thoughtful, looking off to the side. Soft, diffused window light, a palette of chocolate, cream, and burgundy. Cozy and nostalgic, in the style of a winter knitwear lookbook.",
+      "notes": "- The reindeer knit pattern and kitten are the focal points.\n- Keep the window light for a soft, cozy glow.",
+      "style": "Cozy, nostalgic, soft",
+      "tags": "#cozy #winter #lifestyle #portrait",
+      "page": 85
+    },
+    {
+      "number": 80,
+      "title": "Argyle Cape Cardigan & Newsboy Cap",
+      "reference": "24981.jpg",
+      "prompt": "An original young woman with long, dark hair wears a black newsboy cap and a gray button-front knit top with a cropped argyle cape collar. She wears low-rise dark wash jeans and a slim leather belt with a square gold buckle. A black jacket hangs over one arm. Her expression is calm and direct. A pink floral wallpaper backdrop and a wooden stool, with warm soft light. Palette of gray, black, and blush pink. Preppy and vintage, in the style of a retro knitwear editorial.",
+      "notes": "- The argyle cape and cap are the signature styling.\n- Keep the floral wallpaper for a vintage interior mood.",
+      "style": "Preppy, vintage, playful",
+      "tags": "#vintage #preppy #studio #knitwear",
+      "page": 86
+    },
+    {
+      "number": 81,
+      "title": "Sheer Black Top & Red Mini",
+      "reference": "24970.jpg",
+      "prompt": "An original young woman with long, straight brown hair stands against a pale gray seamless backdrop. She wears a sheer black long-sleeve mesh top with a keyhole neckline and small black rose appliqués, layered over a black bralette. Below, a red mini skirt with a rose appliqué and a small embroidered logo. Tall black buckled biker boots complete the look. Her expression is calm and direct. Soft, even studio light. Palette of black, red, and pale gray. Bold and sleek, in the style of a minimal streetwear catalog.",
+      "notes": "- The red mini and buckled boots create the strongest contrast.\n- Keep the seamless backdrop for a clean catalog look.",
+      "style": "Bold, minimal, sleek",
+      "tags": "#fashion #studio #bold #minimal",
+      "page": 87
+    },
+    {
+      "number": 82,
+      "title": "Dewy Close-Up Beauty Portrait",
+      "reference": "24976.jpg",
+      "prompt": "An original young woman with dark hair pulled back at the sides looks directly at the camera. She has dewy, glowing skin, soft pink blush on her cheeks, and a glossy, muted rose lip. Her expression is calm and neutral. A pale, cool-toned backdrop with soft, even light. Palette of ivory, rose, and soft gray. Soft and minimal, in the style of a skincare beauty close-up.",
+      "notes": "- The dewy finish and soft blush are the focus.\n- Use 'natural skin texture' to avoid an overly smooth look.",
+      "style": "Soft, dewy, minimal",
+      "tags": "#beauty #close-up #studio #minimal",
+      "page": 88
+    },
+    {
+      "number": 83,
+      "title": "Blue Runway Coat & Striped Socks",
+      "reference": "24984.jpg",
+      "prompt": "An original young woman with long, tousled brown hair walks a runway in an oversized powder blue wool coat with toggle fastenings and large patch pockets. Beneath it, a dark brown pleated mini skirt with a textured knit overlay, sheer brown tights, and pale blue ribbed socks. She wears black pointed loafers with silver buckles. Her expression is calm and direct. A pale stone runway with warm wooden walls behind. Palette of powder blue, chocolate, and warm stone. Structured and cool, in the style of a winter runway editorial.",
+      "notes": "- The powder blue coat and striped socks are the color anchors.\n- Add 'mid-stride' to capture the walk.",
+      "style": "Structured, cool, refined",
+      "tags": "#runway #outerwear #winter #editorial",
+      "page": 89
+    },
+    {
+      "number": 84,
+      "title": "Gray Pleated Skirt & Charm Bag Street",
+      "reference": "24966.jpg",
+      "prompt": "An original young woman with long, dark wavy hair stands on a cobblestone street outside a café with flower boxes. She wears a gray cardigan with a white collar and a pale gray bow at the neck, with a black pleated mini skirt and tall black platform knee-high boots. A black shoulder bag carries three plush bear charms. Gold drop earrings and a gold necklace. Her expression is warm, with a soft smile. Bright, warm daylight, a palette of charcoal, white, and black. Playful and polished, in the style of a European street-style photo.",
+      "notes": "- The plush bear charms and bow collar are the playful details.\n- Keep the café and cobblestones for a Parisian street setting.",
+      "style": "Playful, cute, polished",
+      "tags": "#street-style #cute #urban #candid",
+      "page": 90
+    },
+    {
+      "number": 85,
+      "title": "Brown Leather Vest & Mini Skirt",
+      "reference": "24967.jpg",
+      "prompt": "An original young woman with long, straight black hair and blunt bangs stands in a full-length pose against a charcoal gray backdrop. She wears a cropped brown leather vest with covered buttons over a black ribbed turtleneck, with a matching brown leather mini skirt and a gold square belt buckle. Sheer black tights and tall brown pointed-toe leather boots. Her expression is calm and direct. Even studio light with soft shadow. Palette of cognac brown, charcoal, and black. Sleek and tailored, in the style of a fall fashion lookbook.",
+      "notes": "- The cognac leather and gold buckle are the focal points.\n- Add 'head to toe' to keep the boots in frame.",
+      "style": "Sleek, tailored, bold",
+      "tags": "#fashion #leather #monochrome #studio",
+      "page": 91
+    },
+    {
+      "number": 86,
+      "title": "Red Lace Dress & Rose Sleeves",
+      "reference": "24968.jpg",
+      "prompt": "An original young woman with long, wavy dark hair and a red satin bow in her hair stands by a dark dresser in a cream room with a daisy vase. She wears a black lace mini dress with a flared skirt and red cut-out sleeves trimmed with white flower appliqués, a red rose choker, and a red rose brooch. Red sheer tights and red drop earrings complete the look. Her expression is calm, with her gaze looking off to the side. Soft, warm interior light. Palette of black, red, and cream. Romantic and dramatic, in the style of a Valentine's editorial.",
+      "notes": "- The red cut-out sleeves and rose accents define the look.\n- Keep the room details for a styled, lived-in setting.",
+      "style": "Romantic, dramatic, playful",
+      "tags": "#fashion #romantic #studio #editorial",
+      "page": 92
+    },
+    {
+      "number": 87,
+      "title": "Square-Neck Brown Top & Plaid Mini",
+      "reference": "24975.jpg",
+      "prompt": "An original young woman with long, straight dark hair pulled back at the crown stands with her arms folded against a pale gray backdrop. She wears a brown fitted long-sleeve top with a square neckline and a draped front, paired with a green and cream tartan mini skirt with a cream lace-trimmed underlayer. A pearl necklace with a rosette pendant sits at her throat. Her expression is calm and direct. Soft, even studio light. Palette of chocolate, forest green, and cream. Soft and polished, in the style of a fall fashion lookbook.",
+      "notes": "- The square neckline and tartan skirt are the key silhouette.\n- Describe the rosette pendant to keep the detail consistent.",
+      "style": "Soft, polished, earthy",
+      "tags": "#fashion #autumn #studio #minimal",
+      "page": 93
+    },
+    {
+      "number": 88,
+      "title": "Sleeveless Cable Knit & Shearling Boots",
+      "reference": "24974.jpg",
+      "prompt": "An original young woman with long, straight black hair stands in a full-length pose against a pale studio backdrop. She wears a gray sleeveless mock-neck cable-knit top with a diamond cable pattern and a cropped halter back, paired with a short gray wool mini skirt. Tall dark gray suede boots with plush fur trim and buckle straps complete the look. Her expression is calm and direct. Soft, even studio light. Palette of heathered gray, charcoal, and cream. Sleek and cozy, in the style of a minimalist winter catalog.",
+      "notes": "- The cable knit and fur-trimmed boots are the texture pairing.\n- Add 'head to toe' to keep the boots in frame.",
+      "style": "Sleek, cozy, wintry",
+      "tags": "#winter #minimal #studio #knitwear",
+      "page": 94
+    },
+    {
+      "number": 89,
+      "title": "Gray Cardigan & Polka Dot Skirt",
+      "reference": "24965.jpg",
+      "prompt": "An original young woman with dark hair pulled back at the nape stands in a full-length pose. She wears a fitted gray cardigan with a fitted peplum hem over a pale blue blouse with a ruffled collar and a tied bow at the neck. A pale blue A-line midi skirt with small black dots, a black crossbody bag, and gray knee socks with black buckled loafers complete the look. Her expression is calm and composed. Soft, warm studio light against a beige wall. Palette of gray, powder blue, and black. Soft and polished, in the style of a preppy spring catalog.",
+      "notes": "- The bow collar and polka dot skirt are the signature details.\n- Keep the beige wall for a soft, neutral backdrop.",
+      "style": "Soft, polished, classic",
+      "tags": "#fashion #preppy #studio #cozy",
+      "page": 95
+    },
+    {
+      "number": 90,
+      "title": "Open-Knit Cream Sweater & Suede Shorts",
+      "reference": "24972.jpg",
+      "prompt": "An original young woman with long, wavy black hair walks a runway in a cream open-knit sweater with distressed, frayed sleeves and hem. She wears dark brown suede shorts with a wide tan leather belt, white lace socks, and tall tan suede knee-high boots with lace-up ties. She carries a large dark brown leather tote. Her expression is calm and direct. A pale gray backdrop with a warm brown floor. Palette of cream, chocolate, and tan. Relaxed and textured, in the style of an autumn runway editorial.",
+      "notes": "- The frayed knit and lace socks define the texture.\n- Add 'mid-stride' for the walking motion.",
+      "style": "Relaxed, textured, editorial",
+      "tags": "#fashion #runway #textured #studio",
+      "page": 96
+    },
+    {
+      "number": 91,
+      "title": "Gray Top & Black Mini with Knee Boots",
+      "reference": "24971.jpg",
+      "prompt": "An original young woman with long, straight light brown hair in a slight windblown motion stands in a full-length pose against a pale gray backdrop. She wears a fitted gray jersey top with draped front and an asymmetric hem, with a small pale purple rosette necklace. A black mini skirt with a front flap pocket and a zip detail, lace-top gray socks, and tall black buckled knee boots complete the look. Her expression is calm and direct. Soft, even studio light. Palette of warm gray, black, and pale lavender. Clean and sleek, in the style of a minimal streetwear lookbook.",
+      "notes": "- The draped top and buckled boots are the key contrasts.\n- Keep the windblown hair for a sense of movement.",
+      "style": "Clean, sleek, confident",
+      "tags": "#fashion #studio #minimal #boots",
+      "page": 97
+    },
+    {
+      "number": 92,
+      "title": "Cream Keyhole Cardigan & Pearls",
+      "reference": "24978.jpg",
+      "prompt": "An original young woman with long, dark wavy hair and full bangs sits on a gray sofa with a leopard-print bag beside her. She wears a cream sheer long-sleeve top with a button-front cardigan layer and a keyhole center, with a strand of pearls draped down the front. Her waist is accented by a black belt with a butterfly buckle, over a beige satin midi skirt with a quilted texture. Her expression is calm and direct. Soft, warm lamp light and a pale wall. Palette of cream, beige, and warm black. Romantic and refined, in the style of a soft interior fashion editorial.",
+      "notes": "- The keyhole front and pearl strand are the signature details.\n- Keep the warm lamp light for a cozy, interior mood.",
+      "style": "Romantic, refined, soft",
+      "tags": "#fashion #romantic #interior #knitwear",
+      "page": 98
+    },
+    {
+      "number": 93,
+      "title": "Blue Raglan Knit & Concho Belt",
+      "reference": "24980.jpg",
+      "prompt": "An original young woman with long, straight black hair and side-swept layers wears a brown knit raglan top with a blue swirl motif and blue-and-brown marled sleeves. A black choker and layered silver chain necklaces sit at her throat. A flowing olive-green tiered maxi skirt is cinched with a silver concho chain belt. Her expression is calm and direct. A plain pale gray backdrop with soft light. Palette of chocolate, cerulean blue, olive, and silver. Edgy and bohemian, in the style of an alternative knitwear lookbook.",
+      "notes": "- The marled sleeves and concho belt are the defining textures.\n- Keep the swirl motif specific to match the knit detail.",
+      "style": "Edgy, bohemian, layered",
+      "tags": "#boho #knitwear #festival #studio",
+      "page": 99
+    },
+    {
+      "number": 94,
+      "title": "Gray Turtleneck Dress & Tan Boots",
+      "reference": "24973.jpg",
+      "prompt": "An original young woman with long, straight black hair flowing slightly to one side stands in a full-length pose against a pale studio backdrop. She wears a fitted heathered gray ribbed turtleneck mini dress with long sleeves, cinched at the waist with a thin brown leather belt. Tall tan suede knee-high boots with buckle detail and a pointed toe complete the look. Her expression is calm and direct. Soft, even studio light with a glossy floor. Palette of heathered gray, chocolate, and tan. Clean and cozy, in the style of a minimalist winter lookbook.",
+      "notes": "- The ribbed knit and tan boots create the warm-neutral contrast.\n- Add 'full-length' to keep the boots in frame.",
+      "style": "Clean, cozy, sleek",
+      "tags": "#fashion #winter #minimal #studio",
+      "page": 100
+    },
+    {
+      "number": 95,
+      "title": "Black & White Bow Knit & Feather Cuffs",
+      "reference": "24979.jpg",
+      "prompt": "An original young woman with shoulder-length auburn waves and blunt bangs stands in a warm beige room. She wears a black cropped long-sleeve knit with a white ribbed bib panel, a black satin bow at the neck, and black feather-trimmed cuffs. A black knit maxi skirt with a white ribbed waistband completes the look. Her expression is calm, with a soft smile. Warm, even interior light. Palette of black, white, and warm auburn. Elegant and playful, in the style of a retro knitwear editorial.",
+      "notes": "- The white bib and feather cuffs are the signature details.\n- Use 'top-down angle' to show the skirt and shape.",
+      "style": "Elegant, playful, retro",
+      "tags": "#fashion #vintage #knitwear #portrait",
+      "page": 101
+    },
+    {
+      "number": 96,
+      "title": "Cream Knit with Blue Patterns & Sunglasses",
+      "reference": "24977.jpg",
+      "prompt": "An original young woman with long, wavy copper hair wears blue-tinted cat-eye sunglasses and a long, dangling blue bead earring. She wears a cream ribbed long-sleeve knit top with a blue and black patterned bib panel, a matching patterned high collar scarf, and patterned cuffs. Light wash denim jeans with rhinestone details and her hands rest in her pockets. Her expression is calm and direct. A dark, textured backdrop with soft light. Palette of cream, cornflower blue, black, and pale denim. Bold and retro, in the style of a Y2K knitwear catalog.",
+      "notes": "- The blue pattern and cat-eye sunglasses are the signature accents.\n- Keep the dark backdrop to make the cream knit stand out.",
+      "style": "Bold, retro, playful",
+      "tags": "#fashion #y2k #knitwear #portrait",
+      "page": 102
+    },
+    {
+      "number": 97,
+      "title": "Striped Hooded Cardigan & Leopard Skirt",
+      "reference": "24989.jpg",
+      "prompt": "An original young woman with long, wavy blonde hair wears a fuzzy blue and brown striped knit cardigan with a hood, a bow tie at the neck, and small brown buttons. A leopard-print skirt shows at the hip. Her expression is calm and direct against a soft gray backdrop. Soft, even studio light. Palette of powder blue, chocolate, and leopard tan. Playful and cozy, in the style of a knitwear catalog.",
+      "notes": "- The striped hood and bow tie are the signature details.\n- Add 'head to toe' to show the skirt.",
+      "style": "Playful, cozy, sweet",
+      "tags": "#knitwear #playful #portrait #studio",
+      "page": 103
+    },
+    {
+      "number": 98,
+      "title": "Cream Half-Zip & Black Wide Trousers",
+      "reference": "24991.jpg",
+      "prompt": "An original young woman with long, loose brown waves stands full-length against a warm tan backdrop. She wears a cream ribbed half-zip sweater with a blue collared shirt peeking out at the cuffs and neck, a pearl necklace, and black wide-leg trousers. She holds brown leather gloves and a black tote. Her expression is calm. Soft, even studio light. Palette of cream, cornflower blue, and black. Refined and classic, in the style of a fall lookbook.",
+      "notes": "- The cream sweater and blue cuffs create the color layering.\n- Keep the tan backdrop for a warm studio tone.",
+      "style": "Refined, classic, polished",
+      "tags": "#fashion #classic #studio #minimal",
+      "page": 104
+    },
+    {
+      "number": 99,
+      "title": "Monochrome Polo Knit Set",
+      "reference": "25000.jpg",
+      "prompt": "An original young woman with long, straight black hair walks a runway in a white knit long-sleeve polo with black placket trim and a small embroidered emblem, paired with matching white knit shorts with black piping and a side tie sash. Her expression is calm and direct. Deep maroon wall and dark navy runway with soft light. Palette of white, black, and deep plum. Crisp and graphic, in the style of a spring runway show.",
+      "notes": "- The black trim and sash are the graphic details.\n- Add 'mid-stride' to capture the walk.",
+      "style": "Crisp, graphic, sporty",
+      "tags": "#runway #knitwear #sporty #fashion",
+      "page": 105
+    },
+    {
+      "number": 100,
+      "title": "Black Zip Crop with Thumbholes",
+      "reference": "24996.jpg",
+      "prompt": "An original young woman with dark hair in a messy high bun wears a fitted black mock-neck zip crop top with long sleeves and thumbholes, a small embroidered logo, and a silver-buckled black belt over black wide cargo trousers. Her expression is calm and direct. A pale studio backdrop with a white car in the background. Palette of black, ivory, and silver. Sleek and sporty, in the style of a minimal activewear campaign.",
+      "notes": "- The thumbholes and silver buckle are the signature details.\n- Keep the white car for a sleek garage setting.",
+      "style": "Sleek, sporty, modern",
+      "tags": "#athleisure #minimal #studio #fashion",
+      "page": 106
+    },
+    {
+      "number": 101,
+      "title": "White Zip Shirt & Plaid Mini",
+      "reference": "25004.jpg",
+      "prompt": "An original young woman with long, wavy light blonde hair wears a white crinkle-texture cropped zip shirt with a pointed collar and heart-shaped zipper pulls, a small logo patch, and a black choker with a heart charm. A gray plaid mini skirt sits under a studded black belt. Her expression is calm. A casting board of photos behind her and a softbox at her side. Palette of white, gray, and black. Playful and preppy, in the style of a behind-the-scenes Y2K lookbook.",
+      "notes": "- The heart zipper pulls and studded belt are the playful accents.\n- Keep the casting board for an editorial behind-the-scenes feel.",
+      "style": "Playful, preppy, Y2K",
+      "tags": "#y2k #preppy #street-style #studio",
+      "page": 107
+    },
+    {
+      "number": 102,
+      "title": "Cream Tee & Dark Wide Jeans",
+      "reference": "24992.jpg",
+      "prompt": "An original young woman with long, soft brown waves stands full-length against a warm tan backdrop. She wears a white short-sleeve tee with a navy script graphic, a pearl chain necklace, and dark wide-leg jeans with patch pockets and frayed hems. She holds a black tote over one arm and wears black ankle boots. Her expression is calm and direct. Soft, even studio light. Palette of ivory, navy, and warm tan. Relaxed and polished, in the style of an autumn catalog.",
+      "notes": "- The navy script and wide jeans are the defining pieces.\n- Add 'full-length' to keep the boots in frame.",
+      "style": "Relaxed, polished, classic",
+      "tags": "#casual #lifestyle #studio #fashion",
+      "page": 108
+    },
+    {
+      "number": 103,
+      "title": "Monochrome Polo Knit Set, Walk",
+      "reference": "25002.jpg",
+      "prompt": "An original young woman with long, straight black hair walks a navy runway in a white knit long-sleeve polo with black placket trim and matching white knit shorts with black piping. She wears black and white lace-up sneakers and black ankle socks. Her expression is calm and direct. Soft stage light. Palette of white, black, and deep navy. Crisp and graphic, in the style of a spring runway show. This is a near-duplicate of section 99.",
+      "notes": "- The black trim and sneakers create the sporty contrast.\n- Keep only one of sections 99 or 103 if you do not need both.",
+      "style": "Crisp, graphic, sporty",
+      "tags": "#runway #knitwear #sporty #fashion",
+      "page": 109
+    },
+    {
+      "number": 104,
+      "title": "Varsity Jacket & Denim Pleats",
+      "reference": "25005.jpg",
+      "prompt": "An original young woman with long, wavy light brown hair wears an oversized dark green varsity jacket with brown leather sleeves and an embroidered patch, over a cream ribbed top with a loose bow at the neck. A pleated denim mini skirt and a soft, sunny backdrop complete the look. Her expression is calm and direct. Warm, natural light. Palette of forest green, chocolate, and denim blue. Retro and collegiate, in the style of a 1990s street-style photo.",
+      "notes": "- The leather sleeves and bow collar are the defining details.\n- Keep the patch unbranded to avoid text in the image.",
+      "style": "Retro, collegiate, cozy",
+      "tags": "#varsity #retro #street-style #portrait",
+      "page": 110
+    },
+    {
+      "number": 105,
+      "title": "Brown Lace Top & Western Belt",
+      "reference": "24990.jpg",
+      "prompt": "An original young woman with long, wavy brown hair wears a sheer brown lace top with long sleeves and a ribbon neck tie, layered over a fitted brown jersey top. A black leather belt with an ornate silver buckle cinches a dark lace skirt. A silver pendant necklace and a black leather bag strap complete the look. Her expression is calm. Warm, soft natural light and a blurred street backdrop. Palette of chocolate, black, and silver. Romantic and edgy, in the style of a fall street-style editorial.",
+      "notes": "- The lace layers and buckle belt are the key textures.\n- Keep the blurred street for a candid feel.",
+      "style": "Romantic, edgy, layered",
+      "tags": "#boho #edgy #portrait #layered",
+      "page": 111
+    },
+    {
+      "number": 106,
+      "title": "Reindeer Cardigan by the Window",
+      "reference": "24983.jpg",
+      "prompt": "An original young woman with long, wavy light brown hair and thin round glasses sits on a window ledge, holding a small ginger kitten. She wears a brown and cream reindeer-pattern knit cardigan over a charcoal turtleneck, with a burgundy plaid skirt. Her expression is thoughtful. Soft, diffused window light. Palette of chocolate, cream, and burgundy. This is a duplicate of section 79.",
+      "notes": "- The reindeer knit pattern and kitten are the focal points.\n- Keep only one of sections 79 or 106 if you do not need both.",
+      "style": "Cozy, nostalgic, soft",
+      "tags": "#cozy #winter #lifestyle #portrait",
+      "page": 112
+    },
+    {
+      "number": 107,
+      "title": "Navy Varsity Knit with Red S",
+      "reference": "24994.jpg",
+      "prompt": "An original young woman with long, straight black hair wears a navy cropped V-neck knit with red raglan sleeves, cream stripes at the shoulders, and a large red letter S with a script detail on the chest. Her hands rest at her sides. Dark low-rise wash jeans. Her expression is calm and direct. A plain white backdrop with soft, even light. Palette of navy, crimson, and cream. Collegiate and sporty, in the style of a college knitwear catalog.",
+      "notes": "- The red letter and raglan stripes are the defining graphics.\n- Keep the cropped length for a streetwear look.",
+      "style": "Collegiate, sporty, bold",
+      "tags": "#varsity #knitwear #sporty #studio",
+      "page": 113
+    },
+    {
+      "number": 108,
+      "title": "Orange Mock-Neck & Over-the-Knee Boots",
+      "reference": "25001.jpg",
+      "prompt": "An original young woman with long, straight brown hair walks a dark runway in a fitted orange long-sleeve mock-neck top, a white satin mini skirt with a rounded hem, and black over-the-knee leather boots. She carries a small black bag by its strap. Her expression is calm and direct. Dark stage lighting with a blurred crowd. Palette of orange, white, and black. Bold and sleek, in the style of a fall runway show.",
+      "notes": "- The orange top and boots create a strong color contrast.\n- Keep the blurred crowd for a runway-show setting.",
+      "style": "Bold, sleek, runway",
+      "tags": "#runway #bold #fashion #leather",
+      "page": 114
+    },
+    {
+      "number": 109,
+      "title": "Gray Varsity Knit with Navy Raglan",
+      "reference": "24993.jpg",
+      "prompt": "An original young woman with long, straight black hair wears a heathered gray cropped V-neck knit with navy raglan sleeves, cream and red stripes, and a large red letter S. Red cuffs peek at the wrists. She wears dark low-rise jeans. Her expression is calm and direct. A plain white backdrop with soft, even light. Palette of heather gray, navy, and crimson. Collegiate and cozy, in the style of a college knitwear catalog.",
+      "notes": "- The gray body and red cuffs are the signature colors.\n- Keep the cropped length for a streetwear look.",
+      "style": "Collegiate, cozy, crisp",
+      "tags": "#varsity #knitwear #sporty #studio",
+      "page": 115
+    },
+    {
+      "number": 110,
+      "title": "Brown Hooded Knit with Lettering",
+      "reference": "24997.jpg",
+      "prompt": "An original young woman with dark hair in a high ponytail wears a brown knit hooded sweater with cream arched block lettering across the chest and a front kangaroo pocket. She wears wide blue denim jeans with a black belt and an ornate silver buckle. Her hands rest in the pocket. Her expression is calm and direct. A white backdrop with white cars at the sides. Palette of chocolate, cream, and denim blue. Sporty and urban, in the style of a street-style lookbook.",
+      "notes": "- The block lettering and wide denim are the defining pieces.\n- Describe the lettering as 'arched block lettering' to keep it stylized.",
+      "style": "Sporty, urban, bold",
+      "tags": "#streetwear #knitwear #sporty #outdoor",
+      "page": 116
+    },
+    {
+      "number": 111,
+      "title": "Light Blue Zip Shirt & Pleated Skirt",
+      "reference": "25003.jpg",
+      "prompt": "An original young woman with long, light blonde hair and a hair clip wears a pale blue crinkle-texture zip shirt with a pointed collar and small heart pulls, layered over a white pleated mini skirt with two black belts. A silver pendant necklace and a clear pearl choker complete the look. Her expression is calm. A casting board and a dark curtain behind her. Palette of powder blue, white, and black. Soft and playful, in the style of a behind-the-scenes Y2K lookbook.",
+      "notes": "- The double belts and pearl choker are the layered details.\n- Keep the casting board for an editorial setting.",
+      "style": "Soft, playful, layered",
+      "tags": "#preppy #y2k #studio #fashion",
+      "page": 117
+    },
+    {
+      "number": 112,
+      "title": "Blue Baby Tee & Black Fur Vest",
+      "reference": "24999.jpg",
+      "prompt": "An original young woman with long, wavy blonde hair holds a wine glass while leaning against a wooden ledge. She wears a pale blue cropped baby tee with a script graphic, a black faux-fur vest, dark straight-leg jeans, and black platform boots. A thin silver necklace sits at her throat. Her expression is calm. A glass wall with a red curtain behind her and soft daylight. Palette of powder blue, black, and wood brown. Casual and relaxed, in the style of a city street-style photo.",
+      "notes": "- The fur vest and blue tee are the layered contrast.\n- Keep the glass and red curtain for an urban café feel.",
+      "style": "Casual, relaxed, street",
+      "tags": "#casual #street-style #layered #outdoor",
+      "page": 118
+    },
+    {
+      "number": 113,
+      "title": "Red Velvet Hoodie & Space Buns",
+      "reference": "25006.jpg",
+      "prompt": "An original young woman with blonde hair in two high space buns wears small wire sunglasses and a red velvet zip hoodie over a burgundy turtleneck. A thin silver necklace sits at her throat, and a patterned quilted bag rests on her shoulder. Her expression is calm and direct. A blurred night street with soft city lights behind her. Palette of crimson, burgundy, and midnight blue. Nostalgic and moody, in the style of a late-1990s film still.",
+      "notes": "- The space buns and red velvet are the defining elements.\n- Add 'film grain' for an authentic period look.",
+      "style": "Nostalgic, moody, retro",
+      "tags": "#90s #retro #street-style #film",
+      "page": 119
+    },
+    {
+      "number": 114,
+      "title": "Raglan Cross Graphic Tee & Cargo",
+      "reference": "24998.jpg",
+      "prompt": "An original young woman with dark hair in a messy updo wears a black and white raglan long-sleeve tee with a large gothic cross graphic and chain-link detail. A black leather belt with a silver buckle cinches black cargo trousers. Her expression is calm and direct. A pale backdrop with white cars at the sides. Palette of black, white, and gunmetal. Edgy and bold, in the style of a streetwear graphic lookbook.",
+      "notes": "- The gothic cross and raglan sleeves are the defining graphics.\n- Keep the white cars for a clean, sleek background.",
+      "style": "Edgy, bold, streetwear",
+      "tags": "#streetwear #graphic #y2k #outdoor",
+      "page": 120
+    },
+    {
+      "number": 115,
+      "title": "Blue Runway Coat & Striped Socks",
+      "reference": "24984.jpg",
+      "prompt": "An original young woman with long, tousled brown hair walks a runway in an oversized powder blue wool coat with toggle fastenings and large patch pockets. Beneath it, a dark brown pleated mini skirt with a textured knit overlay, sheer brown tights, and pale blue ribbed socks. Black pointed loafers complete the look. Her expression is calm and direct. A pale stone runway with warm wooden walls. This is a duplicate of section 82.",
+      "notes": "- The powder blue coat and striped socks are the color anchors.\n- Keep only one of sections 82 or 115 if you do not need both.",
+      "style": "Structured, cool, refined",
+      "tags": "#runway #outerwear #winter #editorial",
+      "page": 121
+    },
+    {
+      "number": 116,
+      "title": "Racing Zip Jacket & Sunglasses",
+      "reference": "24995.jpg",
+      "prompt": "An original young woman with long, windswept brown hair wears wraparound black sunglasses and a black and gray racing-style zip jacket with a funnel neck, contrast side panels, and embroidered racing graphics. A black shoulder bag hangs from one shoulder, and black cargo trousers with a belt complete the look. Her expression is calm and confident. A plain white backdrop with soft, even light. Palette of black, charcoal, and silver. Sporty and sharp, in the style of a Y2K activewear lookbook.",
+      "notes": "- The contrast panels and racing graphics are the defining details.\n- Keep the graphics generic to avoid text in the image.",
+      "style": "Sporty, sharp, Y2K",
+      "tags": "#sporty #y2k #street-style #studio",
+      "page": 122
+    },
+    {
+      "number": 117,
+      "title": "Purple Velvet Top & Leg Warmers",
+      "reference": "25007.jpg",
+      "prompt": "An original young woman with long, wavy honey-blonde hair stands full-length against a black backdrop with her arms crossed. She wears a fitted purple velvet long-sleeve top, layered silver chains with a round pendant, and a patterned mini skirt with a sage waistband. Purple knit leg warmers and lace-up ankle boots complete the look. A patterned scarf hangs from one side. Her expression is calm and direct. Soft, focused studio light. Palette of orchid, sage, and deep black. Playful and vintage, in the style of a 1990s grunge lookbook.",
+      "notes": "- The velvet top and patterned leg warmers are the textures to keep.\n- Add 'full-length, head to toe' to keep the boots in frame.",
+      "style": "Playful, vintage, grunge-inspired",
+      "tags": "#grunge #studio #layered #fashion",
+      "page": 123
+    },
+    {
+      "number": 118,
+      "title": "Burgundy Velvet Gown on Stone Stairs",
+      "reference": "25024.jpg",
+      "prompt": "An original young woman with long, dark wavy hair walks down a wide stone staircase. She wears a fitted burgundy velvet jacket with gold beaded trim over a deep wine silk gown with a flowing train. A small pendant rests at her throat. Her expression is calm and serious. Cool, moody light with soft haze. Palette of burgundy, slate gray, and antique gold. Dramatic and gothic, in the style of a cinematic fantasy film still.",
+      "notes": "- The beaded velvet jacket and train are the signature details.\n- Add 'full-length' to show the train and staircase.",
+      "style": "Dramatic, gothic, cinematic",
+      "tags": "#gothic #cinematic #gown #editorial",
+      "page": 124
+    },
+    {
+      "number": 119,
+      "title": "Dark Velvet Jacket in Snow",
+      "reference": "25025.jpg",
+      "prompt": "An original young woman with long, straight brown hair and drop earrings stands in a snowy landscape. She wears a dark textured velvet jacket with a high mock collar and dark embroidered trim, with a pendant necklace at her throat. Her hands rest at her waist. Her expression is calm and distant. Cool, overcast light with a blurred pine treeline behind her. Palette of slate blue, charcoal, and snow white. Moody and wintry, in the style of a cinematic winter film still.",
+      "notes": "- The textured velvet and high collar are the key details.\n- Keep the blurred pines for a quiet, misty setting.",
+      "style": "Moody, wintry, cinematic",
+      "tags": "#winter #gothic #cinematic #portrait",
+      "page": 125
+    },
+    {
+      "number": 120,
+      "title": "Lace Blouse over Velvet Corset",
+      "reference": "25015.jpg",
+      "prompt": "An original young woman with blonde hair pulled back into loose strands wears a sheer dark lace high-neck blouse with long sleeves, layered over a dark velvet corset with metal grommets and a central lace-up front. Layered chain necklaces with a round pendant sit at her throat. Her expression is calm and serious. Soft, diffused forest light with blurred green foliage and fallen leaves. Palette of deep violet, forest green, and muted gold. Dark romantic and earthy, in the style of a moody forest editorial.",
+      "notes": "- The lace sleeves over the corset are the defining layers.\n- Keep the blurred forest for a soft, dreamy depth.",
+      "style": "Dark romantic, earthy, soft",
+      "tags": "#gothic #forest #romantic #portrait",
+      "page": 126
+    },
+    {
+      "number": 121,
+      "title": "Burgundy Velvet Jacket & Lace Jabot",
+      "reference": "25016.jpg",
+      "prompt": "An original young woman with long, straight dark hair stands in a cemetery with blurred headstones behind her. She wears a deep red velvet fitted jacket with a black lace jabot, a black velvet high collar, and a wide black belt. A gold cross pendant and a gold drop earring complete the look. Her lips are a bold red. Her expression is calm and serious, looking off to the side. Soft, natural daylight. Palette of burgundy, black, and aged gold. Dramatic and Victorian, in the style of a gothic period portrait.",
+      "notes": "- The lace jabot and red velvet are the key contrasts.\n- Keep the cemetery for a gothic, atmospheric setting.",
+      "style": "Dramatic, Victorian, elegant",
+      "tags": "#victorian #gothic #cemetery #portrait",
+      "page": 127
+    },
+    {
+      "number": 122,
+      "title": "Purple Velvet Crop & Burnout Skirt",
+      "reference": "25023.jpg",
+      "prompt": "An original young woman with long, wavy honey-blonde hair walks a dirt path through tall grass. She wears a purple velvet cropped long-sleeve top with flared cuffs, a black velvet burnout maxi skirt with a side slit, and a chain belt with a cross charm. A black choker, layered silver necklaces, and small hoop earrings complete the look. Tall black boots show at the hem. Her expression is calm and direct. Soft, late-afternoon light and blurred trees. Palette of violet, black, and sage green. Nostalgic and moody, in the style of a boho gothic editorial.",
+      "notes": "- The velvet crop and chain belt with cross charm are the key details.\n- Keep the path and grass for an organic, walking motion.",
+      "style": "Nostalgic, moody, boho",
+      "tags": "#boho #gothic #outdoor #street-style",
+      "page": 128
+    },
+    {
+      "number": 123,
+      "title": "Black Lace-Sleeve Top & Bob",
+      "reference": "25013.jpg",
+      "prompt": "An original young woman with a sleek black bob and blunt bangs stands in a candlelit interior. She wears a fitted black long-sleeve top with lace sleeves and a lace neckline, a black leather choker, and a cross pendant on a silver chain. Her black leather pants have a chain belt with a silver buckle. Her expression is calm and serious, looking off to the side. Warm candlelight and blurred wooden furniture behind her. Palette of black, warm amber, and silver. Sleek and moody, in the style of a 1990s gothic film still.",
+      "notes": "- The blunt bob and lace sleeves are the signature shapes.\n- Keep the candles for a warm, atmospheric backdrop.",
+      "style": "Sleek, moody, 90s",
+      "tags": "#gothic #90s #portrait #interior",
+      "page": 129
+    },
+    {
+      "number": 124,
+      "title": "Black Mini Dress at Night",
+      "reference": "25017.jpg",
+      "prompt": "An original young woman with long, wavy dark brown hair walks along a city sidewalk at night. She wears a fitted black long-sleeve mini dress with a pleated flared skirt and a high, round neckline. Sheer black tights and black pointed stiletto heels complete the look. Her expression is calm, with a red lip. Soft streetlight and blurred building edges. Palette of black, charcoal, and warm streetlight amber. Classic and cinematic, in the style of a night-out street photo.",
+      "notes": "- The flared pleated skirt and sheer tights are the key details.\n- Keep the streetlight for a warm, moody glow.",
+      "style": "Classic, cinematic, sleek",
+      "tags": "#evening #classic #street-style #fashion",
+      "page": 130
+    },
+    {
+      "number": 125,
+      "title": "Pink Floral Top & Embroidered Jeans",
+      "reference": "25010.jpg",
+      "prompt": "An original young woman with long, straight black hair blown back by wind stands full-length against a white backdrop. She wears a pink floral sleeveless top with a tie waist, a wide gold and cream cameo belt, and a cream floral shoulder bag. Light-wash flared jeans have embroidered floral details that run down the legs. Her expression is calm and direct. Soft, even studio light. Palette of dusty pink, sage, and pale denim. Romantic and vintage, in the style of a floral runway editorial.",
+      "notes": "- The floral embroidery and cameo belt are the signature details.\n- Add 'mid-stride' to show the wind-blown hair.",
+      "style": "Romantic, vintage, runway",
+      "tags": "#romantic #runway #vintage #fashion",
+      "page": 131
+    },
+    {
+      "number": 126,
+      "title": "Red Velvet Hoodie & Space Buns",
+      "reference": "25006.jpg",
+      "prompt": "This is a duplicate of section 113, kept for reference. An original young woman with blonde hair in two high space buns wears small wire sunglasses and a red velvet zip hoodie over a burgundy turtleneck. A thin silver necklace sits at her throat, and a patterned quilted bag rests on her shoulder. Her expression is calm and direct. A blurred night street with soft city lights behind her. Palette of crimson, burgundy, and midnight blue. Nostalgic and moody, in the style of a late-1990s film still.",
+      "notes": "- Keep only one of sections 113 or 126 if you do not need both.\n- The space buns and red velvet are the defining elements.",
+      "style": "Nostalgic, moody, retro",
+      "tags": "#90s #retro #street-style #film",
+      "page": 132
+    },
+    {
+      "number": 127,
+      "title": "Dark Corset over Gray Shirt",
+      "reference": "25012.jpg",
+      "prompt": "An original young woman with long, straight dark hair and a center part stands indoors in a warm, softly blurred room. She wears a fitted gray long-sleeve top with a button placket, under a black textured velvet corset with a lace-up front. A gray pencil skirt and a wide belt with an ornate silver buckle complete the look, with a leather tote at her side. Her expression is calm and direct. Warm, soft interior light. Palette of charcoal gray, black, and silver. Refined and sleek, in the style of a Victorian-inspired fashion editorial.",
+      "notes": "- The velvet corset and ornate buckle are the defining details.\n- Keep the warm interior for a sophisticated mood.",
+      "style": "Refined, sleek, Victorian-inspired",
+      "tags": "#victorian #sleek #fashion #portrait",
+      "page": 133
+    },
+    {
+      "number": 128,
+      "title": "Black Velvet Gown in the Cemetery",
+      "reference": "25014.jpg",
+      "prompt": "An original young woman with long, wavy dark brown hair walks along a fallen-leaf path between old headstones. She wears a black lace-trimmed fitted bodice with covered buttons and a black velvet floor-length skirt, with a silver belt at the waist. Lace cuffs hang from her wrists, and a pendant rests at her throat. Her expression is calm and serious. Soft, filtered light with blurred trees behind her. Palette of black, deep burgundy, and muted green. Dramatic and gothic, in the style of a cinematic period film still.",
+      "notes": "- The lace-trimmed bodice and velvet skirt are the defining textures.\n- Keep the cemetery and leaves for a moody setting.",
+      "style": "Dramatic, gothic, romantic",
+      "tags": "#gothic #cemetery #cinematic #portrait",
+      "page": 134
+    },
+    {
+      "number": 129,
+      "title": "Mint Crop & Patterned Trousers",
+      "reference": "25011.jpg",
+      "prompt": "An original young woman with light brown hair in two low buns stands against a gray studio backdrop. She wears a sheer pale mint long-sleeve crop top with a lace-ribbon bodice and multi-strand chains with a heart pendant. Patterned olive wide-leg trousers have a knotted sash at the waist with purple flowers. She carries an orange crossbody bag and wears white canvas sneakers. Her expression is calm and direct. Soft, even studio light. Palette of mint, olive, and orange. Playful and nostalgic, in the style of a 2000s Y2K lookbook.",
+      "notes": "- The mint crop and patterned trousers are the signature pairing.\n- Keep the gray backdrop for a clean studio look.",
+      "style": "Playful, nostalgic, Y2K",
+      "tags": "#y2k #playful #street-style #studio",
+      "page": 135
+    },
+    {
+      "number": 130,
+      "title": "Purple Lace Top & Cargo Pants on Campus",
+      "reference": "25009.jpg",
+      "prompt": "An original young woman with long, straight dark brown hair stands on a lawn in front of a stone building with arched windows. She wears a fitted purple button-front top with a lace trim, layered over a thin tan camisole. Low-rise purple cargo trousers with a studded belt and a silver pendant necklace complete the look. She holds a patterned backpack by its strap. Her expression is calm and direct. Soft, natural daylight. Palette of plum, stone gray, and muted green. Collegiate and grunge-inspired, in the style of a fall campus lookbook.",
+      "notes": "- The lace trim and cargo trousers are the defining details.\n- Keep the stone building for a collegiate setting.",
+      "style": "Collegiate, moody, grunge-inspired",
+      "tags": "#collegiate #grunge #street-style #outdoor",
+      "page": 136
+    },
+    {
+      "number": 131,
+      "title": "Purple Velvet Cardigan & Ruffled Mini",
+      "reference": "25008.jpg",
+      "prompt": "An original young woman with long, straight dark hair walks along a flagstone path beside a lawn with dry leaves. She wears a purple velvet cropped V-neck cardigan with gold trim and a small pendant necklace, plus a dark ruffled mini skirt with gold studs. Knee-high purple lace socks and lace-up gray sneakers complete the look. A small backpack hangs from one shoulder. Her expression is calm and direct. Warm autumn sunlight. Palette of violet, charcoal, and gold. Preppy and nostalgic, in the style of a 2000s campus street-style photo.",
+      "notes": "- The velvet cardigan and ruffled skirt are the signature pieces.\n- Keep the flagstone path for a sense of movement.",
+      "style": "Preppy, nostalgic, playful",
+      "tags": "#preppy #2000s #outdoor #street-style",
+      "page": 137
+    },
+    {
+      "number": 132,
+      "title": "Burgundy Cutout Gown",
+      "reference": "25018.jpg",
+      "prompt": "An original young woman with long, loose blonde waves stands indoors near a pale wall and a wood floor. She wears a fitted burgundy strapless maxi dress with horizontal sheer cut-outs at the midriff. Gold bangles stack on her wrists, and a small gold pendant sits at her throat. Her expression is calm and direct. Soft, warm interior light. Palette of burgundy, cream, and warm gold. Glamorous and sleek, in the style of an evening wear campaign.",
+      "notes": "- The sheer cut-outs and bangles are the defining details.\n- Keep the wood floor for a warm, lived-in setting.",
+      "style": "Glamorous, sleek, modern",
+      "tags": "#evening #minimal #glamour #fashion",
+      "page": 138
+    },
+    {
+      "number": 133,
+      "title": "Black One-Shoulder Top & Lace Pants",
+      "reference": "25019.jpg",
+      "prompt": "An original young woman with long, loose brown hair wears clear-framed glasses. She wears a black one-shoulder cropped top and a black stretch mini skirt, with flared lace-overlay trousers. Her expression is calm and direct. A bright closet with clothing on a rack and a white door behind her. Soft, even indoor light. Palette of black, white, and warm neutral skin tones. Sleek and minimal, in the style of a streetwear outfit lookbook.",
+      "notes": "- The lace overlay and one-shoulder top are the key pieces.\n- Keep the closet background for a casual, at-home look.",
+      "style": "Sleek, minimal, bold",
+      "tags": "#minimal #streetwear #glasses #fashion",
+      "page": 139
+    },
+    {
+      "number": 134,
+      "title": "Burgundy Lace Corset & Boots",
+      "reference": "25020.jpg",
+      "prompt": "An original young woman with long, dark wavy hair sits on a dark wooden chest against a deep teal backdrop. She wears a burgundy lace cardigan over a burgundy corset bodice with a plunging neckline and lace trim. A pendant on a fine chain rests at her chest. Dark trousers and tall brown leather boots complete the look. Her expression is calm and direct. Soft, low-key studio light with gentle falloff. Palette of burgundy, deep teal, and warm brown. Dark romantic and editorial, in the style of a fine-art portrait.",
+      "notes": "- The lace cardigan over the corset is the defining layer.\n- Keep the teal backdrop for a rich, moody contrast.",
+      "style": "Dark romantic, moody, editorial",
+      "tags": "#dark-romantic #editorial #portrait #seated",
+      "page": 140
+    },
+    {
+      "number": 135,
+      "title": "Black Lace Top & Blue Sky",
+      "reference": "25021.jpg",
+      "prompt": "An original young woman with long, dark hair blowing slightly across her shoulder stands outdoors against a bright blue sky. She wears a black high-neck long-sleeve lace top with a ruffled hem and a silver chain necklace. Dark cargo trousers and a black strap complete the look. Her expression is calm and serious, with a direct gaze. Warm, natural sunlight with a soft blurred background. Palette of black, sky blue, and warm skin tones. Candid and grunge-inspired, in the style of a film photo.",
+      "notes": "- The lace top and blue sky are the strongest contrast.\n- Keep the blurred background for a candid film feel.",
+      "style": "Candid, grunge-inspired, moody",
+      "tags": "#grunge #outdoor #candid #portrait",
+      "page": 141
+    },
+    {
+      "number": 136,
+      "title": "Leopard Maxi Skirt & Velvet Crop",
+      "reference": "25022.jpg",
+      "prompt": "An original young woman with long, straight light brown hair parted in the center walks through a warm interior with framed prints and a patterned carpet. She wears a burgundy velvet long-sleeve crop top with a fitted waist, a wide leopard-print maxi skirt with a black belt, and carries a black handbag. A pendant necklace sits at her throat. Her expression is calm and direct. Warm, golden lamp light. Palette of burgundy, leopard tan, and deep brown. Bold and cozy, in the style of a 1990s sitcom still.",
+      "notes": "- The leopard maxi skirt and velvet crop are the bold contrast.\n- Keep the framed prints for a warm, lived-in interior.",
+      "style": "Bold, cozy, 1990s",
+      "tags": "#90s #bold #interior #street-style",
+      "page": 142
+    },
+    {
+      "number": 137,
+      "title": "Black Off-Shoulder Knit & Leather Wrap Skirt",
+      "reference": "25028.jpg",
+      "prompt": "An original young woman with long, wavy black hair stands against a white backdrop. She wears a black ribbed off-shoulder knit top with a row of purple buttons down one sleeve, over a sheer printed mesh bodice. A purple orchid sits at her throat. A distressed brown leather wrap mini skirt with eyelet laces and a studded hem completes the look. Her expression is calm and direct. Soft, even studio light. Palette of black, plum, and burnt brown. Edgy and textured, in the style of a grunge editorial lookbook.",
+      "notes": "- The off-shoulder knit and leather wrap skirt are the key textures.\n- Keep the orchid as a single accent for contrast.",
+      "style": "Edgy, textured, editorial",
+      "tags": "#editorial #grunge #studio #fashion",
+      "page": 143
+    },
+    {
+      "number": 138,
+      "title": "Plum Ribbed Knit & Lilac Suede Mini",
+      "reference": "25033.jpg",
+      "prompt": "An original young woman with long, straight light brown hair walks down a bright hallway with a glossy floor. She wears a fitted plum ribbed knit top with a deep V neckline, layered with a pendant necklace and a pearl choker. A lilac suede mini skirt has a gold medallion belt, and she carries a silver chainmail-style shoulder bag. Tall black knee boots complete the look. Her expression is calm and composed. Soft indoor light. Palette of plum, lilac, and silver. Cozy and nostalgic, in the style of a 2000s film still.",
+      "notes": "- The plum knit and lilac suede mini are the color pairing.\n- Keep the hallway for a candid, walking motion.",
+      "style": "Cozy, nostalgic, soft",
+      "tags": "#cozy #y2k #layered #portrait",
+      "page": 144
+    },
+    {
+      "number": 139,
+      "title": "Navy Long Coat with Burgundy Cuffs",
+      "reference": "25034.jpg",
+      "prompt": "An original young woman with long, wavy blonde hair walks a pale blue runway in a long navy wool coat with notched lapels, burgundy patent leather cuffs, and burgundy piping. Navy wide-leg trousers, a high navy velvet collar, and navy gloves complete the look. She carries a burgundy quilted shoulder bag with silver chain. Her expression is calm and direct. Soft, even runway light. Palette of navy, burgundy, and pale blue. Tailored and elegant, in the style of a fall runway show.",
+      "notes": "- The burgundy cuffs and piping are the defining details.\n- Add 'mid-stride' to capture the walk.",
+      "style": "Tailored, elegant, bold",
+      "tags": "#runway #outerwear #tailored #fashion",
+      "page": 145
+    },
+    {
+      "number": 140,
+      "title": "Rust Velvet Jacket & Floral Skirt",
+      "reference": "25032.jpg",
+      "prompt": "An original young woman with long, loose blonde hair walks through a bright indoor corridor. She wears a fitted rust velvet button-front jacket with a high collar, over a deep red floral velvet skirt with a high-low hem. A gray backpack sits on her shoulders, and tall burgundy buckled boots show at the hem. Her expression is calm and serious. Soft, cool interior light with a blurred background. Palette of rust, burgundy, and warm gray. Warm and nostalgic, in the style of an early-2000s film still.",
+      "notes": "- The rust velvet and floral skirt are the warm contrast.\n- Keep the blurred background for a candid travel feel.",
+      "style": "Warm, nostalgic, moody",
+      "tags": "#autumn #film #street-style #portrait",
+      "page": 146
+    },
+    {
+      "number": 141,
+      "title": "Mock-Neck Crop & Grommet Cargo Pants",
+      "reference": "25048.jpg",
+      "prompt": "An original young woman with dark hair in a loose updo and sunglasses on her head stands against a white backdrop. She wears a fitted black long-sleeve mock-neck crop top with a small logo, paired with wide brown cargo trousers with grommet details, large patch pockets, and a black studded belt. Chunky black platform loafers complete the look. One arm is raised to her head. Her expression is calm and direct. Soft, even studio light. Palette of black, chocolate, and silver hardware. Sleek and utilitarian, in the style of a streetwear lookbook.",
+      "notes": "- The grommets and cargo pockets are the defining utility details.\n- Add 'full-length' to show the platform shoes.",
+      "style": "Sleek, utilitarian, bold",
+      "tags": "#streetwear #cargo #studio #fashion",
+      "page": 147
+    },
+    {
+      "number": 142,
+      "title": "Purple Velvet Crop & Burnout Skirt",
+      "reference": "25023.jpg",
+      "prompt": "This is a duplicate of section 122. An original young woman with long, wavy honey-blonde hair walks a dirt path through tall grass. She wears a purple velvet cropped long-sleeve top with flared cuffs, a black velvet burnout maxi skirt with a side slit, and a chain belt with a cross charm. Tall black boots complete the look. Soft, late-afternoon light and blurred trees. Palette of violet, black, and sage green. Nostalgic and moody, in the style of a boho gothic editorial.",
+      "notes": "- Keep only one of sections 122 or 142 if you do not need both.\n- The velvet crop and chain belt are the key details.",
+      "style": "Nostalgic, moody, boho",
+      "tags": "#boho #gothic #outdoor #street-style",
+      "page": 148
+    },
+    {
+      "number": 143,
+      "title": "Sequined Halter & Leather Mini",
+      "reference": "25030.jpg",
+      "prompt": "An original young woman with long, dark straight hair stands full-length against a white backdrop. She wears a sheer lilac halter top with a deep V neckline, covered in dark sequin and beaded floral embroidery, with a thin beaded choker. A distressed black leather mini skirt with studs and a low waistband completes the look. Black strappy mules finish the outfit. Her expression is calm and direct. Soft, even studio light. Palette of lilac, black, and silver. Glamorous and edgy, in the style of an evening fashion lookbook.",
+      "notes": "- The sequined embroidery and distressed leather mini are the key contrasts.\n- Add 'full-length' to keep the shoes in frame.",
+      "style": "Glamorous, edgy, bold",
+      "tags": "#evening #edgy #studio #fashion",
+      "page": 149
+    },
+    {
+      "number": 144,
+      "title": "Fuzzy Purple Crop & Denim Maxi",
+      "reference": "25050.jpg",
+      "prompt": "An original young woman with long, wavy copper-red hair stands full-length against a white backdrop. She wears a fuzzy magenta-purple long-sleeve crop top with a sweetheart neckline, a sheer layer beneath, and a silver choker. A long vintage denim maxi skirt with frayed hem and a studded belt, plus a slouchy suede shoulder bag, complete the outfit. Plush purple slippers finish the look. Her expression is calm. Soft, even studio light. Palette of magenta, indigo denim, and burnt copper. Cozy and playful, in the style of a fall street-style lookbook.",
+      "notes": "- The fuzzy texture and denim maxi are the defining pieces.\n- Keep the slippers for a playful, lounge-inspired finish.",
+      "style": "Cozy, playful, vintage",
+      "tags": "#boho #fuzzy #layered #street-style",
+      "page": 150
+    },
+    {
+      "number": 145,
+      "title": "Embroidered Corset Top & Black Trousers",
+      "reference": "25026.jpg",
+      "prompt": "An original young woman with long, straight light brown hair walks a runway in a black embroidered corset top with a lace-trimmed neckline, a front button placket, and a cropped hem. Black straight-leg trousers and a small black handbag with gold tassel detail complete the look. She wears layered gold chains and a gold heart pendant. Her expression is calm and direct. A muted gray-green runway with soft light. Palette of black, muted rose, and gold. Refined and romantic, in the style of a fall runway show.",
+      "notes": "- The embroidered corset and gold chains are the key focal points.\n- Add 'mid-stride' to capture the walk.",
+      "style": "Refined, romantic, sharp",
+      "tags": "#runway #corset #fashion #editorial",
+      "page": 151
+    },
+    {
+      "number": 146,
+      "title": "Navy Henley & Olive Cargo Trousers",
+      "reference": "25047.jpg",
+      "prompt": "An original young woman with long, light brown hair tucked behind one ear stands against a white backdrop. She wears a fitted navy ribbed henley with a short button placket over a light gray layered tank. Wide olive cargo trousers with drawstring cuffs and side pockets sit under a black belt, and a small silver keychain dangles at one hip. White chunky sneakers complete the look. Her expression is calm. Soft, even studio light. Palette of navy, heather gray, and olive. Relaxed and utilitarian, in the style of a streetwear catalog.",
+      "notes": "- The olive cargo trousers and layered henley are the defining pieces.\n- Keep the keychain as a small, playful detail.",
+      "style": "Relaxed, utilitarian, casual",
+      "tags": "#streetwear #cargo #studio #casual",
+      "page": 152
+    },
+    {
+      "number": 147,
+      "title": "Lilac Mesh Top & Metal Belt",
+      "reference": "25043.jpg",
+      "prompt": "An original young woman with long, straight black hair falls past her shoulders and wears layered silver necklaces. She wears a lilac long-sleeve mesh top with a scoop neckline, a sheer lace-trimmed bodice with small floral embroidery, and a center zip. A wide embellished metal belt sits low over dark flare jeans. Pointed silver-toned shoes complete the look. Her expression is calm and direct. Soft, even studio light. Palette of lilac, charcoal denim, and silver. Playful and delicate, in the style of a Y2K lookbook.",
+      "notes": "- The sheer lace bodice and metal belt are the signature details.\n- Keep the flare jeans for a retro silhouette.",
+      "style": "Playful, delicate, Y2K",
+      "tags": "#y2k #layered #studio #fashion",
+      "page": 153
+    },
+    {
+      "number": 148,
+      "title": "Black Off-Shoulder Gown on the Street",
+      "reference": "25029.jpg",
+      "prompt": "An original young woman with long, straight dark hair and rectangular glasses stands on a city street in front of a red-brick building. She wears a fitted black off-shoulder long-sleeve maxi dress with a structured corset-style waist and a small heart pendant. Her expression is calm and direct. Soft, late-afternoon light and parked cars behind her. Palette of black, brick red, and silver. Sleek and dramatic, in the style of an evening street-style photo.",
+      "notes": "- The off-shoulder neckline and corset waist are the key shapes.\n- Keep the brick building for a strong architectural backdrop.",
+      "style": "Sleek, dramatic, elegant",
+      "tags": "#evening #street-style #corset #fashion",
+      "page": 154
+    },
+    {
+      "number": 149,
+      "title": "Rhinestone Script Top & Cargo Pants",
+      "reference": "25046.jpg",
+      "prompt": "An original young woman with long, straight black hair wears a black knit beret and small wire glasses. She wears a navy long-sleeve off-shoulder top with rhinestone script across the chest and white side stripes, over a white camisole. A gingham blue waistband peeks under a white drawstring tie on black cargo trousers. A silver shoulder bag hangs at her side. Her expression is calm and direct. Soft, even studio light. Palette of navy, white, and silver. Bold and playful, in the style of a Y2K streetwear lookbook.",
+      "notes": "- The rhinestone script and beret are the signature styling.\n- Keep the rhinestone detail generic to avoid readable text in the image.",
+      "style": "Bold, playful, sporty",
+      "tags": "#streetwear #y2k #cargo #studio",
+      "page": 155
+    },
+    {
+      "number": 150,
+      "title": "Ribbed Off-Shoulder Zip Top & Heart Belt",
+      "reference": "25045.jpg",
+      "prompt": "An original young woman with long, wavy dark hair wears a dusty blue ribbed off-shoulder top with a center zip and a flared sleeve cuff. A bold silver heart-shaped belt buckle sits over washed-out dark jeans. Long drop earrings and a sleek choker complete the look. Her expression is calm and direct. Soft, even studio light against a pale gray backdrop. Palette of dusty blue, washed denim, and silver. Relaxed and cool, in the style of a fashion-forward street-style lookbook.",
+      "notes": "- The off-shoulder zip top and heart buckle are the defining details.\n- Keep the washed denim for a relaxed, lived-in look.",
+      "style": "Relaxed, cool, fashion-forward",
+      "tags": "#casual #street-style #layered #studio",
+      "page": 156
+    },
+    {
+      "number": 151,
+      "title": "Vintage Print Top & Black Shorts",
+      "reference": "25044.jpg",
+      "prompt": "An original young woman with long, wavy copper-red hair pulled into a loose bun wears round wire glasses and a black choker. She wears a fitted pink vintage-print long-sleeve top with black contrast sleeves and a crew neckline. Black low-rise cargo shorts sit under a studded black belt, with white ribbed socks and black platform boots. Her expression is calm and direct. A soft blue gradient backdrop with even light. Palette of blush pink, black, and soft sky blue. Playful and retro, in the style of a Y2K streetwear catalog.",
+      "notes": "- The vintage print and studded belt are the defining details.\n- Keep the print abstract to avoid readable text in the image.",
+      "style": "Playful, retro, edgy",
+      "tags": "#y2k #vintage #street-style #studio",
+      "page": 157
+    },
+    {
+      "number": 152,
+      "title": "Lilac Mesh Top & Flare Jeans, Hands on Hips",
+      "reference": "25027.jpg",
+      "prompt": "An original young woman with long, straight black hair falls past her shoulders and wears layered silver necklaces. She wears a lilac long-sleeve mesh top with a scoop neckline, a sheer lace-trimmed bodice, and a center zip, over dark flare jeans with a wide embellished metal belt. Her hands rest at her hips, and her expression is calm. Soft, even studio light against a plain white backdrop. Palette of lilac, charcoal denim, and silver. Delicate and playful, in the style of a Y2K lookbook.",
+      "notes": "- This is an alternate angle of the lilac mesh set in section 147; keep only one if you do not need both.\n- The hands-on-hips pose is an alternative to the standing pose.",
+      "style": "Delicate, playful, Y2K",
+      "tags": "#y2k #layered #studio #fashion",
+      "page": 158
+    },
+    {
+      "number": 153,
+      "title": "Taupe Crop Cardigan & Brown Parachute Pants",
+      "reference": "25049.jpg",
+      "prompt": "An original young woman with a sleek black bob and blunt bangs wears a taupe cropped long-sleeve cardigan with a graphic print and small buttons over a dark bralette. A black choker sits at her throat, and a black leather shoulder bag hangs at one side. Wide brown parachute cargo trousers with a drawstring and a studded belt complete the look. Chunky black platform slides finish the outfit. Her expression is calm and direct. Soft, even studio light. Palette of taupe, chocolate, and black. Relaxed and utilitarian, in the style of a streetwear catalog.",
+      "notes": "- The cropped cardigan and parachute trousers are the key pieces.\n- Keep the blunt bob for a clean, graphic silhouette.",
+      "style": "Relaxed, utilitarian, sporty",
+      "tags": "#streetwear #cargo #studio #fashion",
+      "page": 159
+    },
+    {
+      "number": 154,
+      "title": "Black Strapless Top & Grommet Mini",
+      "reference": "25031.jpg",
+      "prompt": "An original young woman with long, straight dark brown hair wears a black strapless fitted top with a crossed black strap around the neck. A black leather mini skirt with rows of silver grommets and buckle straps sits low at the hip, with long black fingerless gloves on both arms. Tall black lace-up platform boots with buckle straps complete the look. Her expression is calm and direct. A soft pastel gradient backdrop with even light. Palette of black, silver, and pastel mint and butter yellow. Bold and sleek, in the style of a Y2K fashion catalog.",
+      "notes": "- The grommeted mini and platform boots are the defining elements.\n- Keep the pastel gradient for a soft contrast behind the black outfit.",
+      "style": "Bold, sleek, edgy",
+      "tags": "#fashion #y2k #bold #studio",
+      "page": 160
+    },
+    {
+      "number": 155,
+      "title": "Dark Leather Jacket on a Parisian Balcony",
+      "reference": "25058.jpg",
+      "prompt": "An original young woman with long, straight blonde hair and wispy bangs stands on a balcony with ornate black wrought-iron railings. She wears a dark brown leather zip jacket with a high collar, patch pockets, and a short black skirt, with a black shoulder bag strap across her body. Gold rings adorn her fingers. Her expression is calm and serious, looking off to the side. Warm, late-afternoon light on a cream stone facade. Palette of espresso brown, black, and warm gold. Chic and candid, in the style of an urban street-style photo.",
+      "notes": "- The leather jacket and ornate railing set the mood.\n- Keep the stone facade for a Parisian setting.",
+      "style": "Chic, urban, candid",
+      "tags": "#street-style #leather #urban #candid",
+      "page": 161
+    },
+    {
+      "number": 156,
+      "title": "Gray Ribbed Hoodie & Studded Flares",
+      "reference": "25071.jpg",
+      "prompt": "An original young woman with long, straight dark hair stands full-length against a white backdrop. She wears a fitted gray ribbed zip hoodie with a V-neck and flap pockets, with small star-shaped metal accents at the waist. Black flared trousers have rows of silver eyelets and long straps down the legs, with a fur-trimmed pouch at one hip. Her expression is calm and direct. Soft, even studio light. Palette of heathered gray, black, and silver. Edgy and structured, in the style of a Y2K streetwear lookbook.",
+      "notes": "- The studded flares and straps are the defining details.\n- Add 'full-length, head to toe' to keep the shoes in frame.",
+      "style": "Edgy, structured, Y2K",
+      "tags": "#streetwear #y2k #edgy #studio",
+      "page": 162
+    },
+    {
+      "number": 157,
+      "title": "Striped Halter & Denim Ruffle Maxi",
+      "reference": "25055.jpg",
+      "prompt": "An original young woman with long, straight light brown hair in braided pigtails wears clear lilac-tinted glasses. She wears a brown and cream striped ribbed halter top with a lace-up front and a small label, paired with a light-wash denim maxi skirt with a ruffled slit. White socks and brown suede sneakers with pink laces complete the look. She carries a brown leather shoulder bag. Her expression is calm and direct. Soft, even studio light. Palette of chocolate, cream, and faded denim. Playful and preppy, in the style of a Y2K lookbook.",
+      "notes": "- The lace-up halter and ruffled slit skirt are the defining details.\n- Keep the braided pigtails for a playful, youthful look.",
+      "style": "Playful, preppy, casual",
+      "tags": "#y2k #preppy #street-style #studio",
+      "page": 163
+    },
+    {
+      "number": 158,
+      "title": "White Lace Tie Top & Balloon Skirt",
+      "reference": "25070.jpg",
+      "prompt": "An original young woman with long, wavy auburn hair and a silver hair clip stands against a pale backdrop. She wears a white fitted cap-sleeve top with a lace-trimmed V neckline and a drawstring bow at the center. A black belt with a silver logo buckle sits over a white gathered balloon mini skirt. She carries a black structured handbag. Her expression is calm and direct. Soft, even studio light. Palette of white, black, and blush. Sweet and romantic, in the style of a coquette-inspired catalog.",
+      "notes": "- The lace trim and balloon hem are the key romantic details.\n- Keep the white-on-white palette soft and airy.",
+      "style": "Sweet, romantic, soft",
+      "tags": "#coquette #romantic #studio #fashion",
+      "page": 164
+    },
+    {
+      "number": 159,
+      "title": "Off-Shoulder Zip Knit & Cargo Pants",
+      "reference": "25068.jpg",
+      "prompt": "An original young woman with long, straight dark hair parted to one side stands against a white backdrop. She wears a white ribbed knit off-shoulder cardigan with a wide folded neckline and a double zip down the front, with a chain-link ear cuff and a silver necklace. A low-rise beige cargo trouser sits beneath a white logo waistband. Her expression is calm and direct, with glossy red lips. Soft, even studio light. Palette of ivory, sand, and silver. Sleek and minimal, in the style of a minimalist knitwear campaign.",
+      "notes": "- The off-shoulder zip and cargo trousers are the defining silhouette.\n- Keep the white backdrop for a clean catalog feel.",
+      "style": "Sleek, minimal, structured",
+      "tags": "#fashion #minimal #studio #knitwear",
+      "page": 165
+    },
+    {
+      "number": 160,
+      "title": "Cream Henley & Striped Mini",
+      "reference": "25069.jpg",
+      "prompt": "An original young woman with long, straight brown hair and blunt bangs stands against a pale backdrop. She wears a cream ribbed long-sleeve henley with a scoop neckline, a small embroidered monogram, and two black stripes across the chest. A black drawstring mini skirt has contrast white piping at the sides and a matching embroidered monogram. Thumbhole cuffs and a thin black choker complete the look. Her expression is calm and direct. Soft, even studio light. Palette of cream, black, and white. Crisp and sporty, in the style of a streetwear athleisure lookbook.",
+      "notes": "- The striped henley and piped skirt are the signature details.\n- Keep the monograms simple and generic to avoid readable text.",
+      "style": "Sporty, crisp, preppy",
+      "tags": "#sporty #preppy #studio #fashion",
+      "page": 166
+    },
+    {
+      "number": 161,
+      "title": "Blue Hair in the Snow",
+      "reference": "25061.jpg",
+      "prompt": "An original young woman with long, electric blue hair dusted with snowflakes smiles warmly in a snowy forest. She wears a dusty blue sleeveless corset top with lace trim and long fingerless sleeves, layered with multiple dark necklaces and a silver pendant. A dark belt with a silver buckle sits at her waist. Her expression is joyful, with bright blue eyes. Falling snow and blurred evergreens behind her. Palette of cobalt, slate blue, and snow white. Playful and wintry, in the style of a cinematic fantasy film still.",
+      "notes": "- The blue hair and snowfall are the defining elements.\n- Keep the falling snow for a magical, wintry feel.",
+      "style": "Playful, wintry, cinematic",
+      "tags": "#winter #fantasy #cinematic #portrait",
+      "page": 167
+    },
+    {
+      "number": 162,
+      "title": "Brown Long-Sleeve Top & Cargo Parachute Pants",
+      "reference": "25062.jpg",
+      "prompt": "An original young woman with long, curly honey-blonde hair walks through a bright indoor corridor carrying a large black leather duffel bag. She wears a fitted black long-sleeve scoop-neck top that stops above the waist, layered with two thin silver necklaces. Taupe ruched parachute cargo trousers with drawstrings and a low waistband complete the look. Her expression is calm and serious. Soft, cool interior light with a blurred figure behind her. Palette of chocolate, taupe, and black. Nostalgic and utilitarian, in the style of a late-1990s film still.",
+      "notes": "- The curly hair and parachute trousers are the signature elements.\n- Keep the blurred background for a candid, on-the-move feel.",
+      "style": "Nostalgic, utilitarian, candid",
+      "tags": "#90s #street-style #cargo #candid",
+      "page": 168
+    },
+    {
+      "number": 163,
+      "title": "Burgundy Leather Jacket & Belted Mini",
+      "reference": "25057.jpg",
+      "prompt": "An original young woman with long, straight blonde hair stands on a rooftop terrace with black planters and a city skyline behind her. She wears a fitted burgundy leather zip jacket with a high collar and cropped peplum hem, with a black leather mini skirt and a wide black belt with an oversized silver buckle. Tall black pointed-toe knee boots complete the look. Her expression is calm and direct. Bright, natural daylight. Palette of oxblood, black, and silver. Bold and sleek, in the style of a fall street-style editorial.",
+      "notes": "- The oxblood leather and belt buckle are the defining elements.\n- Keep the rooftop planters for a sophisticated urban frame.",
+      "style": "Bold, sleek, urban",
+      "tags": "#leather #street-style #rooftop #fashion",
+      "page": 169
+    },
+    {
+      "number": 164,
+      "title": "Denim Bustier, Maxi Skirt & Fur Bag",
+      "reference": "25051.jpg",
+      "prompt": "An original young woman with long, wavy copper hair falls over one shoulder, with a long multicolor knit scarf draped across her body. She wears a strapless fitted denim bustier with frayed edges and button front, paired with a dark washed denim maxi skirt with a frayed hem. A fluffy leopard-print faux-fur bag and brown pointed suede mules complete the look. Her expression is calm and direct. Soft, gray studio backdrop with even light. Palette of indigo denim, warm brown, and multicolor knit. Warm and textured, in the style of an autumn editorial.",
+      "notes": "- The frayed denim and fur bag are the key textures.\n- Keep the scarf for a layered, cozy finish.",
+      "style": "Warm, layered, textured",
+      "tags": "#autumn #denim #layered #studio",
+      "page": 170
+    },
+    {
+      "number": 165,
+      "title": "Cable-Knit Red Sweater & Denim Mermaid Skirt",
+      "reference": "25053.jpg",
+      "prompt": "An original young woman with soft, pale auburn hair and a white knit beret with a flower accent stands against a soft beige backdrop. She wears a chunky red cable-knit sweater with an off-shoulder drop and a black bow tie at one shoulder. A dark denim mermaid skirt with a frayed asymmetric hem and a patch sits beneath, with a red plaid scarf draped over one arm. Brown chunky loafers and white socks complete the look. Her expression is calm and direct. Soft, even studio light. Palette of crimson, indigo denim, and cream. Cozy and festive, in the style of a winter knitwear catalog.",
+      "notes": "- The red cable knit and denim mermaid skirt are the signature pairing.\n- Keep the beret and bow for a playful, winter finish.",
+      "style": "Cozy, festive, sweet",
+      "tags": "#winter #knitwear #festive #studio",
+      "page": 171
+    },
+    {
+      "number": 166,
+      "title": "Graphic Skull Tank & Mini Dress",
+      "reference": "25064.jpg",
+      "prompt": "An original young woman with a sleek black bob and winged eyeliner stands beside a charging station at night, with tall illuminated buildings behind her. She wears a fitted black spaghetti-strap mini dress with a large silver skull graphic across the chest. Black fingerless leather gloves with studs hold a coffee cup, and a black quilted shoulder bag hangs at her side. Her expression is calm and direct. Cool, night-time city light with warm glints. Palette of black, silver, and urban blue. Edgy and bold, in the style of a nightlife street-style photo.",
+      "notes": "- The skull graphic and studded gloves are the defining details.\n- Keep the graphic abstract to avoid readable text in the image.",
+      "style": "Edgy, bold, nocturnal",
+      "tags": "#grunge #night #street-style #tattoo",
+      "page": 172
+    },
+    {
+      "number": 167,
+      "title": "Black Leather Jacket & Navy Cami",
+      "reference": "25060.png",
+      "prompt": "An original young woman with long, straight black hair stands in an ornately decorated room with floral wallpaper, gilded lamps, and framed landscape paintings. She wears a black leather zip jacket with elasticated cuffs over a fitted navy camisole with a lace edge. Low-rise washed charcoal jeans complete the look. Her expression is calm and direct. Warm, soft interior light. Palette of black, navy, and charcoal, with warm gold accents. Moody and vintage, in the style of a classic interior fashion photo.",
+      "notes": "- The leather jacket and lace-edged camisole are the layering focus.\n- Keep the framed paintings and lamp for a lived-in, vintage room.",
+      "style": "Moody, vintage, layered",
+      "tags": "#vintage #interior #layered #portrait",
+      "page": 173
+    },
+    {
+      "number": 168,
+      "title": "Beige Knit Crop & Denim Maxi",
+      "reference": "25054.jpg",
+      "prompt": "An original young woman with long, straight black hair stands against a soft gray backdrop. She wears a beige short-sleeve knit crop top with a diamond-texture pattern and a front tie with cord detail. A dark wash denim maxi skirt with a mermaid flare and frayed asymmetric hem sits at the waist. She holds a black quilted shoulder bag and wears chunky black slide sandals. Her expression is calm and direct. Soft, even studio light. Palette of sand, indigo denim, and black. Fresh and casual, in the style of a spring lookbook.",
+      "notes": "- The beige knit crop and mermaid denim are the key shapes.\n- Keep the frayed hem for a relaxed, lived-in finish.",
+      "style": "Fresh, casual, polished",
+      "tags": "#spring #knitwear #casual #studio",
+      "page": 174
+    },
+    {
+      "number": 169,
+      "title": "Black Turtleneck & Patent Trousers",
+      "reference": "25063.jpg",
+      "prompt": "An original young woman with long, wavy blonde hair sits on a gray backdrop. She wears a fitted black cropped mock-neck long-sleeve top and layered silver chain necklaces with a large star-shaped pendant. Glossy black patent trousers are cinched with a silver chain belt. Her expression is calm and serious, with glossy pink lips. Soft, even studio light with gentle shadow. Palette of black, silver, and soft gray. Bold and edgy, in the style of a high-fashion editorial.",
+      "notes": "- The patent trousers and layered chains are the key contrasts.\n- Keep the gray backdrop for a moody, editorial feel.",
+      "style": "Bold, edgy, editorial",
+      "tags": "#editorial #metallic #studio #fashion",
+      "page": 175
+    },
+    {
+      "number": 170,
+      "title": "Black Ribbed Zip Crop & White Jeans",
+      "reference": "25067.jpg",
+      "prompt": "An original young woman with long, straight light brown hair blowing slightly across her face stands against a white backdrop. She wears a fitted black ribbed knit cropped zip cardigan with a crew neck and a small embroidered mark. A black belt sits over wide white denim trousers. Her expression is calm and direct. Soft, even studio light. Palette of black, white, and warm skin tones. Clean and sleek, in the style of a minimal streetwear catalog.",
+      "notes": "- The ribbed zip crop and white denim are the key contrast.\n- Keep the windblown hair for movement against the white backdrop.",
+      "style": "Clean, sleek, minimal",
+      "tags": "#minimal #streetwear #studio #fashion",
+      "page": 176
+    },
+    {
+      "number": 171,
+      "title": "Fuzzy Green Cardigan & Denim Maxi",
+      "reference": "25052.jpg",
+      "prompt": "An original young woman with long, straight dark brown hair and a small hair clip stands with her arms folded against a gray concrete wall. She wears a sage green ribbed knit crop top with a fuzzy faux-fur shawl collar and cuffs. A distressed dark wash denim maxi skirt with a front slit and frayed hem sits low, with a black belt and a silver buckle. Black pointed-toe ankle boots with buckle straps complete the look. Her expression is calm and direct. Soft, even light. Palette of sage, faded denim, and charcoal. Cozy and textured, in the style of an autumn street-style editorial.",
+      "notes": "- The fuzzy shawl collar and denim slit skirt are the signature details.\n- Keep the concrete wall for an industrial, gritty backdrop.",
+      "style": "Cozy, textured, edgy",
+      "tags": "#autumn #fuzzy #layered #street-style",
+      "page": 177
+    },
+    {
+      "number": 172,
+      "title": "Blue Lace-Trim Tank & Low-Rise Jeans",
+      "reference": "25066.jpg",
+      "prompt": "An original young woman with wavy, sun-kissed blonde hair leans against a textured blue wall. She wears a pale blue ribbed tank with a scalloped lace neckline and lace trim at the hem. Multiple silver necklaces hang at her chest, and a silver stud sits at her ear. Low-rise faded denim jeans with decorative pocket detailing and a studded belt complete the look. Her expression is calm and direct. Warm, natural daylight. Palette of powder blue, faded denim, and soft cream lace. Nostalgic and relaxed, in the style of a 1990s film portrait.",
+      "notes": "- The lace-trimmed tank and layered necklaces are the defining details.\n- Keep the textured blue wall for a bold, graphic backdrop.",
+      "style": "Nostalgic, relaxed, sun-washed",
+      "tags": "#90s #casual #portrait #film",
+      "page": 178
+    },
+    {
+      "number": 173,
+      "title": "White Mesh Graphic Tee & Ruffled Denim",
+      "reference": "25056.jpg",
+      "prompt": "An original young woman with long, wavy brown hair and a white bow hair clip stands full-length against a light gray backdrop. She wears a fitted white mesh cap-sleeve top with a black bow graphic across the chest. A medium wash denim midi skirt with a ruffled asymmetric slit and a brown belt with a plush bear charm sits at the waist. Black crossbody bag, patterned socks, and chunky silver sneakers complete the look. Her expression is calm, with one hand raised to her hair. Soft, even studio light. Palette of white, faded denim, and charcoal. Playful and feminine, in the style of a Y2K lookbook.",
+      "notes": "- The bow graphic and ruffled denim slit are the key details.\n- Keep the bear charm as a playful accent.",
+      "style": "Playful, feminine, Y2K",
+      "tags": "#y2k #graphic #street-style #studio",
+      "page": 179
+    },
+    {
+      "number": 174,
+      "title": "Pink Button-Up & Rimless Glasses at Night",
+      "reference": "25065.jpg",
+      "prompt": "An original young woman with long, straight dark hair and rimless glasses stands on a city street at night. She wears a fitted pink button-up shirt with a cinched waist, open at the neckline over a black bralette, and a black shoulder bag strap across her body. Dark low-rise denim jeans complete the look. Her expression is calm and direct. Warm streetlight and a glowing storefront behind her. Palette of blush pink, deep navy, and warm amber. Sleek and candid, in the style of a night street-style photo.",
+      "notes": "- The fitted pink shirt and rimless glasses are the defining details.\n- Keep the warm storefront glow for a nighttime city atmosphere.",
+      "style": "Sleek, candid, urban",
+      "tags": "#night #street-style #minimal #candid",
+      "page": 180
+    }
+  ],
+  "layout": [
+    {
+      "study": 1,
+      "page": 7,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 367.03999999999996,
+      "notes_bottom": 77
+    },
+    {
+      "study": 2,
+      "page": 8,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 381.1,
+      "notes_bottom": 77
+    },
+    {
+      "study": 3,
+      "page": 9,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 324.86,
+      "notes_bottom": 77
+    },
+    {
+      "study": 4,
+      "page": 10,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 324.86,
+      "notes_bottom": 77
+    },
+    {
+      "study": 5,
+      "page": 11,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 296.74,
+      "notes_bottom": 77
+    },
+    {
+      "study": 6,
+      "page": 12,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 296.74,
+      "notes_bottom": 77
+    },
+    {
+      "study": 7,
+      "page": 13,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 310.8,
+      "notes_bottom": 77
+    },
+    {
+      "study": 8,
+      "page": 14,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 338.91999999999996,
+      "notes_bottom": 65
+    },
+    {
+      "study": 9,
+      "page": 15,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 338.91999999999996,
+      "notes_bottom": 53
+    },
+    {
+      "study": 10,
+      "page": 16,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 324.86,
+      "notes_bottom": 65
+    },
+    {
+      "study": 11,
+      "page": 17,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 338.91999999999996,
+      "notes_bottom": 65
+    },
+    {
+      "study": 12,
+      "page": 18,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 352.98,
+      "notes_bottom": 65
+    },
+    {
+      "study": 13,
+      "page": 19,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 352.98,
+      "notes_bottom": 77
+    },
+    {
+      "study": 14,
+      "page": 20,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 338.91999999999996,
+      "notes_bottom": 65
+    },
+    {
+      "study": 15,
+      "page": 21,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 310.8,
+      "notes_bottom": 53
+    },
+    {
+      "study": 16,
+      "page": 22,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 338.91999999999996,
+      "notes_bottom": 53
+    },
+    {
+      "study": 17,
+      "page": 23,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 18,
+      "page": 24,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 19,
+      "page": 25,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 20,
+      "page": 26,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 21,
+      "page": 27,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 22,
+      "page": 28,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 23,
+      "page": 29,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 465.46,
+      "notes_bottom": 77
+    },
+    {
+      "study": 24,
+      "page": 30,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 465.46,
+      "notes_bottom": 77
+    },
+    {
+      "study": 25,
+      "page": 31,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 26,
+      "page": 32,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 27,
+      "page": 33,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 28,
+      "page": 34,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 29,
+      "page": 35,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 30,
+      "page": 36,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 31,
+      "page": 37,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 32,
+      "page": 38,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 33,
+      "page": 39,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 34,
+      "page": 40,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 35,
+      "page": 41,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 36,
+      "page": 42,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 465.46,
+      "notes_bottom": 77
+    },
+    {
+      "study": 37,
+      "page": 43,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 409.22,
+      "notes_bottom": 77
+    },
+    {
+      "study": 38,
+      "page": 44,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 39,
+      "page": 45,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 40,
+      "page": 46,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 41,
+      "page": 47,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 42,
+      "page": 48,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 43,
+      "page": 49,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 44,
+      "page": 50,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 45,
+      "page": 51,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 46,
+      "page": 52,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 47,
+      "page": 53,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 409.22,
+      "notes_bottom": 77
+    },
+    {
+      "study": 48,
+      "page": 54,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 49,
+      "page": 55,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 50,
+      "page": 56,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 51,
+      "page": 57,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 52,
+      "page": 58,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 465.46,
+      "notes_bottom": 77
+    },
+    {
+      "study": 53,
+      "page": 59,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 54,
+      "page": 60,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 55,
+      "page": 61,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 409.22,
+      "notes_bottom": 77
+    },
+    {
+      "study": 56,
+      "page": 62,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 409.22,
+      "notes_bottom": 77
+    },
+    {
+      "study": 57,
+      "page": 63,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 58,
+      "page": 64,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 59,
+      "page": 65,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 60,
+      "page": 66,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 465.46,
+      "notes_bottom": 77
+    },
+    {
+      "study": 61,
+      "page": 67,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 62,
+      "page": 68,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 63,
+      "page": 69,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 64,
+      "page": 70,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 65,
+      "page": 71,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 465.46,
+      "notes_bottom": 77
+    },
+    {
+      "study": 66,
+      "page": 72,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 465.46,
+      "notes_bottom": 77
+    },
+    {
+      "study": 67,
+      "page": 73,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 465.46,
+      "notes_bottom": 77
+    },
+    {
+      "study": 68,
+      "page": 74,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 69,
+      "page": 75,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 70,
+      "page": 76,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 65
+    },
+    {
+      "study": 71,
+      "page": 77,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 465.46,
+      "notes_bottom": 77
+    },
+    {
+      "study": 72,
+      "page": 78,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 73,
+      "page": 79,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 465.46,
+      "notes_bottom": 77
+    },
+    {
+      "study": 74,
+      "page": 80,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 465.46,
+      "notes_bottom": 77
+    },
+    {
+      "study": 75,
+      "page": 81,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 465.46,
+      "notes_bottom": 65
+    },
+    {
+      "study": 76,
+      "page": 82,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 77,
+      "page": 83,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 78,
+      "page": 84,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 79,
+      "page": 85,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 80,
+      "page": 86,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 81,
+      "page": 87,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 82,
+      "page": 88,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 465.46,
+      "notes_bottom": 77
+    },
+    {
+      "study": 83,
+      "page": 89,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 84,
+      "page": 90,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 85,
+      "page": 91,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 86,
+      "page": 92,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 87,
+      "page": 93,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 88,
+      "page": 94,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 89,
+      "page": 95,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 90,
+      "page": 96,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 91,
+      "page": 97,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 409.22,
+      "notes_bottom": 77
+    },
+    {
+      "study": 92,
+      "page": 98,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 409.22,
+      "notes_bottom": 77
+    },
+    {
+      "study": 93,
+      "page": 99,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 94,
+      "page": 100,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 95,
+      "page": 101,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 96,
+      "page": 102,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 409.22,
+      "notes_bottom": 77
+    },
+    {
+      "study": 97,
+      "page": 103,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 98,
+      "page": 104,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 99,
+      "page": 105,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 100,
+      "page": 106,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 101,
+      "page": 107,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 102,
+      "page": 108,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 103,
+      "page": 109,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 104,
+      "page": 110,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 105,
+      "page": 111,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 106,
+      "page": 112,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 465.46,
+      "notes_bottom": 77
+    },
+    {
+      "study": 107,
+      "page": 113,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 108,
+      "page": 114,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 109,
+      "page": 115,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 110,
+      "page": 116,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 111,
+      "page": 117,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 112,
+      "page": 118,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 113,
+      "page": 119,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 114,
+      "page": 120,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 115,
+      "page": 121,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 116,
+      "page": 122,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 117,
+      "page": 123,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 409.22,
+      "notes_bottom": 77
+    },
+    {
+      "study": 118,
+      "page": 124,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 119,
+      "page": 125,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 120,
+      "page": 126,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 121,
+      "page": 127,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 122,
+      "page": 128,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 123,
+      "page": 129,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 124,
+      "page": 130,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 125,
+      "page": 131,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 126,
+      "page": 132,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 127,
+      "page": 133,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 128,
+      "page": 134,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 129,
+      "page": 135,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 130,
+      "page": 136,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 131,
+      "page": 137,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 132,
+      "page": 138,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 133,
+      "page": 139,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 134,
+      "page": 140,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 135,
+      "page": 141,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 136,
+      "page": 142,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 137,
+      "page": 143,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 138,
+      "page": 144,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 139,
+      "page": 145,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 140,
+      "page": 146,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 141,
+      "page": 147,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 409.22,
+      "notes_bottom": 77
+    },
+    {
+      "study": 142,
+      "page": 148,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 143,
+      "page": 149,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 144,
+      "page": 150,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 409.22,
+      "notes_bottom": 77
+    },
+    {
+      "study": 145,
+      "page": 151,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 146,
+      "page": 152,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 147,
+      "page": 153,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 148,
+      "page": 154,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 149,
+      "page": 155,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 150,
+      "page": 156,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 151,
+      "page": 157,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 152,
+      "page": 158,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 65
+    },
+    {
+      "study": 153,
+      "page": 159,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 409.22,
+      "notes_bottom": 77
+    },
+    {
+      "study": 154,
+      "page": 160,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 155,
+      "page": 161,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 156,
+      "page": 162,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 157,
+      "page": 163,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 158,
+      "page": 164,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 159,
+      "page": 165,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 160,
+      "page": 166,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 409.22,
+      "notes_bottom": 77
+    },
+    {
+      "study": 161,
+      "page": 167,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 162,
+      "page": 168,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 409.22,
+      "notes_bottom": 77
+    },
+    {
+      "study": 163,
+      "page": 169,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 164,
+      "page": 170,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 409.22,
+      "notes_bottom": 77
+    },
+    {
+      "study": 165,
+      "page": 171,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 409.22,
+      "notes_bottom": 77
+    },
+    {
+      "study": 166,
+      "page": 172,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 167,
+      "page": 173,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 168,
+      "page": 174,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 169,
+      "page": 175,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 437.34000000000003,
+      "notes_bottom": 77
+    },
+    {
+      "study": 170,
+      "page": 176,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 451.4,
+      "notes_bottom": 77
+    },
+    {
+      "study": 171,
+      "page": 177,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 409.22,
+      "notes_bottom": 77
+    },
+    {
+      "study": 172,
+      "page": 178,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    },
+    {
+      "study": 173,
+      "page": 179,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 395.15999999999997,
+      "notes_bottom": 77
+    },
+    {
+      "study": 174,
+      "page": 180,
+      "prompt_font_size": 9.5,
+      "prompt_bottom": 423.28,
+      "notes_bottom": 77
+    }
+  ]
+}
