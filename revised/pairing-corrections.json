@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "approval": "User explicitly approved these six reference-link and corresponding Source-field corrections after reviewing side-by-side image boards.",
+  "baseline_commit": "5235d883e9161eaed9f28633c539f4c34f39768e",
+  "previous_editorial_commit": "854d94ab65460cb6628a0bf1ba30640d3ae02423",
+  "source_before_sha256": "bac8e7e0449ac5c28c7e99a8ac087642ec975f2184ac188d7b053a4ae9a5aa47",
+  "source_after_sha256": "2637b0bb8ae342ed0a4a9d798d95998982954fd72edb1e61b3c447159a0d7191",
+  "chapters_before_sha256": "71768878e04ed44120bea355b1c76b96a180bd70e4a13e67cfb3b14c3ad8c1b0",
+  "chapters_after_sha256": "2125110984a5baa4729152d7950c046b118a4816996fdc754f0bdeb2ded17c40",
+  "corrections": [
+    {
+      "study": 7,
+      "from": "4991.jpg",
+      "to": "4992.jpg"
+    },
+    {
+      "study": 8,
+      "from": "4992.jpg",
+      "to": "4993.jpg"
+    },
+    {
+      "study": 9,
+      "from": "4993.jpg",
+      "to": "4991.jpg"
+    },
+    {
+      "study": 12,
+      "from": "5030.jpg",
+      "to": "5032.jpg"
+    },
+    {
+      "study": 13,
+      "from": "5031.jpg",
+      "to": "5030.jpg"
+    },
+    {
+      "study": 14,
+      "from": "5032.jpg",
+      "to": "5031.jpg"
+    }
+  ],
+  "scope": "Only these six attachment links and Source fields change in the Markdown; matching Source metadata is updated without changing chapter assignments. Prompt text, titles, numbers, original notes and attachment bytes are unchanged.",
+  "status": "Resolved with publisher approval; obsolete Review pairing flags may be removed for these six studies. Rights check flags remain."
+}
