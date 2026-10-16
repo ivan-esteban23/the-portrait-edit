@@ -1,0 +1,89 @@
+{
+  "status": "PASS",
+  "pdf": "revised/The_Portrait_Edit_Issue_02_Larger_Type.pdf",
+  "pdf_sha256": "cf47ffbb6a1277f6d90ef9d77a70cab5fcec22e1c93296373006dd1fa6760620",
+  "pages": 196,
+  "letter_points": [
+    612,
+    792
+  ],
+  "contents_studies_once": 174,
+  "exact_normalized_prompts": 174,
+  "original_titles": 174,
+  "source_filenames_match_current": 174,
+  "approved_source_corrections": 6,
+  "original_prompt_and_note_bytes_preserved": true,
+  "chapter_membership_unchanged": true,
+  "original_working_notes": 174,
+  "reviewed_try_lines": 174,
+  "pairing_studies": [],
+  "rights_studies": 174,
+  "duplicate_studies": 18,
+  "contents_links": 174,
+  "chapter_directory_links": 9,
+  "bookmarks_correct": 183,
+  "minimum_exported_body_pt": 10.0,
+  "no_clipping": true,
+  "no_text_block_or_image_overlap": true,
+  "text_spans_checked": 5876,
+  "overlap_measurement": "FreeType glyph ink bounds positioned at exported PDF character origins; logical blocks checked separately.",
+  "logical_block_comparisons": 28907,
+  "exported_span_comparisons": 81070,
+  "image_occurrences_original_pixels": 175,
+  "unique_reference_filenames": 170,
+  "protected_files_unchanged": 190,
+  "baseline_commit": "5235d883e9161eaed9f28633c539f4c34f39768e",
+  "readable_previews": {
+    "cover": 1,
+    "editors-letter": 2,
+    "glossary-01": 3,
+    "glossary-02": 4,
+    "contents": 10,
+    "chapter-opener": 90,
+    "long-prompt-study": 60,
+    "small-image-study": 25,
+    "duplicate-study": 86,
+    "review-pairing-study": 91,
+    "pairing-study-007": 91,
+    "pairing-study-008": 92,
+    "pairing-study-009": 128,
+    "pairing-study-012": 129,
+    "pairing-study-013": 130,
+    "pairing-study-014": 131
+  },
+  "full_issue_contact_sheets": 7,
+  "visual_inspection": {
+    "status": "PASS for inspected samples",
+    "readable_samples": [
+      "long-prompt-study",
+      "contents",
+      "glossary-01",
+      "glossary-02",
+      "duplicate-study",
+      "small-image-study",
+      "pairing-study-013"
+    ],
+    "contact_sheets": [
+      "contact-01",
+      "contact-04"
+    ],
+    "findings": "No visible clipping, overlaps or broken framing in inspected samples. All pages additionally passed geometry checks."
+  },
+  "limitations": [
+    "Geometry and pixel checks do not establish publication rights. Six source-pairing corrections were explicitly approved after visual review."
+  ],
+  "larger_type_pt": {
+    "prompt": 12,
+    "working notes": 11.5,
+    "try this": 11.5,
+    "glossary definition": 11.5,
+    "contents title": 11
+  },
+  "larger_type_blocks_checked": {
+    "prompt": 174,
+    "working notes": 174,
+    "try this": 174,
+    "glossary definition": 24,
+    "contents title": 174
+  }
+}
