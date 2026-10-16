@@ -4,7 +4,7 @@ The original PDF is preserved. Sources are parsed from Markdown without rewritin
 """
 from pathlib import Path
 from io import BytesIO
-import argparse, re, json, html, hashlib
+import argparse, re, json, html, hashlib, subprocess
 from PIL import Image, ImageOps
 from reportlab.pdfgen import canvas
 from reportlab.lib.colors import HexColor
@@ -44,15 +44,32 @@ GLOSSARY=[
 ('Pleated','Fabric arranged into intentional folds, which can give a garment structure, volume or movement.')]
 
 class Magazine:
-    def __init__(self, output):
+    def __init__(self, output, layout_output, edition="editorial"):
         for name,path in [('Serif','/usr/share/fonts/noto/NotoSerif-Regular.ttf'),('Sans','/usr/share/fonts/liberation/LiberationSans-Regular.ttf'),('Bold','/usr/share/fonts/liberation/LiberationSans-Bold.ttf')]:
             pdfmetrics.registerFont(TTFont(name,path))
         self.entries={e['number']:e for e in parse_source()}
         self.mapping=json.loads((ROOT/'revised/chapters.json').read_text())
         self.audit=json.loads((ROOT/'revised/audit-data.json').read_text())
         assert self.audit['source_sha256']==hashlib.sha256(SOURCE.read_bytes()).hexdigest(),'Rerun the audit after source changes.'
+        self.edition=edition
+        self.copy=json.loads((ROOT/'revised/editorial-copy.json').read_text())
+        assert self.copy['source_sha256']==hashlib.sha256(SOURCE.read_bytes()).hexdigest()
+        rows=self.copy['try_this']
+        assert len(rows)==174 and sorted(row['study'] for row in rows)==list(range(1,175))
+        self.try_lines={row['study']:row['line'] for row in rows}
+        for row in rows:
+            assert row['line'].strip() and '\n' not in row['line']
+            assert row['basis_note']==self.entries[row['study']]['note_items'][row['basis_note_number']-1]
+        self.baseline_commit='5235d883e9161eaed9f28633c539f4c34f39768e'
+        tracked=subprocess.check_output(['git','-C',str(ROOT),'ls-tree','-r','--name-only',self.baseline_commit],text=True).splitlines()
+        self.protected_hashes={path:hashlib.sha256((ROOT/path).read_bytes()).hexdigest() for path in tracked if path not in ('scripts/build_issue_02.py','revised/README.md')}
+        protected={(ROOT/path).resolve() for path in self.protected_hashes}
+        assert output.resolve() not in protected and layout_output.resolve() not in protected,'Refusing to overwrite a protected baseline artifact.'
+        self.layout_output=layout_output
+        self.directory=[]
         self.chapters=self.mapping['chapters'];ns=[n for ch in self.chapters for n in ch['studies']]
         assert sorted(ns)==list(range(1,175)) and len(ns)==len(set(ns))
+        assert set(self.copy['chapter_openers'])=={ch['id'] for ch in self.chapters}
         self.study_pages={};self.openers={};self.contents=[];self.boxes=[];self.image_boxes=[]
         page=5+len(self.chapters)
         for ch in self.chapters:
@@ -61,7 +78,7 @@ class Magazine:
         self.expected_pages=page-1
         output.parent.mkdir(parents=True,exist_ok=True)
         self.output=output;self.c=canvas.Canvas(str(output),pagesize=(W,H),pageCompression=1)
-        self.c.setTitle('The Portrait Edit - Issue 02 - The Prompt Issue (Revised)')
+        self.c.setTitle('The Portrait Edit - Issue 02 - The Prompt Issue (Editorial Revision)')
         self.c.setAuthor('The Portrait Edit');self.c.setSubject('174 unchanged image prompts, 170 source references, nine themed chapters')
 
     def box(self,kind,x,bottom,w,height):
@@ -70,7 +87,10 @@ class Magazine:
 
     def label(self,s,x,y,size=8,color=INK,font='Bold',checked=True):
         self.c.setFillColor(color);self.c.setFont(font,size);self.c.drawString(x,y,s)
-        if checked and y>=45 and y+size+4<=747:self.box('label',x,y-2,pdfmetrics.stringWidth(s,font,size),size+4)
+        ascent,descent=pdfmetrics.getAscentDescent(font,size)
+        if checked and y+descent>=43 and y+ascent<=747:
+            self.box('label',x,y+descent,pdfmetrics.stringWidth(s,font,size),ascent-descent)
+            self.boxes[-1].update(text=s,font=font,font_size=size)
 
     def measure(self,s,w,size,leading=None,font='Sans'):
         # Escape source markup; only source newlines affect layout.
@@ -83,6 +103,7 @@ class Magazine:
         if maxheight is not None:assert height<=maxheight,(self.c.getPageNumber(),kind,height,maxheight)
         p.style.textColor=color;p.drawOn(self.c,x,top-height)
         self.box(kind,x,top-height,w,height)
+        self.boxes[-1].update(text=s,font=font,font_size=size)
         return height
 
     def base(self,section):
@@ -125,7 +146,16 @@ class Magazine:
         self.para('Nine chapters bring this collection of 174 studies into focus. Each page places the complete original prompt beside its linked reference, with the original working notes below. The glossary introduces recurring photographic and clothing terms.',36,476,450,11,17)
         self.para('The prompts were written for DALL-E-style image tools. “Image Prompt” is used throughout as a neutral label. To explore a study, paste its prompt into your preferred image tool and use the reference attachment when supported. The added “Try this” line draws only from that study\'s existing notes.',36,369,450,11,17)
         self.para('Every study number, title, source filename, prompt and working note is preserved. Review pairing marks six potentially mismatched source links. Repeats Study identifies shared or closely related references. Rights check asks the publisher to verify likeness and publication permissions; it does not establish anyone\'s identity.',36,245,450,10,15)
-        self.label('174 STUDIES',36,83,10);self.label('170 UNIQUE REFERENCES',220,83,10);self.label('9 CHAPTERS',458,83,10)
+        self.label('CHAPTER DIRECTORY',36,149,8,color=RED)
+        for i,ch in enumerate(self.chapters):
+            col,row=divmod(i,3);x=36+col*180;y=130-row*18
+            self.label(ch['title'],x,y,9,font='Sans')
+            target=self.openers[ch['id']];number=f'{target:03d}'
+            self.label(number,x+164-pdfmetrics.stringWidth(number,'Sans',9),y,9,font='Sans')
+            rect=[x,y-4,x+168,y+12]
+            self.c.linkAbsolute('', 'chapter-'+ch['id'],rect,thickness=0)
+            self.directory.append(dict(chapter=ch['id'],title=ch['title'],page=2,target=target,rect=rect))
+        self.label('174 STUDIES',36,62,10);self.label('170 UNIQUE REFERENCES',220,62,10);self.label('9 CHAPTERS',458,62,10)
         self.c.showPage()
 
     def glossary(self):
@@ -168,22 +198,13 @@ class Magazine:
         self.c.setStrokeColor(RED);self.c.setLineWidth(1);self.c.line(36,401,111,401)
         self.label(f"{len(ch['studies'])} STUDIES",36,374,9,color=RED)
         self.para('Reference / Image Prompt / Working notes',36,331,450,11,17)
-        self.para('The studies keep their original numbers. Use the chapter contents or PDF bookmarks to move between them.',36,291,360,10,16)
+        self.para(self.copy['chapter_openers'][ch['id']],36,291,450,10,16,kind='chapter editorial line',maxheight=48)
         self.label(f"FIRST STUDY / {ch['studies'][0]:03d}",36,111,9,color=MUTED)
         self.c.showPage()
 
     def try_line(self,e):
-        overrides={2:'Try a different season or city.',3:'Warm up the palette or change the pose.',4:'Emphasize the diagonal ponytail.',5:'Try a warmer setting.',6:'Shift the costume to a different era.'}
-        if e['number'] in overrides:return overrides[e['number']]
-        items=[s for s in e['note_items'] if not re.search(r'only one|near-duplicate|alternate angle|tighter crop of|prompt is long',s,re.I)]
-        for s in reversed(items):
-            if re.match(r"(Add|Use|Swap|Consider|Describe|Adjust|Remove)\b",s):return s
-        s=items[-1]
-        if s.startswith('Keep '):return 'Emphasize '+s[5:]
-        # Rephrase only the existing visual details, without adding any new ones.
-        s=re.split(r' (?:are|is|create|define|set) ',s,maxsplit=1)[0]
-        if s.startswith('The '):s='the '+s[4:]
-        return 'Emphasize '+s.rstrip('.')+'.'
+        """Every line is explicit and reviewed; missing entries are an error."""
+        return self.try_lines[e['number']]
 
     def study(self,n,ch):
         e=self.entries[n];assert self.c.getPageNumber()==self.study_pages[n]
@@ -217,9 +238,15 @@ class Magazine:
         assert self.c.getPageNumber()-1==self.expected_pages
         self.c.save()
         manifest=dict(pages=self.expected_pages,study_pages={str(k):v for k,v in self.study_pages.items()},chapter_openers=self.openers,contents=self.contents,text_boxes=self.boxes,images=self.image_boxes,source_sha256=hashlib.sha256(SOURCE.read_bytes()).hexdigest(),pdf_sha256=hashlib.sha256(self.output.read_bytes()).hexdigest(),prompt_font_size=9.5,notes_font_size=9,image_resampling='none',output=str(self.output),try_lines={str(n):self.try_line(e) for n,e in self.entries.items()})
-        (ROOT/'revised/layout-checks.json').write_text(json.dumps(manifest,indent=2,ensure_ascii=False)+'\n')
+        manifest.update(edition=self.edition,chapter_directory=self.directory,baseline_commit=self.baseline_commit,protected_sha256=self.protected_hashes,editorial_copy_sha256=hashlib.sha256((ROOT/'revised/editorial-copy.json').read_bytes()).hexdigest())
+        self.layout_output.parent.mkdir(parents=True,exist_ok=True)
+        self.layout_output.write_text(json.dumps(manifest,indent=2,ensure_ascii=False)+'\n')
         print(f'Built {self.expected_pages} pages: {self.output} ({self.output.stat().st_size:,} bytes)')
 
 if __name__=='__main__':
-    parser=argparse.ArgumentParser();parser.add_argument('--output',type=Path,default=ROOT/'revised/The_Portrait_Edit_Issue_02_Revised.pdf')
-    Magazine(parser.parse_args().output).build()
+    parser=argparse.ArgumentParser(description='Build the separate editorial revision without overwriting baseline artifacts.')
+    parser.add_argument('--edition',choices=['editorial'],default='editorial')
+    parser.add_argument('--output',type=Path,default=ROOT/'revised/The_Portrait_Edit_Issue_02_Editorial_Revision.pdf')
+    parser.add_argument('--layout-output',type=Path,default=ROOT/'revised/editorial-layout-checks.json')
+    args=parser.parse_args()
+    Magazine(args.output,args.layout_output,args.edition).build()

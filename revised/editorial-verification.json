@@ -1,0 +1,84 @@
+{
+  "status": "PASS",
+  "pdf": "revised/The_Portrait_Edit_Issue_02_Editorial_Revision.pdf",
+  "pdf_sha256": "d50cd1f76b9cc896acd37a579727d860a914e40514bfa08f4d9df81ca9e6f015",
+  "pages": 196,
+  "letter_points": [
+    612,
+    792
+  ],
+  "contents_studies_once": 174,
+  "exact_normalized_prompts": 174,
+  "original_titles": 174,
+  "original_sources": 174,
+  "original_working_notes": 174,
+  "reviewed_try_lines": 174,
+  "pairing_studies": [
+    7,
+    8,
+    9,
+    12,
+    13,
+    14
+  ],
+  "rights_studies": 174,
+  "duplicate_studies": 18,
+  "contents_links": 174,
+  "chapter_directory_links": 9,
+  "bookmarks_correct": 183,
+  "minimum_exported_body_pt": 9.0,
+  "no_clipping": true,
+  "no_text_block_or_image_overlap": true,
+  "text_spans_checked": 5191,
+  "overlap_measurement": "FreeType glyph ink bounds positioned at exported PDF character origins; logical blocks checked separately.",
+  "logical_block_comparisons": 28907,
+  "exported_span_comparisons": 68412,
+  "image_occurrences_original_pixels": 175,
+  "unique_reference_filenames": 170,
+  "protected_files_unchanged": 193,
+  "baseline_commit": "5235d883e9161eaed9f28633c539f4c34f39768e",
+  "readable_previews": {
+    "cover": 1,
+    "editors-letter": 2,
+    "glossary-01": 3,
+    "glossary-02": 4,
+    "contents": 10,
+    "chapter-opener": 90,
+    "long-prompt-study": 60,
+    "small-image-study": 25,
+    "duplicate-study": 86,
+    "review-pairing-study": 91
+  },
+  "full_issue_contact_sheets": 7,
+  "visual_inspection": {
+    "status": "PASS",
+    "reviewer": "Codex visual inspection",
+    "readable_preview_pages": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      90,
+      60,
+      25,
+      86,
+      91
+    ],
+    "contact_sheets_reviewed": 7,
+    "pages_covered_by_contact_sheets": 196,
+    "findings": [
+      "No visible clipping, text collisions, text/image overlap, or missing reference framing in the inspected previews and overview sheets.",
+      "The page-2 directory fits with consistent spacing and preserves the existing text and page count.",
+      "Chapter-specific copy fits the established opener composition.",
+      "Small reference Study 36 remains visibly softer than larger references; no artificial detail was added.",
+      "Study 115 retains conflicting original section-82 wording while its visible repeat label correctly points to Study 83."
+    ],
+    "navigation": "All nine directory links, 174 contents links and 183 bookmark destinations verified in the exported PDF; visual previews do not simulate clicks in every PDF viewer.",
+    "preview_hashes_unchanged_after_final_verifier_run": true
+  },
+  "limitations": [
+    "Geometry and pixel checks do not establish publication rights or resolve source-pairing concerns."
+  ],
+  "documented_relative_path_command": "PASS"
+}

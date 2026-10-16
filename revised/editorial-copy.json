@@ -1,0 +1,1062 @@
+{
+  "version": 1,
+  "source_sha256": "bac8e7e0449ac5c28c7e99a8ac087642ec975f2184ac188d7b053a4ae9a5aa47",
+  "policy": "Each line is explicitly reviewed editorial copy derived only from its quoted original working note. It is a suggestion for a future generation, not a change to the protected prompt or reference.",
+  "try_this": [
+    {
+      "study": 1,
+      "line": "Add a 35mm Kodak Portra film-stock reference.",
+      "basis_note_number": 2,
+      "basis_note": "Consider adding a film stock anchor such as \"35mm, Kodak Portra.\""
+    },
+    {
+      "study": 2,
+      "line": "Try a different season.",
+      "basis_note_number": 2,
+      "basis_note": "Variations: different season or city, more painterly treatment."
+    },
+    {
+      "study": 3,
+      "line": "Try a warmer palette.",
+      "basis_note_number": 2,
+      "basis_note": "Could be warmed up or the pose changed."
+    },
+    {
+      "study": 4,
+      "line": "Emphasize the diagonal ponytail.",
+      "basis_note_number": 2,
+      "basis_note": "The diagonal ponytail is the key compositional element."
+    },
+    {
+      "study": 5,
+      "line": "Try a warmer setting.",
+      "basis_note_number": 2,
+      "basis_note": "Warmer setting or different costume are easy variations."
+    },
+    {
+      "study": 6,
+      "line": "Shift the costume to a different era.",
+      "basis_note_number": 2,
+      "basis_note": "Can be shifted to a different era by changing the costume."
+    },
+    {
+      "study": 7,
+      "line": "Swap the copper hair for a dark shade.",
+      "basis_note_number": 1,
+      "basis_note": "Swap the copper hair for a dark or blonde shade for a different look."
+    },
+    {
+      "study": 8,
+      "line": "Use full-length, head-to-toe framing.",
+      "basis_note_number": 2,
+      "basis_note": "Add \"full-length, head to toe\" to keep the entire outfit in frame."
+    },
+    {
+      "study": 9,
+      "line": "Use a plain backdrop to emphasize the mustard dress.",
+      "basis_note_number": 2,
+      "basis_note": "Mustard works best against a plain backdrop, so keep the background minimal."
+    },
+    {
+      "study": 10,
+      "line": "Use full-length framing to show the drawstring pom-poms.",
+      "basis_note_number": 2,
+      "basis_note": "Add \"full-length\" if you want the drawstring pom-poms visible."
+    },
+    {
+      "study": 11,
+      "line": "Drop the dried flowers for a sharper look.",
+      "basis_note_number": 2,
+      "basis_note": "The dried flowers add a soft counterpoint to the leather; drop them for a sharper look."
+    },
+    {
+      "study": 12,
+      "line": "Try a neutral expression for a more serious tone.",
+      "basis_note_number": 2,
+      "basis_note": "\"Closed-mouth smile\" keeps the expression soft; change to \"neutral\" for a more serious tone."
+    },
+    {
+      "study": 13,
+      "line": "Use head-to-toe framing to include the flats and socks.",
+      "basis_note_number": 2,
+      "basis_note": "Add \"head to toe\" to make sure the flats and socks stay in frame."
+    },
+    {
+      "study": 14,
+      "line": "Add soft film grain for a vintage print look.",
+      "basis_note_number": 2,
+      "basis_note": "Adding \"soft film grain\" gives a more vintage print look."
+    },
+    {
+      "study": 15,
+      "line": "Try a direct gaze for a more confident tone.",
+      "basis_note_number": 2,
+      "basis_note": "\"Looking up and off to one side\" gives the image its mood; change to \"direct gaze\" for a more confident tone."
+    },
+    {
+      "study": 16,
+      "line": "Specify the hairpin material.",
+      "basis_note_number": 2,
+      "basis_note": "The hairpin is a strong detail; name the ornament material (for example, carved jade or pearl) to control its look."
+    },
+    {
+      "study": 17,
+      "line": "Swap the peonies for dried flowers.",
+      "basis_note_number": 2,
+      "basis_note": "Swap the peonies for dried flowers for a moodier version."
+    },
+    {
+      "study": 18,
+      "line": "Add shallow depth of field to separate the subject from the car.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'shallow depth of field' to separate her from the car."
+    },
+    {
+      "study": 19,
+      "line": "Remove the driftwood for a cleaner composition.",
+      "basis_note_number": 2,
+      "basis_note": "Remove the driftwood for a cleaner, more minimal shot."
+    },
+    {
+      "study": 20,
+      "line": "Add snowflakes in the air.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'snowflakes in the air' for a livelier feel."
+    },
+    {
+      "study": 21,
+      "line": "Try a head-and-shoulders close-up.",
+      "basis_note_number": 2,
+      "basis_note": "Use 'close-up, head and shoulders' for a tighter crop."
+    },
+    {
+      "study": 22,
+      "line": "Keep the overcast sky for a muted palette.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the overcast sky to maintain the muted palette."
+    },
+    {
+      "study": 23,
+      "line": "Specify soft, even sunlight.",
+      "basis_note_number": 2,
+      "basis_note": "Describe the lighting as 'soft, even sunlight' to avoid harsh shadows."
+    },
+    {
+      "study": 24,
+      "line": "Add soft sunlight on the snow.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'soft sunlight on the snow' to strengthen the warm glow."
+    },
+    {
+      "study": 25,
+      "line": "Keep the raised arm for a dynamic pose.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the raised arm for a dynamic pose."
+    },
+    {
+      "study": 26,
+      "line": "Add dramatic side lighting.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'dramatic side lighting' to sharpen the cheekbones."
+    },
+    {
+      "study": 27,
+      "line": "Specify black-and-white film.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'black and white film' to set the monochrome tone."
+    },
+    {
+      "study": 28,
+      "line": "Keep the film grain for a vintage feel.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the film grain to match the vintage feel."
+    },
+    {
+      "study": 29,
+      "line": "Try a wide shot to show more landscape.",
+      "basis_note_number": 2,
+      "basis_note": "Use 'wide shot' to show more of the landscape."
+    },
+    {
+      "study": 30,
+      "line": "Describe the backdrop as soft, painted mist.",
+      "basis_note_number": 2,
+      "basis_note": "Describe the backdrop as 'soft, painted mist' for a more ethereal feel."
+    },
+    {
+      "study": 31,
+      "line": "Specify natural skin texture.",
+      "basis_note_number": 2,
+      "basis_note": "Use 'natural skin texture' to keep the realism."
+    },
+    {
+      "study": 32,
+      "line": "Vary the blue wildflowers for a different season.",
+      "basis_note_number": 2,
+      "basis_note": "Adjust 'blue wildflowers' in the background for a different season."
+    },
+    {
+      "study": 33,
+      "line": "Try an extreme close-up of the jewelry.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'extreme close-up' to fill the frame with the jewelry."
+    },
+    {
+      "study": 34,
+      "line": "Add soft focus for a dreamy effect.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'soft focus' for a dreamy effect."
+    },
+    {
+      "study": 35,
+      "line": "Specify natural skin texture.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'natural skin texture' to avoid a plastic look."
+    },
+    {
+      "study": 36,
+      "line": "Try a head-and-shoulders beauty close-up.",
+      "basis_note_number": 2,
+      "basis_note": "Use 'close-up, head and shoulders' for a beauty-focused crop."
+    },
+    {
+      "study": 37,
+      "line": "Use head-to-toe framing to include the heels.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'full-length, head to toe' to keep the heels in frame."
+    },
+    {
+      "study": 38,
+      "line": "Use full-length framing to show the socks and skirt.",
+      "basis_note_number": 2,
+      "basis_note": "Use 'full-length' to show the socks and skirt together."
+    },
+    {
+      "study": 39,
+      "line": "Keep the blurred crowd for a candid feel.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the blurred crowd for a candid, on-location feel."
+    },
+    {
+      "study": 40,
+      "line": "Try a mid-stride pose.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'mid-stride' to capture the walking motion."
+    },
+    {
+      "study": 41,
+      "line": "Add soft film grain.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'soft film grain' for a more intimate feel."
+    },
+    {
+      "study": 42,
+      "line": "Add shallow depth of field to soften the crowd.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'shallow depth of field' to keep the crowd soft."
+    },
+    {
+      "study": 43,
+      "line": "Keep the blurred lights for an evening feel.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the blurred lights for a warm, evening feel."
+    },
+    {
+      "study": 44,
+      "line": "Use full-length framing to show the leg warmers and sneakers.",
+      "basis_note_number": 2,
+      "basis_note": "Use 'full-length' to show the leg warmers and sneakers."
+    },
+    {
+      "study": 45,
+      "line": "Describe the tote as structured leather.",
+      "basis_note_number": 2,
+      "basis_note": "Describe the tote as 'structured leather' for a more polished look."
+    },
+    {
+      "study": 46,
+      "line": "Try a mid-stride runway pose.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'mid-stride' for a walking runway shot."
+    },
+    {
+      "study": 47,
+      "line": "Use head-to-toe framing to include the boots.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'head to toe' to keep the boots in frame."
+    },
+    {
+      "study": 48,
+      "line": "Keep the gravel lot for an on-location feel.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the gravel lot for a casual, on-location feel."
+    },
+    {
+      "study": 49,
+      "line": "Keep the stone wall as the backdrop.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the stone wall for a classic architectural backdrop."
+    },
+    {
+      "study": 50,
+      "line": "Specify soft street light instead of harsh flash.",
+      "basis_note_number": 2,
+      "basis_note": "Describe the lighting as 'soft street light' to avoid harsh flash."
+    },
+    {
+      "study": 51,
+      "line": "Try an extreme close-up of the hair and earrings.",
+      "basis_note_number": 2,
+      "basis_note": "Use 'extreme close-up' to focus on the hair and earrings."
+    },
+    {
+      "study": 52,
+      "line": "Add shallow depth of field to blur the background.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'shallow depth of field' to blur the background."
+    },
+    {
+      "study": 53,
+      "line": "Keep the warm light for a sunny feel.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the warm light for a sunny, relaxed feel."
+    },
+    {
+      "study": 54,
+      "line": "Try a mid-stride pose.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'mid-stride' to capture the walk."
+    },
+    {
+      "study": 55,
+      "line": "Use full-length framing to show the tassel hem.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'full-length' to show the tassel hem."
+    },
+    {
+      "study": 56,
+      "line": "Keep the blue backdrop for graphic contrast.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the blue backdrop for a graphic contrast."
+    },
+    {
+      "study": 57,
+      "line": "Add film grain for a vintage print look.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'film grain' to match the vintage print look."
+    },
+    {
+      "study": 58,
+      "line": "Try a mid-stride runway pose.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'mid-stride' for a runway walk."
+    },
+    {
+      "study": 59,
+      "line": "Keep a warm, open smile.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the warm, open smile for a friendly tone."
+    },
+    {
+      "study": 60,
+      "line": "Try a head-and-shoulders close-up.",
+      "basis_note_number": 2,
+      "basis_note": "Use 'close-up, head and shoulders' for a tighter crop."
+    },
+    {
+      "study": 61,
+      "line": "Keep the woodpile and snow for a rustic winter setting.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the woodpile and snow for a rustic winter setting."
+    },
+    {
+      "study": 62,
+      "line": "Keep the tea and noodles for a sense of place.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the tea and noodles for a sense of place."
+    },
+    {
+      "study": 63,
+      "line": "Add soft film grain.",
+      "basis_note_number": 2,
+      "basis_note": "Use 'soft film grain' for a vintage feel."
+    },
+    {
+      "study": 64,
+      "line": "Use full-length framing to show the belt and skirt hem.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'full-length' to show the belt and skirt hem."
+    },
+    {
+      "study": 65,
+      "line": "Add dramatic side lighting.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'dramatic side lighting' to sharpen the shadows."
+    },
+    {
+      "study": 66,
+      "line": "Add shallow depth of field to blur the background.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'shallow depth of field' to blur the background."
+    },
+    {
+      "study": 67,
+      "line": "Keep the snowy trees for a storybook backdrop.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the snowy trees for a storybook backdrop."
+    },
+    {
+      "study": 68,
+      "line": "Use full-length framing to show the cargo pockets.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'full-length' to show the cargo pocket details."
+    },
+    {
+      "study": 69,
+      "line": "Keep the stone steps in the background for depth.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the stone steps in the background for depth."
+    },
+    {
+      "study": 70,
+      "line": "Use full-length framing to show the coat's flared hem.",
+      "basis_note_number": 2,
+      "basis_note": "Use 'full-length' to show the coat's flared hem."
+    },
+    {
+      "study": 71,
+      "line": "Describe the hair as a loose low updo.",
+      "basis_note_number": 2,
+      "basis_note": "Describe the hair as 'loose low updo' for a relaxed take."
+    },
+    {
+      "study": 72,
+      "line": "Keep the cable-knit tights for a cozy winter layer.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the cable-knit tights for a cozy winter layer."
+    },
+    {
+      "study": 73,
+      "line": "Try an extreme close-up of the hair texture.",
+      "basis_note_number": 2,
+      "basis_note": "Use 'extreme close-up' to emphasize the hair texture."
+    },
+    {
+      "study": 74,
+      "line": "Specify a soft, closed-mouth smile.",
+      "basis_note_number": 2,
+      "basis_note": "Describe the smile as 'soft, closed-mouth' to keep it subtle."
+    },
+    {
+      "study": 75,
+      "line": "Add shallow depth of field to separate the subject from the lot.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'shallow depth of field' to separate her from the lot."
+    },
+    {
+      "study": 76,
+      "line": "Use warm late-afternoon light.",
+      "basis_note_number": 2,
+      "basis_note": "Use 'warm late-afternoon light' for a glowing atmosphere."
+    },
+    {
+      "study": 77,
+      "line": "Use full-length framing to include the boots.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'full-length' to show the boots."
+    },
+    {
+      "study": 78,
+      "line": "Keep the wet path and hedge for an autumn setting.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the wet path and hedge for an outdoor autumn setting."
+    },
+    {
+      "study": 79,
+      "line": "Keep the window light for a soft glow.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the window light for a soft, cozy glow."
+    },
+    {
+      "study": 80,
+      "line": "Keep the floral wallpaper for a vintage interior mood.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the floral wallpaper for a vintage interior mood."
+    },
+    {
+      "study": 81,
+      "line": "Keep a seamless backdrop for a clean catalog look.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the seamless backdrop for a clean catalog look."
+    },
+    {
+      "study": 82,
+      "line": "Specify natural skin texture.",
+      "basis_note_number": 2,
+      "basis_note": "Use 'natural skin texture' to avoid an overly smooth look."
+    },
+    {
+      "study": 83,
+      "line": "Try a mid-stride pose.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'mid-stride' to capture the walk."
+    },
+    {
+      "study": 84,
+      "line": "Keep the cafe and cobblestones for a Parisian street setting.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the café and cobblestones for a Parisian street setting."
+    },
+    {
+      "study": 85,
+      "line": "Use head-to-toe framing to include the boots.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'head to toe' to keep the boots in frame."
+    },
+    {
+      "study": 86,
+      "line": "Keep the room details for a lived-in setting.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the room details for a styled, lived-in setting."
+    },
+    {
+      "study": 87,
+      "line": "Describe the rosette pendant precisely.",
+      "basis_note_number": 2,
+      "basis_note": "Describe the rosette pendant to keep the detail consistent."
+    },
+    {
+      "study": 88,
+      "line": "Use head-to-toe framing to include the boots.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'head to toe' to keep the boots in frame."
+    },
+    {
+      "study": 89,
+      "line": "Keep the beige wall for a neutral backdrop.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the beige wall for a soft, neutral backdrop."
+    },
+    {
+      "study": 90,
+      "line": "Try a mid-stride pose.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'mid-stride' for the walking motion."
+    },
+    {
+      "study": 91,
+      "line": "Keep the windblown hair for movement.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the windblown hair for a sense of movement."
+    },
+    {
+      "study": 92,
+      "line": "Keep the warm lamp light for a cozy interior mood.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the warm lamp light for a cozy, interior mood."
+    },
+    {
+      "study": 93,
+      "line": "Describe the swirl motif precisely.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the swirl motif specific to match the knit detail."
+    },
+    {
+      "study": 94,
+      "line": "Use full-length framing to include the boots.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'full-length' to keep the boots in frame."
+    },
+    {
+      "study": 95,
+      "line": "Try a top-down angle to show the skirt's shape.",
+      "basis_note_number": 2,
+      "basis_note": "Use 'top-down angle' to show the skirt and shape."
+    },
+    {
+      "study": 96,
+      "line": "Keep the dark backdrop to emphasize the cream knit.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the dark backdrop to make the cream knit stand out."
+    },
+    {
+      "study": 97,
+      "line": "Use head-to-toe framing to show the skirt.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'head to toe' to show the skirt."
+    },
+    {
+      "study": 98,
+      "line": "Keep the tan backdrop for a warm studio tone.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the tan backdrop for a warm studio tone."
+    },
+    {
+      "study": 99,
+      "line": "Try a mid-stride pose.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'mid-stride' to capture the walk."
+    },
+    {
+      "study": 100,
+      "line": "Keep the white car for a garage setting.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the white car for a sleek garage setting."
+    },
+    {
+      "study": 101,
+      "line": "Keep the casting board for a behind-the-scenes feel.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the casting board for an editorial behind-the-scenes feel."
+    },
+    {
+      "study": 102,
+      "line": "Use full-length framing to include the boots.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'full-length' to keep the boots in frame."
+    },
+    {
+      "study": 103,
+      "line": "Emphasize the black trim and sneakers.",
+      "basis_note_number": 1,
+      "basis_note": "The black trim and sneakers create the sporty contrast."
+    },
+    {
+      "study": 104,
+      "line": "Keep the patch unbranded.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the patch unbranded to avoid text in the image."
+    },
+    {
+      "study": 105,
+      "line": "Keep the blurred street for a candid feel.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the blurred street for a candid feel."
+    },
+    {
+      "study": 106,
+      "line": "Emphasize the reindeer knit pattern and kitten.",
+      "basis_note_number": 1,
+      "basis_note": "The reindeer knit pattern and kitten are the focal points."
+    },
+    {
+      "study": 107,
+      "line": "Keep the cropped length for a streetwear look.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the cropped length for a streetwear look."
+    },
+    {
+      "study": 108,
+      "line": "Keep the blurred crowd for a runway-show setting.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the blurred crowd for a runway-show setting."
+    },
+    {
+      "study": 109,
+      "line": "Keep the cropped length for a streetwear look.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the cropped length for a streetwear look."
+    },
+    {
+      "study": 110,
+      "line": "Specify arched block lettering.",
+      "basis_note_number": 2,
+      "basis_note": "Describe the lettering as 'arched block lettering' to keep it stylized."
+    },
+    {
+      "study": 111,
+      "line": "Keep the casting board for an editorial setting.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the casting board for an editorial setting."
+    },
+    {
+      "study": 112,
+      "line": "Keep the glass and red curtain for an urban cafe feel.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the glass and red curtain for an urban café feel."
+    },
+    {
+      "study": 113,
+      "line": "Add film grain for a period feel.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'film grain' for an authentic period look."
+    },
+    {
+      "study": 114,
+      "line": "Keep the white cars for a clean background.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the white cars for a clean, sleek background."
+    },
+    {
+      "study": 115,
+      "line": "Emphasize the powder blue coat and striped socks.",
+      "basis_note_number": 1,
+      "basis_note": "The powder blue coat and striped socks are the color anchors."
+    },
+    {
+      "study": 116,
+      "line": "Keep the racing graphics generic, without readable text.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the graphics generic to avoid text in the image."
+    },
+    {
+      "study": 117,
+      "line": "Use head-to-toe framing to include the boots.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'full-length, head to toe' to keep the boots in frame."
+    },
+    {
+      "study": 118,
+      "line": "Use full-length framing to show the train and staircase.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'full-length' to show the train and staircase."
+    },
+    {
+      "study": 119,
+      "line": "Keep the blurred pines for a misty setting.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the blurred pines for a quiet, misty setting."
+    },
+    {
+      "study": 120,
+      "line": "Keep the blurred forest for soft depth.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the blurred forest for a soft, dreamy depth."
+    },
+    {
+      "study": 121,
+      "line": "Keep the cemetery for a gothic atmosphere.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the cemetery for a gothic, atmospheric setting."
+    },
+    {
+      "study": 122,
+      "line": "Keep the path and grass for a sense of walking motion.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the path and grass for an organic, walking motion."
+    },
+    {
+      "study": 123,
+      "line": "Keep the candles for a warm backdrop.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the candles for a warm, atmospheric backdrop."
+    },
+    {
+      "study": 124,
+      "line": "Keep the streetlight for a warm glow.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the streetlight for a warm, moody glow."
+    },
+    {
+      "study": 125,
+      "line": "Try a mid-stride pose with wind-blown hair.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'mid-stride' to show the wind-blown hair."
+    },
+    {
+      "study": 126,
+      "line": "Emphasize the space buns and red velvet.",
+      "basis_note_number": 2,
+      "basis_note": "The space buns and red velvet are the defining elements."
+    },
+    {
+      "study": 127,
+      "line": "Keep the warm interior for a sophisticated mood.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the warm interior for a sophisticated mood."
+    },
+    {
+      "study": 128,
+      "line": "Keep the cemetery and leaves for a moody setting.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the cemetery and leaves for a moody setting."
+    },
+    {
+      "study": 129,
+      "line": "Keep the gray backdrop for a clean studio look.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the gray backdrop for a clean studio look."
+    },
+    {
+      "study": 130,
+      "line": "Keep the stone building for a collegiate setting.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the stone building for a collegiate setting."
+    },
+    {
+      "study": 131,
+      "line": "Keep the flagstone path for a sense of movement.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the flagstone path for a sense of movement."
+    },
+    {
+      "study": 132,
+      "line": "Keep the wood floor for a lived-in setting.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the wood floor for a warm, lived-in setting."
+    },
+    {
+      "study": 133,
+      "line": "Keep the closet background for an at-home look.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the closet background for a casual, at-home look."
+    },
+    {
+      "study": 134,
+      "line": "Keep the teal backdrop for a rich color contrast.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the teal backdrop for a rich, moody contrast."
+    },
+    {
+      "study": 135,
+      "line": "Keep the blurred background for a candid film feel.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the blurred background for a candid film feel."
+    },
+    {
+      "study": 136,
+      "line": "Keep the framed prints for a lived-in interior.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the framed prints for a warm, lived-in interior."
+    },
+    {
+      "study": 137,
+      "line": "Keep the orchid as a single accent.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the orchid as a single accent for contrast."
+    },
+    {
+      "study": 138,
+      "line": "Keep the hallway for a candid walking moment.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the hallway for a candid, walking motion."
+    },
+    {
+      "study": 139,
+      "line": "Try a mid-stride pose.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'mid-stride' to capture the walk."
+    },
+    {
+      "study": 140,
+      "line": "Keep the blurred background for a candid travel feel.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the blurred background for a candid travel feel."
+    },
+    {
+      "study": 141,
+      "line": "Use full-length framing to show the platform shoes.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'full-length' to show the platform shoes."
+    },
+    {
+      "study": 142,
+      "line": "Emphasize the velvet crop and chain belt.",
+      "basis_note_number": 2,
+      "basis_note": "The velvet crop and chain belt are the key details."
+    },
+    {
+      "study": 143,
+      "line": "Use full-length framing to include the shoes.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'full-length' to keep the shoes in frame."
+    },
+    {
+      "study": 144,
+      "line": "Keep the slippers for a lounge-inspired finish.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the slippers for a playful, lounge-inspired finish."
+    },
+    {
+      "study": 145,
+      "line": "Try a mid-stride pose.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'mid-stride' to capture the walk."
+    },
+    {
+      "study": 146,
+      "line": "Keep the keychain as a playful detail.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the keychain as a small, playful detail."
+    },
+    {
+      "study": 147,
+      "line": "Keep the flare jeans for a retro silhouette.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the flare jeans for a retro silhouette."
+    },
+    {
+      "study": 148,
+      "line": "Keep the brick building as an architectural backdrop.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the brick building for a strong architectural backdrop."
+    },
+    {
+      "study": 149,
+      "line": "Keep the rhinestone detail generic, without readable text.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the rhinestone detail generic to avoid readable text in the image."
+    },
+    {
+      "study": 150,
+      "line": "Keep the washed denim for a relaxed feel.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the washed denim for a relaxed, lived-in look."
+    },
+    {
+      "study": 151,
+      "line": "Keep the print abstract, without readable text.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the print abstract to avoid readable text in the image."
+    },
+    {
+      "study": 152,
+      "line": "Try the hands-on-hips pose.",
+      "basis_note_number": 2,
+      "basis_note": "The hands-on-hips pose is an alternative to the standing pose."
+    },
+    {
+      "study": 153,
+      "line": "Keep the blunt bob for a graphic silhouette.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the blunt bob for a clean, graphic silhouette."
+    },
+    {
+      "study": 154,
+      "line": "Keep the pastel gradient behind the black outfit.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the pastel gradient for a soft contrast behind the black outfit."
+    },
+    {
+      "study": 155,
+      "line": "Keep the stone facade for a Parisian setting.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the stone facade for a Parisian setting."
+    },
+    {
+      "study": 156,
+      "line": "Use head-to-toe framing to include the shoes.",
+      "basis_note_number": 2,
+      "basis_note": "Add 'full-length, head to toe' to keep the shoes in frame."
+    },
+    {
+      "study": 157,
+      "line": "Keep the braided pigtails for a playful look.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the braided pigtails for a playful, youthful look."
+    },
+    {
+      "study": 158,
+      "line": "Keep the white-on-white palette soft and airy.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the white-on-white palette soft and airy."
+    },
+    {
+      "study": 159,
+      "line": "Keep the white backdrop for a clean catalog feel.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the white backdrop for a clean catalog feel."
+    },
+    {
+      "study": 160,
+      "line": "Keep monograms simple and generic.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the monograms simple and generic to avoid readable text."
+    },
+    {
+      "study": 161,
+      "line": "Keep the falling snow for a wintry feel.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the falling snow for a magical, wintry feel."
+    },
+    {
+      "study": 162,
+      "line": "Keep the blurred background for an on-the-move feel.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the blurred background for a candid, on-the-move feel."
+    },
+    {
+      "study": 163,
+      "line": "Keep the rooftop planters for an urban frame.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the rooftop planters for a sophisticated urban frame."
+    },
+    {
+      "study": 164,
+      "line": "Keep the scarf for a layered finish.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the scarf for a layered, cozy finish."
+    },
+    {
+      "study": 165,
+      "line": "Keep the beret and bow for a playful winter finish.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the beret and bow for a playful, winter finish."
+    },
+    {
+      "study": 166,
+      "line": "Keep the skull graphic abstract, without readable text.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the graphic abstract to avoid readable text in the image."
+    },
+    {
+      "study": 167,
+      "line": "Keep the framed paintings and lamp for a vintage room.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the framed paintings and lamp for a lived-in, vintage room."
+    },
+    {
+      "study": 168,
+      "line": "Keep the frayed hem for a relaxed finish.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the frayed hem for a relaxed, lived-in finish."
+    },
+    {
+      "study": 169,
+      "line": "Keep the gray backdrop for a moody editorial feel.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the gray backdrop for a moody, editorial feel."
+    },
+    {
+      "study": 170,
+      "line": "Keep the windblown hair for movement against the white backdrop.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the windblown hair for movement against the white backdrop."
+    },
+    {
+      "study": 171,
+      "line": "Keep the concrete wall for an industrial backdrop.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the concrete wall for an industrial, gritty backdrop."
+    },
+    {
+      "study": 172,
+      "line": "Keep the textured blue wall for graphic contrast.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the textured blue wall for a bold, graphic backdrop."
+    },
+    {
+      "study": 173,
+      "line": "Keep the bear charm as a playful accent.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the bear charm as a playful accent."
+    },
+    {
+      "study": 174,
+      "line": "Keep the warm storefront glow for a nighttime atmosphere.",
+      "basis_note_number": 2,
+      "basis_note": "Keep the warm storefront glow for a nighttime city atmosphere."
+    }
+  ],
+  "chapter_openers": {
+    "portraits": "Follow the light from a quiet studio gesture to the warmth of a passing moment.",
+    "winter": "Let snow, soft light and layered textures set the pace.",
+    "folk": "Read the story in embroidery, flowers and the landscape beyond the figure.",
+    "fantasy": "Enter imagined worlds through costume, ornament and atmosphere.",
+    "runway": "Watch how a step changes the line of a coat, a skirt or a complete silhouette.",
+    "knitwear": "Look closely at the dialogue between knit patterns, layers and contrasting textures.",
+    "studio": "Let a controlled backdrop reveal the shape and detail of an outfit.",
+    "night": "Move through lamplit interiors and city evenings, where setting carries the mood.",
+    "street": "Find the character of a look in the buildings, paths and passing scenes around it."
+  }
+}
