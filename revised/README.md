@@ -82,3 +82,14 @@ The current editorial export resolves these approved references: 7 → 4992.jpg,
 ```
 
 These write only `larger-type-*` reports/previews and the larger-type PDF. The verifier resets visual inspection to pending; inspect rendered samples before recording visual review.
+
+## Noir editorial redesign
+
+`The_Portrait_Edit_Issue_02_Noir_Editorial.pdf` is the Canva-reference-inspired black-and-white edition with smaller sans-serif type and image grids. This is a new design, not an imported Canva template. All prior editions remain separate. See `NOIR_EDITORIAL_CHANGES.md` and `noir-verification.json`.
+
+```bash
+.venv/bin/python -B scripts/build_issue_02_noir.py
+.venv/bin/python -B scripts/verify_issue_02_noir.py
+```
+
+The builder reuses approved content and writes only the new PDF and `noir-*` artifacts. The verifier retains the editorial content/navigation/pixel/geometry checks, supports the 205 image placements, and enforces the intended font sizes and high-contrast text colors. A rerun resets visual inspection to pending.

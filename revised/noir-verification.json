@@ -1,0 +1,100 @@
+{
+  "status": "PASS",
+  "pdf": "revised/The_Portrait_Edit_Issue_02_Noir_Editorial.pdf",
+  "pdf_sha256": "882e18ce02fecf40d995e01517357f753e657949e731db18067672d848a5c80a",
+  "pages": 196,
+  "letter_points": [
+    612,
+    792
+  ],
+  "contents_studies_once": 174,
+  "exact_normalized_prompts": 174,
+  "original_titles": 174,
+  "source_filenames_match_current": 174,
+  "approved_source_corrections": 6,
+  "original_prompt_and_note_bytes_preserved": true,
+  "chapter_membership_unchanged": true,
+  "original_working_notes": 174,
+  "reviewed_try_lines": 174,
+  "pairing_studies": [],
+  "rights_studies": 174,
+  "duplicate_studies": 18,
+  "contents_links": 174,
+  "chapter_directory_links": 9,
+  "bookmarks_correct": 183,
+  "minimum_exported_body_pt": 9.0,
+  "no_clipping": true,
+  "no_text_block_or_image_overlap": true,
+  "text_spans_checked": 5267,
+  "overlap_measurement": "FreeType glyph ink bounds positioned at exported PDF character origins; logical blocks checked separately.",
+  "logical_block_comparisons": 29081,
+  "exported_span_comparisons": 71239,
+  "image_occurrences_original_pixels": 205,
+  "unique_reference_filenames": 170,
+  "protected_files_unchanged": 190,
+  "baseline_commit": "5235d883e9161eaed9f28633c539f4c34f39768e",
+  "readable_previews": {
+    "cover": 1,
+    "editors-letter": 2,
+    "glossary-01": 3,
+    "glossary-02": 4,
+    "contents": 10,
+    "chapter-opener": 90,
+    "long-prompt-study": 60,
+    "image-left-study": 91,
+    "image-right-study": 92,
+    "small-image-study": 25,
+    "duplicate-study": 86,
+    "review-pairing-study": 91,
+    "pairing-study-007": 91,
+    "pairing-study-008": 92,
+    "pairing-study-009": 128,
+    "pairing-study-012": 129,
+    "pairing-study-013": 130,
+    "pairing-study-014": 131
+  },
+  "full_issue_contact_sheets": 7,
+  "visual_inspection": {
+    "status": "PASS for inspected samples",
+    "readable_samples": [
+      "cover",
+      "editors-letter",
+      "chapter-opener",
+      "contents",
+      "glossary-01",
+      "image-left-study",
+      "image-right-study",
+      "long-prompt-study",
+      "duplicate-study"
+    ],
+    "contact_sheets": [
+      "contact-03",
+      "contact-05"
+    ],
+    "findings": "Corrected paragraph contrast checked in final render; no visible clipping, crowding or overlap in inspected samples. Automated geometry and text-color checks cover all pages."
+  },
+  "limitations": [
+    "Geometry and pixel checks do not establish publication rights. Six source-pairing corrections were explicitly approved after visual review."
+  ],
+  "edition": "noir-editorial",
+  "exported_type_pt": {
+    "prompt": 10.5,
+    "working notes": 10,
+    "try this": 10,
+    "glossary definition": 10.5,
+    "contents title": 10
+  },
+  "type_blocks_checked": {
+    "glossary definition": 24,
+    "contents title": 174,
+    "prompt": 174,
+    "working notes": 174,
+    "try this": 174
+  },
+  "image_left_studies": 87,
+  "image_right_studies": 87,
+  "exported_text_colors_checked": [
+    "#f5f5f1",
+    "#b9b9b6"
+  ]
+}
