@@ -1,6 +1,6 @@
 # Editorial review - pass 01
 
-Baseline: `The_Portrait_Edit_Issue_02_Revised.pdf`, 196 Letter-size pages, from main commit `5235d883e9161eaed9f28633c539f4c34f39768e`. All page numbers below remain the same in the separate editorial export. Review scope is the three approved editorial changes and stronger validation, with no chapter reassignment or protected source editing.
+Baseline: `The_Portrait_Edit_Issue_02_Revised.pdf`, 196 Letter-size pages, from main commit `5235d883e9161eaed9f28633c539f4c34f39768e`. All page numbers below remain the same in the separate editorial export. Review scope includes the three approved editorial changes, stronger validation, and a separately approved six-reference correction follow-up. Chapter membership, prompt wording, titles and original notes remain unchanged.
 
 ## Must fix
 
@@ -26,9 +26,20 @@ The baseline's prefix-and-filter logic can attach “Emphasize” to complete cl
 
 All 174 lines are now explicit editorial entries with exact supporting-note quotations. The build validates coverage and note provenance, rather than inventing a line when one is missing. The underlying prompts and notes are untouched.
 
-### Six source-pairing conflicts - publisher decision pending
+### Six source-pairing conflicts - resolved with explicit approval
 
-Studies 7/8/9 appear on pages 91/92/128; Studies 12/13/14 on pages 129/130/131. Their linked photographs differ from their prompt descriptions, as documented in the preserved audit. This pass retains all original images/filenames and the six “Review pairing” labels. A swap is explicitly outside scope; no correction is implied by the editorial export.
+The historical audit records six mismatched links. After reviewing side-by-side boards, the publisher explicitly approved the following link and Source-field corrections. These assignments now appear in the editorial PDF; the six resolved pairing labels are removed, while rights flags remain. Attachment files are not renamed or modified.
+
+| Study | PDF page | Previous Source | Approved Source |
+|---:|---:|---|---|
+| 7 | 91 | `4991.jpg` | `4992.jpg` |
+| 8 | 92 | `4992.jpg` | `4993.jpg` |
+| 9 | 128 | `4993.jpg` | `4991.jpg` |
+| 12 | 129 | `5030.jpg` | `5032.jpg` |
+| 13 | 130 | `5031.jpg` | `5030.jpg` |
+| 14 | 131 | `5032.jpg` | `5031.jpg` |
+
+`pairing-corrections.json` records the approval and before/after hashes. The generator and verifier reconstruct the exact authorized changes from the immutable baseline and reject all other Markdown or chapter-assignment changes.
 
 ### Publication rights - publisher decision pending
 
@@ -38,7 +49,7 @@ All 174 study pages retain “Rights check”. Appearance and local filenames ca
 
 ### Editor's-letter navigation, page 2 - implemented
 
-The baseline letter describes nine chapters without offering direct navigation. A compact three-column directory now names all nine chapters and links to their existing openers: pages 14, 37, 53, 58, 72, 90, 127, 150 and 170. Existing letter text remains; the count row moves slightly lower to make room. No page is added.
+The baseline letter describes nine chapters without offering direct navigation. A compact three-column directory now names all nine chapters and links to their existing openers: pages 14, 37, 53, 58, 72, 90, 127, 150 and 170. The count row moves slightly lower to make room. A follow-up updates the publisher-approved correction status without changing the protected prompt or note text. No page is added.
 
 ### Repeated opener instruction - implemented
 
@@ -62,6 +73,11 @@ Study 44, page 97: the protected title uses “Camo Knit Skirt”, while the pro
 
 ## Visual inspection
 
-Inspected ten readable PNGs: cover 1, letter 2, glossary 3-4, dense contents 10, opener 90, longest-prompt Study 5 on 60, small-image Study 36 on 25, duplicate Study 115 on 86, and pairing-review Study 7 on 91. Also inspected seven contact sheets covering all 196 pages. No visible clipping, crowding from the new copy, text/image collisions, or broken framing was found. Contact sheets provide an overview, not a claim that every word was read at thumbnail size; exact source preservation is checked separately against exported text.
+The initial pass inspected ten readable PNGs: cover 1, letter 2, glossary 3-4, dense contents 10, opener 90, longest-prompt Study 5 on 60, small-image Study 36 on 25, duplicate Study 115 on 86, and pairing-review Study 7 on 91. Also inspected seven contact sheets covering all 196 pages. No visible clipping, crowding from the new copy, text/image collisions, or broken framing was found. Contact sheets provide an overview, not a claim that every word was read at thumbnail size; exact source preservation is checked separately against exported text.
 
 All 183 PDF bookmarks and 183 internal links target the correct pages. Navigation validation is structural in the actual exported PDF; cross-viewer interactive behavior was not separately exercised in every PDF application.
+
+
+## Approved-correction follow-up visual review
+
+The current export adds dedicated readable PNGs for all six corrected studies on pages 91, 92, 128, 129, 130 and 131. Those six pages and the updated letter on page 2 were visually inspected; all Source fields and visible images match the approved assignments, rights labels remain, and obsolete pairing labels are gone. No visible clipping, overlap, crowding or distorted framing was found. Updated contact sheets 1, 4 and 5 were inspected. The other eight readable previews and contact sheets 2, 3, 6 and 7 are byte-identical to the previously inspected version, providing 16 readable preview files and seven full-issue sheets in total.

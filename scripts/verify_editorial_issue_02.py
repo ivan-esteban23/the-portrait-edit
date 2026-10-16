@@ -11,8 +11,9 @@ import pymupdf as fitz
 from PIL import Image, ImageOps, ImageDraw, ImageFont
 from functools import lru_cache
 from audit_issue_02 import ROOT, SOURCE, parse_source
+from build_issue_02 import approved_reference_corrections, BASELINE_EDITABLE
 
-EXPECTED_PAIRINGS={7,8,9,12,13,14}
+EXPECTED_PAIRINGS=set()
 EXPECTED_REPEATS={48:75,75:48,62:66,66:62,69:76,76:69,79:106,106:79,83:115,115:83,99:103,103:99,113:126,126:113,122:142,142:122,147:152,152:147}
 BODY_KINDS={'body','prompt','style','working notes','try this','glossary definition','contents title','chapter editorial line'}
 norm=lambda s:re.sub(r'\s+','',s)
@@ -54,13 +55,19 @@ def run(args):
         setattr(args,name,getattr(args,name).resolve())
     m=json.loads(args.layout.read_text());copy=json.loads((ROOT/'revised/editorial-copy.json').read_text())
     chapters=json.loads((ROOT/'revised/chapters.json').read_text())['chapters']
+    corrections=approved_reference_corrections()
+    assert sha(ROOT/'revised/pairing-corrections.json')==m['pairing_corrections_sha256']
+    assert m['approved_reference_corrections']==corrections['corrections']
     es=parse_source();by_number={e['number']:e for e in es}
+    for row in corrections['corrections']:assert by_number[row['study']]['reference']==row['to']
     assert args.pdf.resolve()!= (ROOT/'revised/The_Portrait_Edit_Issue_02_Revised.pdf').resolve()
     assert sha(args.pdf)==m['pdf_sha256']
     assert sha(SOURCE)==m['source_sha256']==copy['source_sha256']
     assert sha(ROOT/'revised/editorial-copy.json')==m['editorial_copy_sha256']
     # Verify baseline hashes against both the working tree and immutable Git objects.
     assert m['baseline_commit']=='5235d883e9161eaed9f28633c539f4c34f39768e'
+    baseline_paths=set(subprocess.check_output(['git','-C',str(ROOT),'ls-tree','-r','--name-only',m['baseline_commit']],text=True).splitlines())
+    assert set(m['protected_sha256'])==baseline_paths-BASELINE_EDITABLE
     for path,expected in m['protected_sha256'].items():
         assert sha(ROOT/path)==expected,('protected file changed',path)
         original=subprocess.check_output(['git','-C',str(ROOT),'show',m['baseline_commit']+':'+path])
@@ -213,6 +220,7 @@ def run(args):
     args.samples.mkdir(parents=True,exist_ok=True)
     longest=max(es,key=lambda e:len(e['prompt']))['number']
     samples={'cover':1,'editors-letter':2,'glossary-01':3,'glossary-02':4,'contents':10,'chapter-opener':m['chapter_openers']['knitwear'],'long-prompt-study':m['study_pages'][str(longest)],'small-image-study':m['study_pages']['36'],'duplicate-study':m['study_pages']['115'],'review-pairing-study':m['study_pages']['7']}
+    samples.update({f'pairing-study-{row["study"]:03d}':m['study_pages'][str(row['study'])] for row in corrections['corrections']})
     for name,page in samples.items():
         d[page-1].get_pixmap(matrix=fitz.Matrix(1.7,1.7)).save(args.samples/(name+'.png'))
     for start in range(0,len(d),28):
@@ -220,7 +228,7 @@ def run(args):
         for offset in range(min(28,len(d)-start)):
             pix=d[start+offset].get_pixmap(matrix=fitz.Matrix(.38,.38));im=Image.frombytes('RGB',(pix.width,pix.height),pix.samples);x=offset%4*252+9;y=offset//4*338+7;sheet.paste(im,(x,y));draw.text((x,y+307),str(start+offset+1),fill='black')
         sheet.save(args.samples/f'contact-{start//28+1:02d}.jpg',quality=88)
-    result=dict(status='PASS',pdf=str(args.pdf.relative_to(ROOT)),pdf_sha256=sha(args.pdf),pages=len(d),letter_points=[612,792],contents_studies_once=174,exact_normalized_prompts=174,original_titles=174,original_sources=174,original_working_notes=174,reviewed_try_lines=174,pairing_studies=sorted(found_pairings),rights_studies=174,duplicate_studies=18,contents_links=contents_links,chapter_directory_links=9,bookmarks_correct=183,minimum_exported_body_pt=exported_min_body,no_clipping=True,no_text_block_or_image_overlap=True,text_spans_checked=span_count,overlap_measurement='FreeType glyph ink bounds positioned at exported PDF character origins; logical blocks checked separately.',logical_block_comparisons=block_comparisons,exported_span_comparisons=span_comparisons,image_occurrences_original_pixels=image_pixels_checked,unique_reference_filenames=170,protected_files_unchanged=len(m['protected_sha256']),baseline_commit=m['baseline_commit'],readable_previews=samples,full_issue_contact_sheets=7,visual_inspection='Pending separate human/assistant visual review; automated PASS does not imply visual approval.',limitations=['Geometry and pixel checks do not establish publication rights or resolve source-pairing concerns.'])
+    result=dict(status='PASS',pdf=str(args.pdf.relative_to(ROOT)),pdf_sha256=sha(args.pdf),pages=len(d),letter_points=[612,792],contents_studies_once=174,exact_normalized_prompts=174,original_titles=174,source_filenames_match_current=174,approved_source_corrections=6,original_prompt_and_note_bytes_preserved=True,chapter_membership_unchanged=True,original_working_notes=174,reviewed_try_lines=174,pairing_studies=sorted(found_pairings),rights_studies=174,duplicate_studies=18,contents_links=contents_links,chapter_directory_links=9,bookmarks_correct=183,minimum_exported_body_pt=exported_min_body,no_clipping=True,no_text_block_or_image_overlap=True,text_spans_checked=span_count,overlap_measurement='FreeType glyph ink bounds positioned at exported PDF character origins; logical blocks checked separately.',logical_block_comparisons=block_comparisons,exported_span_comparisons=span_comparisons,image_occurrences_original_pixels=image_pixels_checked,unique_reference_filenames=170,protected_files_unchanged=len(m['protected_sha256']),baseline_commit=m['baseline_commit'],readable_previews=samples,full_issue_contact_sheets=7,visual_inspection='Pending separate human/assistant visual review; automated PASS does not imply visual approval.',limitations=['Geometry and pixel checks do not establish publication rights. Six source-pairing corrections were explicitly approved after visual review.'])
     args.report.write_text(json.dumps(result,indent=2)+'\n')
     print(json.dumps(result,indent=2))
 

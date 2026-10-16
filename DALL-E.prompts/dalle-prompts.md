@@ -290,7 +290,7 @@ cover: attachments/4572.jpg
 
 | Reference | Details |
 |:---:|---|
-| ![[attachments/4991.jpg\|280]] | **Source:** `4991.jpg`<br>**Tags:** #fashion #knitwear #studio #lookbook<br>**Style:** Soft, feminine, classic |
+| ![[attachments/4992.jpg\|280]] | **Source:** `4992.jpg`<br>**Tags:** #fashion #knitwear #studio #lookbook<br>**Style:** Soft, feminine, classic |
 
 > [!example]- Prompt
 > A full-length studio fashion portrait of an original young woman with long, voluminous copper-auburn wavy hair, standing against a seamless white backdrop. She wears a matching cream knit co-ord: a cropped, long-sleeved cardigan with a textured, slightly sparkly tweed weave and pearl buttons down the front, layered over a knit camisole, paired with a fitted knit mini skirt with two front flap pockets and a ribbed waistband. A thin chain necklace sits at her neck. She wears cream knee-high boots and holds a black quilted shoulder bag with silver hardware at her side. Her expression is calm and direct, gazing toward the camera. Soft, even studio lighting with minimal shadow, a clean, neutral palette of ivory, cream, and pale gold, with warm copper hair as the single accent. Polished, romantic, and classic, in the style of a contemporary knitwear lookbook.
@@ -305,7 +305,7 @@ cover: attachments/4572.jpg
 
 | Reference | Details |
 |:---:|---|
-| ![[attachments/4992.jpg\|280]] | **Source:** `4992.jpg`<br>**Tags:** #fashion #knitwear #full-body #playful<br>**Style:** Playful, cozy, layered |
+| ![[attachments/4993.jpg\|280]] | **Source:** `4993.jpg`<br>**Tags:** #fashion #knitwear #full-body #playful<br>**Style:** Playful, cozy, layered |
 
 > [!example]- Prompt
 > A full-body studio fashion portrait of an original young woman with an updo of loose, tousled hair, wearing large silver hoop earrings and a beaded black choker with a small floral charm. She wears a fitted powder blue ribbed knit cardigan with a V-neck, frayed raw-edged trim, a row of small silver buttons down the front, and long flared sleeves. Beneath it, a pale blue pleated knit mini skirt. She wears white faux-fur leg warmers over her legs and chunky black loafers with gold-toned buckles. She holds a small woven bead-and-chain handbag. Her expression is calm and direct, standing straight against a plain white seamless backdrop. Soft, even studio lighting, a soft palette of powder blue, cream white, and silver with black accents. Fresh, cozy, and playful, in the style of a Y2K-inspired online clothing catalog.
@@ -320,7 +320,7 @@ cover: attachments/4572.jpg
 
 | Reference | Details |
 |:---:|---|
-| ![[attachments/4993.jpg\|280]] | **Source:** `4993.jpg`<br>**Tags:** #fashion #retro #studio #bodycon<br>**Style:** Bold, retro, editorial |
+| ![[attachments/4991.jpg\|280]] | **Source:** `4991.jpg`<br>**Tags:** #fashion #retro #studio #bodycon<br>**Style:** Bold, retro, editorial |
 
 > [!example]- Prompt
 > A vertical studio fashion portrait of an original young woman with long, wavy copper-red hair falling past her shoulders, standing against a plain white seamless backdrop. She wears a mustard-yellow long-sleeved bodycon mini dress with a high mandarin-style collar, a small ring-shaped cutout at the neckline, an asymmetrical cross-over bodice with a twisted front knot, and softly ruched fabric along the sides. The sleeves are long and slightly flared at the wrists, with silver rings on her fingers. She holds a pale pink structured handbag by its strap. Her expression is calm and direct. Soft, even studio lighting with minimal shadow, a warm, saturated palette of mustard, ochre, and copper against neutral white. Bold, retro, and editorial, in the style of a 1970s-inspired fashion campaign.
@@ -365,7 +365,7 @@ cover: attachments/4572.jpg
 
 | Reference | Details |
 |:---:|---|
-| ![[attachments/5030.jpg\|280]] | **Source:** `5030.jpg`<br>**Tags:** #portrait #hairstyle #vintage #whimsical<br>**Style:** Sweet, nostalgic, whimsical |
+| ![[attachments/5032.jpg\|280]] | **Source:** `5032.jpg`<br>**Tags:** #portrait #hairstyle #vintage #whimsical<br>**Style:** Sweet, nostalgic, whimsical |
 
 > [!example]- Prompt
 > A close-up portrait of an original young woman with soft, wavy light brown hair parted in the center, styled into two loose braids tied with red polka-dot bows at the sides, with a few loose wisps framing her face. She wears small gold hoop earrings and a delicate thin silver chain necklace over a white crew-neck tee with a small printed label. Over the tee, a cream pinafore-style top with a small red floral print, a ruffled trim, and puff sleeves. She has a gentle, closed-mouth smile and a soft, dewy complexion with light freckles. Soft, even studio lighting against a pale, neutral backdrop. A palette of cream, cherry red, and soft brown with light floral accents. Sweet, nostalgic, and wholesome, in the style of a vintage-inspired children's or heritage clothing catalog.
@@ -380,7 +380,7 @@ cover: attachments/4572.jpg
 
 | Reference | Details |
 |:---:|---|
-| ![[attachments/5031.jpg\|280]] | **Source:** `5031.jpg`<br>**Tags:** #fashion #minimal #preppy #studio<br>**Style:** Clean, preppy, graphic |
+| ![[attachments/5030.jpg\|280]] | **Source:** `5030.jpg`<br>**Tags:** #fashion #minimal #preppy #studio<br>**Style:** Clean, preppy, graphic |
 
 > [!example]- Prompt
 > A full-body studio fashion portrait of an original young woman with long, straight black hair parted in the center, falling past her shoulders, standing against a plain white seamless backdrop. She wears a fitted black ribbed knit turtleneck with long sleeves that end at her wrists, paired with a short white mini skirt with a relaxed A-line cut. Tall white ribbed knee-high socks and black pointed-toe flats with a small bow detail complete the look. Her arms are relaxed at her sides, and her expression is calm and direct. Soft, even studio lighting with minimal shadow, a high-contrast palette of black, white, and warm skin tones. Clean, preppy, and graphic, in the style of a minimalist catalog or school uniform-inspired fashion editorial.
@@ -395,7 +395,7 @@ cover: attachments/4572.jpg
 
 | Reference | Details |
 |:---:|---|
-| ![[attachments/5032.jpg\|280]] | **Source:** `5032.jpg`<br>**Tags:** #portrait #pastel #graphic #editorial<br>**Style:** Playful, graphic, pastel |
+| ![[attachments/5031.jpg\|280]] | **Source:** `5031.jpg`<br>**Tags:** #portrait #pastel #graphic #editorial<br>**Style:** Playful, graphic, pastel |
 
 > [!example]- Prompt
 > A vertical close-up portrait of an original young woman with long, straight black hair and full bangs, wearing a glossy red satin headband across the top of her head. She wears a red sheer puff-sleeve top with a small rounded collar over a pale pink undershirt, with the sleeves gathered at the shoulders. She sits with her knees drawn up, partly visible at the bottom of the frame, with white knee socks. Her skin is pale and luminous, with soft rosy blush on the cheeks and glossy, coral-pink lips. Her expression is calm and slightly intense, with a direct gaze toward the camera. Soft, flat studio lighting against a dusty pink seamless backdrop, a palette of cherry red, blush pink, and cream white. Playful, graphic, and pastel, in the style of a retro-inspired beauty or fashion editorial.

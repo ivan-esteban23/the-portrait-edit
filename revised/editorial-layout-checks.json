@@ -3243,7 +3243,7 @@
       "y": 185,
       "w": 450,
       "h": 60,
-      "text": "Every study number, title, source filename, prompt and working note is preserved. Review pairing marks six potentially mismatched source links. Repeats Study identifies shared or closely related references. Rights check asks the publisher to verify likeness and publication permissions; it does not establish anyone's identity.",
+      "text": "Study numbers, titles, prompts and working notes are preserved. Six reference links and Source filenames were corrected with publisher approval. Repeats Study identifies shared or closely related references. Rights check asks the publisher to verify likeness and publication permissions; it does not establish anyone's identity.",
       "font": "Sans",
       "font_size": 10
     },
@@ -18498,9 +18498,9 @@
       "kind": "label",
       "x": 36,
       "y": 618.31640625,
-      "w": 112.921875,
+      "w": 49.79296875,
       "h": 7.5078125,
-      "text": "Rights check / Review pairing",
+      "text": "Rights check",
       "font": "Bold",
       "font_size": 8
     },
@@ -18511,7 +18511,7 @@
       "y": 232.10595703125,
       "w": 68.04931640625001,
       "h": 8.446289062499998,
-      "text": "Source: 4991.jpg",
+      "text": "Source: 4992.jpg",
       "font": "Sans",
       "font_size": 9
     },
@@ -18608,9 +18608,9 @@
       "kind": "label",
       "x": 36,
       "y": 618.31640625,
-      "w": 112.921875,
+      "w": 49.79296875,
       "h": 7.5078125,
-      "text": "Rights check / Review pairing",
+      "text": "Rights check",
       "font": "Bold",
       "font_size": 8
     },
@@ -18621,7 +18621,7 @@
       "y": 232.10595703125,
       "w": 68.04931640625001,
       "h": 8.446289062499998,
-      "text": "Source: 4992.jpg",
+      "text": "Source: 4993.jpg",
       "font": "Sans",
       "font_size": 9
     },
@@ -22535,9 +22535,9 @@
       "kind": "label",
       "x": 36,
       "y": 618.31640625,
-      "w": 112.921875,
+      "w": 49.79296875,
       "h": 7.5078125,
-      "text": "Rights check / Review pairing",
+      "text": "Rights check",
       "font": "Bold",
       "font_size": 8
     },
@@ -22548,7 +22548,7 @@
       "y": 232.10595703125,
       "w": 68.04931640625001,
       "h": 8.446289062499998,
-      "text": "Source: 4993.jpg",
+      "text": "Source: 4991.jpg",
       "font": "Sans",
       "font_size": 9
     },
@@ -22645,9 +22645,9 @@
       "kind": "label",
       "x": 36,
       "y": 618.31640625,
-      "w": 112.921875,
+      "w": 49.79296875,
       "h": 7.5078125,
-      "text": "Rights check / Review pairing",
+      "text": "Rights check",
       "font": "Bold",
       "font_size": 8
     },
@@ -22658,7 +22658,7 @@
       "y": 232.10595703125,
       "w": 68.04931640625001,
       "h": 8.446289062499998,
-      "text": "Source: 5030.jpg",
+      "text": "Source: 5032.jpg",
       "font": "Sans",
       "font_size": 9
     },
@@ -22755,9 +22755,9 @@
       "kind": "label",
       "x": 36,
       "y": 618.31640625,
-      "w": 112.921875,
+      "w": 49.79296875,
       "h": 7.5078125,
-      "text": "Rights check / Review pairing",
+      "text": "Rights check",
       "font": "Bold",
       "font_size": 8
     },
@@ -22768,7 +22768,7 @@
       "y": 232.10595703125,
       "w": 68.04931640625001,
       "h": 8.446289062499998,
-      "text": "Source: 5031.jpg",
+      "text": "Source: 5030.jpg",
       "font": "Sans",
       "font_size": 9
     },
@@ -22865,9 +22865,9 @@
       "kind": "label",
       "x": 36,
       "y": 618.31640625,
-      "w": 112.921875,
+      "w": 49.79296875,
       "h": 7.5078125,
-      "text": "Rights check / Review pairing",
+      "text": "Rights check",
       "font": "Bold",
       "font_size": 8
     },
@@ -22878,7 +22878,7 @@
       "y": 232.10595703125,
       "w": 68.04931640625001,
       "h": 8.446289062499998,
-      "text": "Source: 5032.jpg",
+      "text": "Source: 5031.jpg",
       "font": "Sans",
       "font_size": 9
     },
@@ -31548,7 +31548,7 @@
     },
     {
       "page": 91,
-      "source": "4991.jpg",
+      "source": "4992.jpg",
       "original_pixels": [
         736,
         981
@@ -31569,10 +31569,10 @@
     },
     {
       "page": 92,
-      "source": "4992.jpg",
+      "source": "4993.jpg",
       "original_pixels": [
-        736,
-        981
+        666,
+        999
       ],
       "frame": [
         42,
@@ -31581,9 +31581,9 @@
         343
       ],
       "drawn": [
-        58.331294597349654,
+        72.66666666666667,
         256.0,
-        257.3374108053007,
+        228.66666666666666,
         343.0
       ],
       "pixel_resampling": "none"
@@ -32304,10 +32304,10 @@
     },
     {
       "page": 128,
-      "source": "4993.jpg",
+      "source": "4991.jpg",
       "original_pixels": [
-        666,
-        999
+        736,
+        981
       ],
       "frame": [
         42,
@@ -32316,15 +32316,36 @@
         343
       ],
       "drawn": [
-        72.66666666666667,
+        58.331294597349654,
         256.0,
-        228.66666666666666,
+        257.3374108053007,
         343.0
       ],
       "pixel_resampling": "none"
     },
     {
       "page": 129,
+      "source": "5032.jpg",
+      "original_pixels": [
+        736,
+        985
+      ],
+      "frame": [
+        42,
+        256,
+        290,
+        343
+      ],
+      "drawn": [
+        58.853807106598964,
+        256.0,
+        256.2923857868021,
+        343.0
+      ],
+      "pixel_resampling": "none"
+    },
+    {
+      "page": 130,
       "source": "5030.jpg",
       "original_pixels": [
         736,
@@ -32345,7 +32366,7 @@
       "pixel_resampling": "none"
     },
     {
-      "page": 130,
+      "page": 131,
       "source": "5031.jpg",
       "original_pixels": [
         736,
@@ -32361,27 +32382,6 @@
         90.86595582635186,
         256.0,
         192.26808834729627,
-        343.0
-      ],
-      "pixel_resampling": "none"
-    },
-    {
-      "page": 131,
-      "source": "5032.jpg",
-      "original_pixels": [
-        736,
-        985
-      ],
-      "frame": [
-        42,
-        256,
-        290,
-        343
-      ],
-      "drawn": [
-        58.853807106598964,
-        256.0,
-        256.2923857868021,
         343.0
       ],
       "pixel_resampling": "none"
@@ -33710,12 +33710,12 @@
       "pixel_resampling": "none"
     }
   ],
-  "source_sha256": "bac8e7e0449ac5c28c7e99a8ac087642ec975f2184ac188d7b053a4ae9a5aa47",
-  "pdf_sha256": "d50cd1f76b9cc896acd37a579727d860a914e40514bfa08f4d9df81ca9e6f015",
+  "source_sha256": "2637b0bb8ae342ed0a4a9d798d95998982954fd72edb1e61b3c447159a0d7191",
+  "pdf_sha256": "1dbee4ff29e34585b941352edb588493c420d3a79b8f2e1a4bf188b760f91756",
   "prompt_font_size": 9.5,
   "notes_font_size": 9,
   "image_resampling": "none",
-  "output": "/home/ivanaguilera/Projects/the-portrait-edit/revised/The_Portrait_Edit_Issue_02_Editorial_Revision.pdf",
+  "output": "revised/The_Portrait_Edit_Issue_02_Editorial_Revision.pdf",
   "try_lines": {
     "1": "Add a 35mm Kodak Portra film-stock reference.",
     "2": "Try a different season.",
@@ -33892,6 +33892,39 @@
     "173": "Keep the bear charm as a playful accent.",
     "174": "Keep the warm storefront glow for a nighttime atmosphere."
   },
+  "approved_reference_corrections": [
+    {
+      "study": 7,
+      "from": "4991.jpg",
+      "to": "4992.jpg"
+    },
+    {
+      "study": 8,
+      "from": "4992.jpg",
+      "to": "4993.jpg"
+    },
+    {
+      "study": 9,
+      "from": "4993.jpg",
+      "to": "4991.jpg"
+    },
+    {
+      "study": 12,
+      "from": "5030.jpg",
+      "to": "5032.jpg"
+    },
+    {
+      "study": 13,
+      "from": "5031.jpg",
+      "to": "5030.jpg"
+    },
+    {
+      "study": 14,
+      "from": "5032.jpg",
+      "to": "5031.jpg"
+    }
+  ],
+  "pairing_corrections_sha256": "4280ef96f98fc583599c161c470c7a025831be4265dfc22e8da12284d77a5f20",
   "edition": "editorial",
   "chapter_directory": [
     {
@@ -34177,8 +34210,6 @@
     "DALL-E.prompts/Attachments/5032.jpg": "b2c3c98d13e5badc6b831b6c344d4b954f4b7c91bada4281035113ab40cca6b4",
     "DALL-E.prompts/Attachments/5088.jpg": "8ce2e017f995b988bb6e41a8cbd1b05a83d1175716e0b4625fa3b9b9f013d149",
     "DALL-E.prompts/Attachments/5089.jpg": "fe4c06e603b61b61755d25d492f991b9dacf579db65cfa0aaf9e5bfd19b938b5",
-    "DALL-E.prompts/dalle-prompts.md": "bac8e7e0449ac5c28c7e99a8ac087642ec975f2184ac188d7b053a4ae9a5aa47",
-    "README.md": "f2f1f4ebbc9d0c39ca5b60907dbba24ecc72ccb8b825b19ee5f812310812fbb9",
     "output/pdf/The Portrait Edit - Issue 02 - The Prompt Issue.pdf": "3f40725d369d96752955c4f4842fc686412449687dfc12db8b7d9070e8e879f3",
     "output/pdf/issue-02-cover.png": "e3e52e7ab9d53296c350bac8a7e486b70f3f20837af042cc09d94c1104647117",
     "output/pdf/issue-02-manifest.json": "2ae5cb3bd3a36c5efd229b1a40a45df911fddd891d00c9624049706af57be565",
@@ -34187,7 +34218,6 @@
     "revised/The_Portrait_Edit_Issue_02_Revised.pdf": "1ad6dbf42165b2ca00850a62275d0988c703814c748d13dcc2774f855255a0a4",
     "revised/audit-data.json": "d8490c7cb78b737e769282223f0013659c516ca8e12cba405b1a983b88138388",
     "revised/audit.md": "fa331f03f41bb1943075fcbc4b69422603407b75e0530f27e679ffcb8760a759",
-    "revised/chapters.json": "71768878e04ed44120bea355b1c76b96a180bd70e4a13e67cfb3b14c3ad8c1b0",
     "revised/current-pdf-layout.txt": "c030c741fee8a772930104adcff13cf68ffc34776c6d8b082d8af17c423bce34",
     "revised/layout-checks.json": "8d3f4f84096d93944d11f19f5ae84e64898f44a902889a7a10eda7db4c9739ff",
     "revised/revised-pdf-layout.txt": "1d69af42ef5b748fcf6c7ce1dbc46378cae8b17fa641ce3187c86f5ad745e041",
@@ -34199,5 +34229,5 @@
     "scripts/plan_issue_02.py": "672289df5287acba74f661fd187984d1dbdd64b29fd12da7bbb8448d2600110c",
     "scripts/verify_issue_02.py": "e9f0b4222528f5e49e574290ac88a472f4e1b8467a2531a251d89d8f848bd395"
   },
-  "editorial_copy_sha256": "2fe94ef3f2415f982312cdbed940494e5edf5b4c50e2be4329b736a1ccc48ca7"
+  "editorial_copy_sha256": "d03327e792bbcb4679f5b5da91080c1ba95dcf8d0b5c406bf546f933f31ec393"
 }

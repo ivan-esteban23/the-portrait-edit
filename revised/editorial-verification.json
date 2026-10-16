@@ -1,7 +1,7 @@
 {
   "status": "PASS",
   "pdf": "revised/The_Portrait_Edit_Issue_02_Editorial_Revision.pdf",
-  "pdf_sha256": "d50cd1f76b9cc896acd37a579727d860a914e40514bfa08f4d9df81ca9e6f015",
+  "pdf_sha256": "1dbee4ff29e34585b941352edb588493c420d3a79b8f2e1a4bf188b760f91756",
   "pages": 196,
   "letter_points": [
     612,
@@ -10,17 +10,13 @@
   "contents_studies_once": 174,
   "exact_normalized_prompts": 174,
   "original_titles": 174,
-  "original_sources": 174,
+  "source_filenames_match_current": 174,
+  "approved_source_corrections": 6,
+  "original_prompt_and_note_bytes_preserved": true,
+  "chapter_membership_unchanged": true,
   "original_working_notes": 174,
   "reviewed_try_lines": 174,
-  "pairing_studies": [
-    7,
-    8,
-    9,
-    12,
-    13,
-    14
-  ],
+  "pairing_studies": [],
   "rights_studies": 174,
   "duplicate_studies": 18,
   "contents_links": 174,
@@ -35,7 +31,7 @@
   "exported_span_comparisons": 68412,
   "image_occurrences_original_pixels": 175,
   "unique_reference_filenames": 170,
-  "protected_files_unchanged": 193,
+  "protected_files_unchanged": 190,
   "baseline_commit": "5235d883e9161eaed9f28633c539f4c34f39768e",
   "readable_previews": {
     "cover": 1,
@@ -47,38 +43,53 @@
     "long-prompt-study": 60,
     "small-image-study": 25,
     "duplicate-study": 86,
-    "review-pairing-study": 91
+    "review-pairing-study": 91,
+    "pairing-study-007": 91,
+    "pairing-study-008": 92,
+    "pairing-study-009": 128,
+    "pairing-study-012": 129,
+    "pairing-study-013": 130,
+    "pairing-study-014": 131
   },
   "full_issue_contact_sheets": 7,
   "visual_inspection": {
     "status": "PASS",
     "reviewer": "Codex visual inspection",
-    "readable_preview_pages": [
+    "newly_inspected_pages": [
+      2,
+      91,
+      92,
+      128,
+      129,
+      130,
+      131
+    ],
+    "newly_inspected_contact_sheets": [
       1,
+      4,
+      5
+    ],
+    "unchanged_previously_inspected_previews": 8,
+    "unchanged_previously_inspected_contact_sheets": [
       2,
       3,
-      4,
-      10,
-      90,
-      60,
-      25,
-      86,
-      91
+      6,
+      7
     ],
-    "contact_sheets_reviewed": 7,
-    "pages_covered_by_contact_sheets": 196,
+    "unchanged_preview_method": "Byte equality against commit 854d94ab65460cb6628a0bf1ba30640d3ae02423.",
+    "readable_preview_files_total": 16,
+    "full_issue_pages_covered": 196,
     "findings": [
-      "No visible clipping, text collisions, text/image overlap, or missing reference framing in the inspected previews and overview sheets.",
-      "The page-2 directory fits with consistent spacing and preserves the existing text and page count.",
-      "Chapter-specific copy fits the established opener composition.",
-      "Small reference Study 36 remains visibly softer than larger references; no artificial detail was added.",
-      "Study 115 retains conflicting original section-82 wording while its visible repeat label correctly points to Study 83."
+      "All six approved references match the reviewed image assignments and displayed Source fields.",
+      "The six obsolete Review pairing flags are absent; every Rights check flag remains.",
+      "The updated letter accurately describes publisher-approved corrections and its chapter directory still fits.",
+      "No visible clipping, crowding, text/image overlap, cropping, or distorted references in changed pages/contact sheets.",
+      "Other eight readable previews and four contact sheets are byte-identical to the inspected earlier export."
     ],
-    "navigation": "All nine directory links, 174 contents links and 183 bookmark destinations verified in the exported PDF; visual previews do not simulate clicks in every PDF viewer.",
-    "preview_hashes_unchanged_after_final_verifier_run": true
+    "navigation": "174 contents links, nine directory links and 183 bookmarks checked structurally in the exported PDF."
   },
   "limitations": [
-    "Geometry and pixel checks do not establish publication rights or resolve source-pairing concerns."
+    "Geometry and pixel checks do not establish publication rights. Six source-pairing corrections were explicitly approved after visual review."
   ],
   "documented_relative_path_command": "PASS"
 }

@@ -1,15 +1,14 @@
 # Editorial suggestions - outside pass 01
 
-None of the proposals below was applied to protected source content.
+The six image-pairing corrections were subsequently approved and completed; they are no longer a pending suggestion. The proposals below remain outside the approved correction scope.
 
 | Priority | Proposal | Benefit | Affected studies/pages | Effort | Requirement |
 |---|---|---|---|---|---|
-| 1 | Decide how to resolve the six flagged image/prompt pairings. | Removes confusing visual guidance before publication. | 7, 8, 9, 12, 13, 14 / pages 91, 92, 128-131. | Low implementation; publisher review needed. | Explicit approval to change image assignments; retain an audit trail and original references. |
-| 2 | Collect reference provenance and publication-clearance information. | Makes publication decisions evidence-based. | All 170 unique reference filenames / all 174 study pages. | High; depends on available records. | Rights information, publisher decisions, and any required permissions. No identity or clearance inferred from appearance. |
-| 3 | Replace low-resolution files with higher-quality originals under an approved input update. | Improves genuine detail without AI reconstruction. | 24 studies listed in the original audit; page list below. | Medium, depending on originals. | Higher-resolution files and approval to replace protected reference inputs. Keep filenames or document a migration. |
-| 4 | Approve a narrowly scoped source correction for Study 115 and decide the intended Study 44 title. | Resolves conflicts that accurate labels alone cannot remove. | Study 115 / page 86: original prompt and note say 82 but repeat counterpart is 83. Study 44 / page 97: camo versus cloud-like wording. | Low. | Explicit approval: prompts, titles and original notes are protected in this pass. |
-| 5 | Review chapter pacing and a possible shorter digital edition. | Could make browsing easier on small screens. | All chapters; especially contents 7/10 and openers 53/90. | Medium. | Approval for a separate edition or mapping change; no deletion or rebalancing in this pass. |
-| 6 | Produce a physical print proof before specifying print-ready quality. | Reveals paper, contrast and effective-resolution issues that screen previews cannot settle. | Cover and representative small-image, long-prompt and dark-reference pages. | Medium. | Printer/paper specification and a physical proof; higher-resolution files may be needed. |
+| 1 | Collect reference provenance and publication-clearance information. | Makes publication decisions evidence-based. | All 170 unique reference filenames / all 174 study pages. | High; depends on available records. | Rights information, publisher decisions, and any required permissions. No identity or clearance inferred from appearance. |
+| 2 | Replace low-resolution files with higher-quality originals under an approved input update. | Improves genuine detail without AI reconstruction. | 24 studies listed in the original audit; page list below. | Medium, depending on originals. | Higher-resolution files and approval to replace protected reference inputs. Keep filenames or document a migration. |
+| 3 | Approve a narrowly scoped source correction for Study 115 and decide the intended Study 44 title. | Resolves conflicts that accurate labels alone cannot remove. | Study 115 / page 86: original prompt and note say 82 but repeat counterpart is 83. Study 44 / page 97: camo versus cloud-like wording. | Low. | Explicit approval: prompts, titles and original notes are protected in this pass. |
+| 4 | Review chapter pacing and a possible shorter digital edition. | Could make browsing easier on small screens. | All chapters; especially contents 7/10 and openers 53/90. | Medium. | Approval for a separate edition or mapping change; no deletion or rebalancing in this pass. |
+| 5 | Produce a physical print proof before specifying print-ready quality. | Reveals paper, contrast and effective-resolution issues that screen previews cannot settle. | Cover and representative small-image, long-prompt and dark-reference pages. | Medium. | Printer/paper specification and a physical proof; higher-resolution files may be needed. |
 
 ## Small-reference replacement shortlist
 
@@ -44,6 +43,10 @@ These are source-resolution concerns, not claims that layout damaged the images.
 
 ## First three publisher decisions
 
-1. Approve an image-pairing correction plan or explicitly retain the six flagged pairings.
-2. Establish a reference-rights review process and supply available provenance/permissions.
-3. Choose which higher-resolution originals to provide first, using the shortlist above.
+1. Establish a reference-rights review process and supply available provenance/permissions.
+2. Choose which higher-resolution originals to provide first, using the shortlist above.
+3. Decide whether to authorize the separate protected-source corrections for Studies 115 and 44.
+
+## Completed with publisher approval
+
+Studies 7-9 and 12-14 now use the six approved reference links and matching Source fields. Their resolved pairing labels were removed; all rights labels and original prompt/working-note text remain. The exact change record is `pairing-corrections.json`; historical audit files and baseline PDFs remain unchanged.

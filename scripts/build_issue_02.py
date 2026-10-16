@@ -43,6 +43,40 @@ GLOSSARY=[
 ('Faux fur','A manufactured material designed to resemble the texture and appearance of animal fur.'),
 ('Pleated','Fabric arranged into intentional folds, which can give a garment structure, volume or movement.')]
 
+BASELINE_EDITABLE={'scripts/build_issue_02.py','revised/README.md','README.md','DALL-E.prompts/dalle-prompts.md','revised/chapters.json'}
+
+
+def approved_reference_corrections():
+    """Prove the source differs from baseline only by the six approved links."""
+    data=json.loads((ROOT/'revised/pairing-corrections.json').read_text())
+    expected=[{'study':n,'from':old,'to':new} for n,old,new in [(7,'4991.jpg','4992.jpg'),(8,'4992.jpg','4993.jpg'),(9,'4993.jpg','4991.jpg'),(12,'5030.jpg','5032.jpg'),(13,'5031.jpg','5030.jpg'),(14,'5032.jpg','5031.jpg')]]
+    assert data['corrections']==expected
+    assert data['baseline_commit']=='5235d883e9161eaed9f28633c539f4c34f39768e'
+    original=subprocess.check_output(['git','-C',str(ROOT),'show',data['baseline_commit']+':DALL-E.prompts/dalle-prompts.md'])
+    assert hashlib.sha256(original).hexdigest()==data['source_before_sha256']
+    changes={row['study']:row for row in expected};seen=set()
+    def change(match):
+        n=int(match[2]);body=match[3]
+        if n in changes:
+            row=changes[n];link='attachments/'+row['from'];field='**Source:** `'+row['from']+'`'
+            assert body.count(link)==1 and body.count(field)==1
+            body=body.replace(link,'attachments/'+row['to'],1).replace(field,'**Source:** `'+row['to']+'`',1);seen.add(n)
+        return match[1]+body
+    approved=re.sub(r'(^## [^\n]*?(\d+)\. [^\n]+\n)(.*?)(?=^## |\Z)',change,original.decode(),flags=re.M|re.S).encode()
+    assert seen==set(changes) and SOURCE.read_bytes()==approved,'Source contains changes outside the approved link/Source corrections.'
+    assert hashlib.sha256(approved).hexdigest()==data['source_after_sha256']
+    oldmap=subprocess.check_output(['git','-C',str(ROOT),'show',data['baseline_commit']+':revised/chapters.json'])
+    assert hashlib.sha256(oldmap).hexdigest()==data['chapters_before_sha256']
+    mapping=json.loads(oldmap);seen=set()
+    for row in mapping['assignments']:
+        if row['study'] in changes:
+            item=changes[row['study']];assert row['source']==item['from'];row['source']=item['to'];seen.add(row['study'])
+    current=(ROOT/'revised/chapters.json').read_bytes()
+    assert seen==set(changes) and json.loads(current)==mapping,'Chapter mapping differs beyond approved Source metadata.'
+    assert hashlib.sha256(current).hexdigest()==data['chapters_after_sha256']
+    return data
+
+
 class Magazine:
     def __init__(self, output, layout_output, edition="editorial"):
         for name,path in [('Serif','/usr/share/fonts/noto/NotoSerif-Regular.ttf'),('Sans','/usr/share/fonts/liberation/LiberationSans-Regular.ttf'),('Bold','/usr/share/fonts/liberation/LiberationSans-Bold.ttf')]:
@@ -50,7 +84,9 @@ class Magazine:
         self.entries={e['number']:e for e in parse_source()}
         self.mapping=json.loads((ROOT/'revised/chapters.json').read_text())
         self.audit=json.loads((ROOT/'revised/audit-data.json').read_text())
-        assert self.audit['source_sha256']==hashlib.sha256(SOURCE.read_bytes()).hexdigest(),'Rerun the audit after source changes.'
+        self.corrections=approved_reference_corrections()
+        assert self.audit['source_sha256']==self.corrections['source_before_sha256'],'Historical audit no longer matches the approved baseline.'
+        self.pending_pairings=set(map(int,self.audit['pairings']))-{row['study'] for row in self.corrections['corrections']}
         self.edition=edition
         self.copy=json.loads((ROOT/'revised/editorial-copy.json').read_text())
         assert self.copy['source_sha256']==hashlib.sha256(SOURCE.read_bytes()).hexdigest()
@@ -62,7 +98,7 @@ class Magazine:
             assert row['basis_note']==self.entries[row['study']]['note_items'][row['basis_note_number']-1]
         self.baseline_commit='5235d883e9161eaed9f28633c539f4c34f39768e'
         tracked=subprocess.check_output(['git','-C',str(ROOT),'ls-tree','-r','--name-only',self.baseline_commit],text=True).splitlines()
-        self.protected_hashes={path:hashlib.sha256((ROOT/path).read_bytes()).hexdigest() for path in tracked if path not in ('scripts/build_issue_02.py','revised/README.md')}
+        self.protected_hashes={path:hashlib.sha256((ROOT/path).read_bytes()).hexdigest() for path in tracked if path not in BASELINE_EDITABLE}
         protected={(ROOT/path).resolve() for path in self.protected_hashes}
         assert output.resolve() not in protected and layout_output.resolve() not in protected,'Refusing to overwrite a protected baseline artifact.'
         self.layout_output=layout_output
@@ -145,7 +181,7 @@ class Magazine:
         self.para('A working magazine for looking closely - and making something new.',36,568,465,16,24,'Serif')
         self.para('Nine chapters bring this collection of 174 studies into focus. Each page places the complete original prompt beside its linked reference, with the original working notes below. The glossary introduces recurring photographic and clothing terms.',36,476,450,11,17)
         self.para('The prompts were written for DALL-E-style image tools. “Image Prompt” is used throughout as a neutral label. To explore a study, paste its prompt into your preferred image tool and use the reference attachment when supported. The added “Try this” line draws only from that study\'s existing notes.',36,369,450,11,17)
-        self.para('Every study number, title, source filename, prompt and working note is preserved. Review pairing marks six potentially mismatched source links. Repeats Study identifies shared or closely related references. Rights check asks the publisher to verify likeness and publication permissions; it does not establish anyone\'s identity.',36,245,450,10,15)
+        self.para('Study numbers, titles, prompts and working notes are preserved. Six reference links and Source filenames were corrected with publisher approval. Repeats Study identifies shared or closely related references. Rights check asks the publisher to verify likeness and publication permissions; it does not establish anyone\'s identity.',36,245,450,10,15)
         self.label('CHAPTER DIRECTORY',36,149,8,color=RED)
         for i,ch in enumerate(self.chapters):
             col,row=divmod(i,3);x=36+col*180;y=130-row*18
@@ -216,7 +252,7 @@ class Magazine:
         self.para(e['title'],36,699,540,size,size*1.18,'Serif',kind='study title',maxheight=63)
         # Flags sit on a separate line above the fixed image frame.
         flags=['Rights check']
-        if str(n) in self.audit['pairings']:flags.append('Review pairing')
+        if n in self.pending_pairings:flags.append('Review pairing')
         flags.extend(f'Repeats Study {other}.' for other in self.audit['repeats'].get(str(n),[]))
         self.label(' / '.join(flags),36,620,8,color=RED,checked=True)
         self.c.setStrokeColor(RULE);self.c.setLineWidth(.5);self.c.rect(36,250,302,355,stroke=1,fill=0)
@@ -238,7 +274,7 @@ class Magazine:
         assert self.c.getPageNumber()-1==self.expected_pages
         self.c.save()
         manifest=dict(pages=self.expected_pages,study_pages={str(k):v for k,v in self.study_pages.items()},chapter_openers=self.openers,contents=self.contents,text_boxes=self.boxes,images=self.image_boxes,source_sha256=hashlib.sha256(SOURCE.read_bytes()).hexdigest(),pdf_sha256=hashlib.sha256(self.output.read_bytes()).hexdigest(),prompt_font_size=9.5,notes_font_size=9,image_resampling='none',output=str(self.output),try_lines={str(n):self.try_line(e) for n,e in self.entries.items()})
-        manifest.update(edition=self.edition,chapter_directory=self.directory,baseline_commit=self.baseline_commit,protected_sha256=self.protected_hashes,editorial_copy_sha256=hashlib.sha256((ROOT/'revised/editorial-copy.json').read_bytes()).hexdigest())
+        manifest.update(approved_reference_corrections=self.corrections['corrections'],pairing_corrections_sha256=hashlib.sha256((ROOT/'revised/pairing-corrections.json').read_bytes()).hexdigest(),edition=self.edition,chapter_directory=self.directory,baseline_commit=self.baseline_commit,protected_sha256=self.protected_hashes,editorial_copy_sha256=hashlib.sha256((ROOT/'revised/editorial-copy.json').read_bytes()).hexdigest())
         self.layout_output.parent.mkdir(parents=True,exist_ok=True)
         self.layout_output.write_text(json.dumps(manifest,indent=2,ensure_ascii=False)+'\n')
         print(f'Built {self.expected_pages} pages: {self.output} ({self.output.stat().st_size:,} bytes)')

@@ -1,58 +1,62 @@
-# Editorial changes - pass 01
+# Editorial changes - pass 01 and approved pairing follow-up
 
-## Implemented
+## Implemented editorial pass
 
-- Reused and refactored `scripts/build_issue_02.py` on feature branch `editorial-revision-pass-01`, based on main commit `5235d883e9161eaed9f28633c539f4c34f39768e`.
-- Replaced all automatic “Try this” wording with 174 explicit, reviewed lines in `editorial-copy.json`. Every line records its exact supporting original note. Missing, duplicate or stale-source entries fail the build.
-- Added a compact nine-link chapter directory to the existing editor's letter on page 2. No page was added; the original letter wording remains and the count row is moved lower.
-- Replaced the repeated generic navigation instruction on all nine openers with individual chapter-specific editorial lines. Chapter order, names, descriptions and assignments remain unchanged.
-- Produced the separate `The_Portrait_Edit_Issue_02_Editorial_Revision.pdf`, with its own layout manifest, verifier report and preview directory. The generator refuses protected baseline output paths.
-- Added actual-PDF bookmark, directory-link, font-size, overlap and decoded-pixel checks. Label bounds use the installed font's ascent/descent; overlap checks use visible glyph bounds to avoid mistaking unused font metrics for collisions.
-- Updated `README.md` with editorial-only rebuild/verification commands and warnings about legacy commands that write baseline files.
+- Reused `scripts/build_issue_02.py` on `editorial-revision-pass-01`, based on main commit `5235d883e9161eaed9f28633c539f4c34f39768e`.
+- Replaced automatic “Try this” wording with 174 explicit, reviewed lines and supporting-note quotations in `editorial-copy.json`.
+- Added nine linked chapter entries to page 2 without adding a page, and nine chapter-specific opener lines.
+- Added a separate editorial export, layout manifest, verification report, readable previews and full-issue contact sheets. Historical baseline output paths are protected from overwrite.
 
-## Protected content preserved
+## Subsequently approved reference corrections
 
-All 174 prompts, original working notes, study numbers, titles, Source filenames and reference images remain unchanged. Four shared-source pairs and five near-duplicate pairs remain, with accurate visible cross-references on both pages. “Review pairing” occurs only on Studies 7-9 and 12-14. All 174 studies retain “Rights check”. The neutral “Image Prompt” heading remains.
+After reviewing current/proposed image boards, the user explicitly approved these six reference-link and corresponding Source-field changes:
 
-The chapter map and 193 protected repository files match their captured hashes and immutable Git objects. These include the source note, all 170 attachments, existing PDFs, audit files, mapping, original layout/verification JSON, original sample PNGs, root README and the unchanged legacy audit/planning/verification scripts. The only modified existing files are the approved build script and `revised/README.md`.
+| Study | PDF page | Previous Source | Approved Source |
+|---:|---:|---|---|
+| 7 | 91 | `4991.jpg` | `4992.jpg` |
+| 8 | 92 | `4992.jpg` | `4993.jpg` |
+| 9 | 128 | `4993.jpg` | `4991.jpg` |
+| 12 | 129 | `5030.jpg` | `5032.jpg` |
+| 13 | 130 | `5031.jpg` | `5030.jpg` |
+| 14 | 131 | `5032.jpg` | `5031.jpg` |
 
-## Exact export verification results
+The Markdown changes only those six attachment links and six Source fields. The corresponding Source metadata in `chapters.json` is updated, but no chapter assignments, order, names or titles change. No attachment is renamed, retouched or resampled. All 174 prompt and original working-note texts remain byte-for-byte unchanged in the source.
 
-- Opened successfully: 196 pages, each 612 × 792 points.
-- Studies exactly once in rendered contents: 174.
-- Normalized prompt matches: 174 / 174.
-- Original titles, Source filenames and working notes preserved: 174 each.
-- Explicit “Try this” lines with quoted note provenance: 174.
-- Correct duplicate cross-references: 18 study pages.
-- Pairing-review studies: 7, 8, 9, 12, 13, 14 only.
-- Rights flags: 174 studies.
-- Correct contents links: 174; chapter-directory links: 9.
-- Correct chapter/study bookmarks and hierarchy: 183.
-- Minimum measured exported body/notes/contents/glossary text: 9.0 pt.
-- Text spans checked: 5191; logical-block comparisons: 28907; separate exported-span comparisons: 68412.
-- No clipping operators, logical text collisions, visible glyph collisions, or text/image overlap found.
-- Original decoded image pixels, dimensions, aspect ratio and full placement verified: 175 occurrences (174 study images plus cover), representing 170 unique reference filenames. No crop, distortion, retouch or upsampling.
-- Independent `pdftotext -layout` pass confirms 196 pages and all Source strings.
-- PDF SHA-256: `d50cd1f76b9cc896acd37a579727d860a914e40514bfa08f4d9df81ca9e6f015`.
+The six obsolete “Review pairing” labels are removed from the current editorial export. All 174 “Rights check” flags and all duplicate/near-duplicate pages with accurate cross-references remain. The editor's letter and current documentation explain the approved corrections; `pairing-corrections.json` records approval and before/after hashes.
 
-Machine-readable results are in `editorial-verification.json`; geometry, source hashes and baseline hashes are in `editorial-layout-checks.json`.
+The generator/verifier reconstruct the precisely authorized source delta from Git and reject every other Markdown or chapter-map change. The historical `audit.md`, `audit-data.json`, old manifests, verification results, sample PNGs and baseline PDFs remain unchanged. Earlier claims that all links/Source fields were untouched describe the initial pass before this separate approval; the current explicit exception is limited to the six rows above. The pre-correction editorial PDF and source remain available in Git at `854d94a`.
 
-## Rendered visual review
+## Exact current export verification
 
-Ten readable PNGs were rendered and inspected: pages 1, 2, 3, 4, 10, 90, 60 (Study 5), 25 (Study 36), 86 (Study 115), and 91 (Study 7). Seven contact sheets covering all 196 pages were also inspected. No visible clipping, crowding caused by the editorial changes, overlap or missing image framing was found. The directory fits page 2 and the chapter-specific lines fit the existing openers.
+- Opens successfully: 196 Letter pages, 612 × 792 points each.
+- All 174 studies appear exactly once in the rendered contents.
+- All 174 exported prompts, original notes and titles match the source; reconstructing the approved delta proves original prompt/note bytes were preserved against the immutable baseline.
+- All 174 displayed Source filenames match the current source, with exactly six approved corrections.
+- Chapter membership unchanged; 174 reviewed “Try this” entries retain exact note provenance.
+- Rights flags: 174; remaining active pairing flags from the original six-study set: 0.
+- Accurate duplicate cross-references: 18 study pages.
+- Correct navigation: 174 contents links, 9 directory links and 183 chapter/study bookmarks.
+- Minimum exported body/notes/glossary/contents text: 9.0 pt.
+- Checked 5191 text spans, 28907 logical-block comparisons and 68412 separate-span comparisons; no clipping, text collisions or text/image overlap found.
+- Original decoded pixels, dimensions, aspect ratio and full placement verified for 175 image occurrences, representing 170 unique filenames. No crop, distortion, retouch or upsampling.
+- 190 unchanged protected files match both captured hashes and immutable Git objects. Source and chapter metadata are checked separately against the approved delta; current README/build changes are documented exceptions.
+- Independent `pdftotext -layout` pass confirms 196 pages and all current Source strings.
+- Documented relative-path build/verification commands completed successfully.
+- PDF SHA-256: `1dbee4ff29e34585b941352edb588493c420d3a79b8f2e1a4bf188b760f91756`.
 
-The small-image preview remains softer than high-resolution references. This is an original-source limitation, with no pixel invention or enlargement performed. Navigation targets were verified in the actual PDF; interactive behavior was not manually exercised in every PDF viewer.
+## Visual review
 
-## Unresolved issues and limits
+Six dedicated corrected-study previews and the updated letter were inspected at readable resolution (pages 91, 92, 128, 129, 130, 131 and 2). Updated contact sheets 1, 4 and 5 were inspected. Eight other readable previews and contact sheets 2, 3, 6 and 7 are byte-identical to the earlier inspected export. The current set contains 16 readable PNG files and seven sheets covering all 196 pages. No visible clipping, crowding, overlap or broken framing was found. All six images/Source fields match the user-approved assignments.
 
-- The six original image-prompt conflicts remain intentionally flagged, with no image swaps.
-- All rights flags remain; rights, identities, licenses and publication clearance were not inferred.
-- Study 115's protected prompt and note both refer to section 82, while its accurate visible repeat label points to Study 83. Study 44's protected title differs from its cloud-pattern description. These require approval for a later source correction.
-- Twenty-four small references remain; better original files would improve genuine detail.
-- Chapter mapping and wider redesign/rebalancing remain outside this pass.
-- No required verification check was unavailable. Physical print proofing, publication-clearance research and cross-viewer interactive testing are not claimed.
-- No package or font was installed or downloaded. Existing ReportLab, Pillow/FreeType, PyMuPDF, Poppler, Git, Noto Serif and Liberation Sans were used.
+## Remaining decisions and limits
 
-## Handoff
+- Reference publication permissions remain a publisher decision; no identity, ownership, license or clearance was inferred.
+- Twenty-four small original references remain; better original files would improve genuine detail.
+- Study 115's protected prompt and note still say section 82, while its accurate visible label points to Study 83. Study 44's protected title still differs from its cloud-pattern description. These were not included in the six-reference approval.
+- No chapter rebalancing, original prompt rewriting or note removal occurred.
+- No required export check was blocked. Physical print proofing and interactive testing in every PDF viewer are not claimed.
+- No package or font was installed or downloaded.
 
-This pass is delivered as a feature-branch PR for review. It does not modify main, force-push, or merge. See `EDITORIAL_REVIEW.md` for page-specific findings and `EDITORIAL_SUGGESTIONS.md` for prioritized future work.
+## GitHub handoff
+
+The changes are committed to the existing feature branch and PR #2 for review. No direct change to main, force-push or merge is part of this task. See `EDITORIAL_REVIEW.md` for findings and `EDITORIAL_SUGGESTIONS.md` for the remaining priorities.
