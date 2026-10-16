@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "pages": 196,
+  "letter_size": true,
+  "contents_studies_once": 174,
+  "prompts_exact_normalized": 174,
+  "original_titles": 174,
+  "original_sources": 174,
+  "working_notes_preserved": 174,
+  "pairing_flags": 6,
+  "rights_flags": 174,
+  "duplicate_flags": 18,
+  "minimum_body_pt": 9,
+  "images_original_pixels": true,
+  "no_text_box_overflow": true,
+  "samples": {
+    "cover": 1,
+    "chapter-opener": 90,
+    "study": 91
+  },
+  "pdf_sha256": "1ad6dbf42165b2ca00850a62275d0988c703814c748d13dcc2774f855255a0a4"
+}
