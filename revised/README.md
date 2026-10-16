@@ -71,3 +71,14 @@ The baseline `audit.md`, `audit-data.json`, `CHANGES.md`, `layout-checks.json`, 
 The current editorial export resolves these approved references: 7 → 4992.jpg, 8 → 4993.jpg, 9 → 4991.jpg, 12 → 5032.jpg, 13 → 5030.jpg, 14 → 5031.jpg. Source filenames in the Markdown and chapter metadata are updated consistently, without renaming any attachment. There are no remaining active “Review pairing” labels for this original six-study set. This resolution does not imply publication clearance; all 174 “Rights check” flags remain.
 
 `pairing-study-007.png`, `008`, `009`, `012`, `013`, and `014` in `editorial-samples/` show all six corrected pages. The older `review-pairing-study.png` filename is retained for compatibility, but now displays the corrected Study 7 page. See the current changes report for the approved correction table and remaining decisions.
+
+## Larger type edition
+
+`The_Portrait_Edit_Issue_02_Larger_Type.pdf` is a separate 196-page edition with 12 pt prompts, 11.5 pt notes and glossary definitions, and 11 pt contents. It preserves all approved content and reference images. See `LARGER_TYPE_CHANGES.md` for checks and limits.
+
+```bash
+.venv/bin/python -B scripts/build_issue_02_readable.py
+.venv/bin/python -B scripts/verify_issue_02_readable.py
+```
+
+These write only `larger-type-*` reports/previews and the larger-type PDF. The verifier resets visual inspection to pending; inspect rendered samples before recording visual review.
