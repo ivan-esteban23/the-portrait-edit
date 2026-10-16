@@ -1,0 +1,1289 @@
+{
+  "version": 1,
+  "assignment_basis": "Editorial theme of the unchanged prompt; original source filenames and study numbers remain unchanged. Grouping does not certify a reference pairing.",
+  "chapters": [
+    {
+      "id": "portraits",
+      "title": "Portraits & Light",
+      "description": "Faces, gestures and the way light shapes a mood.",
+      "studies": [
+        2,
+        3,
+        4,
+        15,
+        16,
+        26,
+        27,
+        31,
+        34,
+        35,
+        36,
+        42,
+        43,
+        51,
+        52,
+        57,
+        60,
+        65,
+        71,
+        73,
+        74,
+        82
+      ]
+    },
+    {
+      "id": "winter",
+      "title": "Winter",
+      "description": "Snow, shearling and layers made for the cold.",
+      "studies": [
+        20,
+        21,
+        23,
+        24,
+        25,
+        28,
+        61,
+        67,
+        70,
+        72,
+        88,
+        94,
+        119,
+        161,
+        165
+      ]
+    },
+    {
+      "id": "folk",
+      "title": "Folk & Landscape",
+      "description": "Embroidery, adornment and portraits rooted in place.",
+      "studies": [
+        17,
+        22,
+        29,
+        32
+      ]
+    },
+    {
+      "id": "fantasy",
+      "title": "Fantasy & Period",
+      "description": "Imagined worlds, historical details and romantic atmosphere.",
+      "studies": [
+        1,
+        5,
+        6,
+        19,
+        30,
+        33,
+        59,
+        118,
+        120,
+        121,
+        127,
+        128,
+        134
+      ]
+    },
+    {
+      "id": "runway",
+      "title": "Runway",
+      "description": "Tailoring, movement and silhouettes in stride.",
+      "studies": [
+        37,
+        40,
+        46,
+        54,
+        56,
+        58,
+        83,
+        90,
+        98,
+        99,
+        102,
+        103,
+        108,
+        115,
+        125,
+        139,
+        145
+      ]
+    },
+    {
+      "id": "knitwear",
+      "title": "Knitwear & Layers",
+      "description": "Tactile knits, playful proportions and considered layers.",
+      "studies": [
+        7,
+        8,
+        10,
+        11,
+        38,
+        41,
+        44,
+        47,
+        63,
+        77,
+        79,
+        80,
+        87,
+        89,
+        92,
+        93,
+        95,
+        96,
+        97,
+        104,
+        106,
+        107,
+        109,
+        110,
+        117,
+        131,
+        138,
+        144,
+        146,
+        153,
+        156,
+        160,
+        164,
+        168,
+        170,
+        171
+      ]
+    },
+    {
+      "id": "studio",
+      "title": "Studio",
+      "description": "Controlled backdrops and graphic clothing studies.",
+      "studies": [
+        9,
+        12,
+        13,
+        14,
+        64,
+        81,
+        85,
+        129,
+        137,
+        141,
+        143,
+        147,
+        149,
+        150,
+        151,
+        152,
+        154,
+        157,
+        158,
+        159,
+        169,
+        173
+      ]
+    },
+    {
+      "id": "night",
+      "title": "Night & Lifestyle",
+      "description": "Interior stories, after-dark light and everyday scenes.",
+      "studies": [
+        50,
+        53,
+        55,
+        62,
+        66,
+        69,
+        76,
+        86,
+        113,
+        123,
+        124,
+        126,
+        132,
+        133,
+        136,
+        155,
+        166,
+        167,
+        174
+      ]
+    },
+    {
+      "id": "street",
+      "title": "Street & City",
+      "description": "Candid settings, urban textures and personal style.",
+      "studies": [
+        18,
+        39,
+        45,
+        48,
+        49,
+        68,
+        75,
+        78,
+        84,
+        91,
+        100,
+        101,
+        105,
+        111,
+        112,
+        114,
+        116,
+        122,
+        130,
+        135,
+        140,
+        142,
+        148,
+        162,
+        163,
+        172
+      ]
+    }
+  ],
+  "assignments": [
+    {
+      "study": 2,
+      "title": "Golden Hour Street Selfie",
+      "source": "4564.jpg",
+      "chapter": "portraits"
+    },
+    {
+      "study": 3,
+      "title": "High-Key Beauty Portrait",
+      "source": "4570.jpg",
+      "chapter": "portraits"
+    },
+    {
+      "study": 4,
+      "title": "Studio Ponytail Portrait",
+      "source": "4571.jpg",
+      "chapter": "portraits"
+    },
+    {
+      "study": 15,
+      "title": "Rust Floral Blouse & Chains",
+      "source": "5088.jpg",
+      "chapter": "portraits"
+    },
+    {
+      "study": 16,
+      "title": "Jade Backdrop & Hairpin",
+      "source": "5089.jpg",
+      "chapter": "portraits"
+    },
+    {
+      "study": 26,
+      "title": "Black Knit & Dark Studio Gradient",
+      "source": "24573.jpg",
+      "chapter": "portraits"
+    },
+    {
+      "study": 27,
+      "title": "Monochrome Leather & Blunt Bangs",
+      "source": "24547.jpg",
+      "chapter": "portraits"
+    },
+    {
+      "study": 31,
+      "title": "Sun-Washed Blonde in Black",
+      "source": "24535.jpg",
+      "chapter": "portraits"
+    },
+    {
+      "study": 34,
+      "title": "Warm Glow & Hands at the Chin",
+      "source": "24546.jpg",
+      "chapter": "portraits"
+    },
+    {
+      "study": 35,
+      "title": "Clean Nordic Tee & Blue Eyes",
+      "source": "24534.jpg",
+      "chapter": "portraits"
+    },
+    {
+      "study": 36,
+      "title": "Burgundy Velvet & Gold Drops",
+      "source": "24373.jpg",
+      "chapter": "portraits"
+    },
+    {
+      "study": 42,
+      "title": "Fur-Collar Beret & Dark Turtleneck",
+      "source": "24381.jpg",
+      "chapter": "portraits"
+    },
+    {
+      "study": 43,
+      "title": "Satin Oxblood Top & Low Bun",
+      "source": "24387.jpg",
+      "chapter": "portraits"
+    },
+    {
+      "study": 51,
+      "title": "Blue Satin Halter & Pearls",
+      "source": "24393.jpg",
+      "chapter": "portraits"
+    },
+    {
+      "study": 52,
+      "title": "Black Lace Sleeves & Pale Blue Sky",
+      "source": "24391.jpg",
+      "chapter": "portraits"
+    },
+    {
+      "study": 57,
+      "title": "Blue Lace Blouse & Honey Waves",
+      "source": "24402.jpg",
+      "chapter": "portraits"
+    },
+    {
+      "study": 60,
+      "title": "Pearl Drop & Printed Blouse",
+      "source": "24413.jpg",
+      "chapter": "portraits"
+    },
+    {
+      "study": 65,
+      "title": "Silver Chains & Black Blazer",
+      "source": "24414.jpg",
+      "chapter": "portraits"
+    },
+    {
+      "study": 71,
+      "title": "Black Blazer & Sheer Mock Neck",
+      "source": "24398.jpg",
+      "chapter": "portraits"
+    },
+    {
+      "study": 73,
+      "title": "Smooth Center Part & Tweed Collar",
+      "source": "24405.jpg",
+      "chapter": "portraits"
+    },
+    {
+      "study": 74,
+      "title": "Long Waves & Beige Satin Top",
+      "source": "24399.jpg",
+      "chapter": "portraits"
+    },
+    {
+      "study": 82,
+      "title": "Dewy Close-Up Beauty Portrait",
+      "source": "24976.jpg",
+      "chapter": "portraits"
+    },
+    {
+      "study": 20,
+      "title": "Laughing in the Snow",
+      "source": "24604.jpg",
+      "chapter": "winter"
+    },
+    {
+      "study": 21,
+      "title": "Blue Track Jacket & Alpine Glow",
+      "source": "24606.jpg",
+      "chapter": "winter"
+    },
+    {
+      "study": 23,
+      "title": "Blue Jacket in Profile",
+      "source": "24605.jpg",
+      "chapter": "winter"
+    },
+    {
+      "study": 24,
+      "title": "Fur Hat & Charcoal Scarf in the Snow",
+      "source": "24599.jpg",
+      "chapter": "winter"
+    },
+    {
+      "study": 25,
+      "title": "Cream Shearling & Striped Top",
+      "source": "24572.jpg",
+      "chapter": "winter"
+    },
+    {
+      "study": 28,
+      "title": "Fur Hood & Gold Earrings",
+      "source": "24570.jpg",
+      "chapter": "winter"
+    },
+    {
+      "study": 61,
+      "title": "Cream Shearling Coat by the Woodpile",
+      "source": "24407.jpg",
+      "chapter": "winter"
+    },
+    {
+      "study": 67,
+      "title": "Fur Capelet & Snowy Forest",
+      "source": "24404.jpg",
+      "chapter": "winter"
+    },
+    {
+      "study": 70,
+      "title": "Cream Wool Coat & Fur Hat in Snow",
+      "source": "24410.jpg",
+      "chapter": "winter"
+    },
+    {
+      "study": 72,
+      "title": "Blush Belted Coat & Plaid Mini",
+      "source": "24400.jpg",
+      "chapter": "winter"
+    },
+    {
+      "study": 88,
+      "title": "Sleeveless Cable Knit & Shearling Boots",
+      "source": "24974.jpg",
+      "chapter": "winter"
+    },
+    {
+      "study": 94,
+      "title": "Gray Turtleneck Dress & Tan Boots",
+      "source": "24973.jpg",
+      "chapter": "winter"
+    },
+    {
+      "study": 119,
+      "title": "Dark Velvet Jacket in Snow",
+      "source": "25025.jpg",
+      "chapter": "winter"
+    },
+    {
+      "study": 161,
+      "title": "Blue Hair in the Snow",
+      "source": "25061.jpg",
+      "chapter": "winter"
+    },
+    {
+      "study": 165,
+      "title": "Cable-Knit Red Sweater & Denim Mermaid Skirt",
+      "source": "25053.jpg",
+      "chapter": "winter"
+    },
+    {
+      "study": 17,
+      "title": "Blue Satin Blouse & White Peonies",
+      "source": "24607.jpg",
+      "chapter": "folk"
+    },
+    {
+      "study": 22,
+      "title": "Red Embroidered Bodice by the Sea",
+      "source": "24600.jpg",
+      "chapter": "folk"
+    },
+    {
+      "study": 29,
+      "title": "Red Folk Bodice with a Stork",
+      "source": "24537.jpg",
+      "chapter": "folk"
+    },
+    {
+      "study": 32,
+      "title": "Pearls & Red Embroidery with a Stork",
+      "source": "24536.jpg",
+      "chapter": "folk"
+    },
+    {
+      "study": 1,
+      "title": "Autumn Hat Portrait",
+      "source": "4916.jpg",
+      "chapter": "fantasy"
+    },
+    {
+      "study": 5,
+      "title": "Frost Fantasy Portrait",
+      "source": "4572.jpg",
+      "chapter": "fantasy"
+    },
+    {
+      "study": 6,
+      "title": "Victorian Library Portrait",
+      "source": "4574.jpg",
+      "chapter": "fantasy"
+    },
+    {
+      "study": 19,
+      "title": "Silver Beaded Headdress on a Misty Shore",
+      "source": "24598.jpg",
+      "chapter": "fantasy"
+    },
+    {
+      "study": 30,
+      "title": "Off-Shoulder Ribbon & Misty Landscape",
+      "source": "24548.jpg",
+      "chapter": "fantasy"
+    },
+    {
+      "study": 33,
+      "title": "Coin Headdress & Silver Drops",
+      "source": "24533.jpg",
+      "chapter": "fantasy"
+    },
+    {
+      "study": 59,
+      "title": "Mint Ribbon Uniform Costume",
+      "source": "24401.jpg",
+      "chapter": "fantasy"
+    },
+    {
+      "study": 118,
+      "title": "Burgundy Velvet Gown on Stone Stairs",
+      "source": "25024.jpg",
+      "chapter": "fantasy"
+    },
+    {
+      "study": 120,
+      "title": "Lace Blouse over Velvet Corset",
+      "source": "25015.jpg",
+      "chapter": "fantasy"
+    },
+    {
+      "study": 121,
+      "title": "Burgundy Velvet Jacket & Lace Jabot",
+      "source": "25016.jpg",
+      "chapter": "fantasy"
+    },
+    {
+      "study": 127,
+      "title": "Dark Corset over Gray Shirt",
+      "source": "25012.jpg",
+      "chapter": "fantasy"
+    },
+    {
+      "study": 128,
+      "title": "Black Velvet Gown in the Cemetery",
+      "source": "25014.jpg",
+      "chapter": "fantasy"
+    },
+    {
+      "study": 134,
+      "title": "Burgundy Lace Corset & Boots",
+      "source": "25020.jpg",
+      "chapter": "fantasy"
+    },
+    {
+      "study": 37,
+      "title": "Black Tweed Set & Gold Chains",
+      "source": "24375.jpg",
+      "chapter": "runway"
+    },
+    {
+      "study": 40,
+      "title": "Camel Suede Trench with Cape Collar",
+      "source": "24386.jpg",
+      "chapter": "runway"
+    },
+    {
+      "study": 46,
+      "title": "Gray Fur Vest & Leather Mini",
+      "source": "24388.jpg",
+      "chapter": "runway"
+    },
+    {
+      "study": 54,
+      "title": "Camel Double-Breasted Runway Coat",
+      "source": "24376.jpg",
+      "chapter": "runway"
+    },
+    {
+      "study": 56,
+      "title": "Black Turtleneck & Pleated Mini",
+      "source": "24395.jpg",
+      "chapter": "runway"
+    },
+    {
+      "study": 58,
+      "title": "Off-Shoulder Gown in the Garden",
+      "source": "24408.jpg",
+      "chapter": "runway"
+    },
+    {
+      "study": 83,
+      "title": "Blue Runway Coat & Striped Socks",
+      "source": "24984.jpg",
+      "chapter": "runway"
+    },
+    {
+      "study": 90,
+      "title": "Open-Knit Cream Sweater & Suede Shorts",
+      "source": "24972.jpg",
+      "chapter": "runway"
+    },
+    {
+      "study": 98,
+      "title": "Cream Half-Zip & Black Wide Trousers",
+      "source": "24991.jpg",
+      "chapter": "runway"
+    },
+    {
+      "study": 99,
+      "title": "Monochrome Polo Knit Set",
+      "source": "25000.jpg",
+      "chapter": "runway"
+    },
+    {
+      "study": 102,
+      "title": "Cream Tee & Dark Wide Jeans",
+      "source": "24992.jpg",
+      "chapter": "runway"
+    },
+    {
+      "study": 103,
+      "title": "Monochrome Polo Knit Set, Walk",
+      "source": "25002.jpg",
+      "chapter": "runway"
+    },
+    {
+      "study": 108,
+      "title": "Orange Mock-Neck & Over-the-Knee Boots",
+      "source": "25001.jpg",
+      "chapter": "runway"
+    },
+    {
+      "study": 115,
+      "title": "Blue Runway Coat & Striped Socks",
+      "source": "24984.jpg",
+      "chapter": "runway"
+    },
+    {
+      "study": 125,
+      "title": "Pink Floral Top & Embroidered Jeans",
+      "source": "25010.jpg",
+      "chapter": "runway"
+    },
+    {
+      "study": 139,
+      "title": "Navy Long Coat with Burgundy Cuffs",
+      "source": "25034.jpg",
+      "chapter": "runway"
+    },
+    {
+      "study": 145,
+      "title": "Embroidered Corset Top & Black Trousers",
+      "source": "25026.jpg",
+      "chapter": "runway"
+    },
+    {
+      "study": 7,
+      "title": "Cream Knit Co-ord",
+      "source": "4991.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 8,
+      "title": "Powder Blue Knit Set",
+      "source": "4992.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 10,
+      "title": "Chocolate Turtleneck & Striped Skirt",
+      "source": "5028.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 11,
+      "title": "Brown Mock-Neck & Leather Mini",
+      "source": "5029.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 38,
+      "title": "Butter Yellow Tee & Plaid Mini",
+      "source": "24377.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 41,
+      "title": "Navy Lace-Trim Tiered Dress",
+      "source": "24380.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 44,
+      "title": "Pink Top & Camo Knit Skirt",
+      "source": "24384.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 47,
+      "title": "Gray Bow Knit & Black Boots",
+      "source": "24383.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 63,
+      "title": "Lilac Ribbed Top & Patterned Trousers",
+      "source": "24415.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 77,
+      "title": "Black Lace Knit & Plaid Mini",
+      "source": "24969.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 79,
+      "title": "Reindeer Cardigan by the Window",
+      "source": "24983.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 80,
+      "title": "Argyle Cape Cardigan & Newsboy Cap",
+      "source": "24981.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 87,
+      "title": "Square-Neck Brown Top & Plaid Mini",
+      "source": "24975.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 89,
+      "title": "Gray Cardigan & Polka Dot Skirt",
+      "source": "24965.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 92,
+      "title": "Cream Keyhole Cardigan & Pearls",
+      "source": "24978.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 93,
+      "title": "Blue Raglan Knit & Concho Belt",
+      "source": "24980.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 95,
+      "title": "Black & White Bow Knit & Feather Cuffs",
+      "source": "24979.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 96,
+      "title": "Cream Knit with Blue Patterns & Sunglasses",
+      "source": "24977.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 97,
+      "title": "Striped Hooded Cardigan & Leopard Skirt",
+      "source": "24989.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 104,
+      "title": "Varsity Jacket & Denim Pleats",
+      "source": "25005.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 106,
+      "title": "Reindeer Cardigan by the Window",
+      "source": "24983.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 107,
+      "title": "Navy Varsity Knit with Red S",
+      "source": "24994.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 109,
+      "title": "Gray Varsity Knit with Navy Raglan",
+      "source": "24993.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 110,
+      "title": "Brown Hooded Knit with Lettering",
+      "source": "24997.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 117,
+      "title": "Purple Velvet Top & Leg Warmers",
+      "source": "25007.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 131,
+      "title": "Purple Velvet Cardigan & Ruffled Mini",
+      "source": "25008.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 138,
+      "title": "Plum Ribbed Knit & Lilac Suede Mini",
+      "source": "25033.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 144,
+      "title": "Fuzzy Purple Crop & Denim Maxi",
+      "source": "25050.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 146,
+      "title": "Navy Henley & Olive Cargo Trousers",
+      "source": "25047.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 153,
+      "title": "Taupe Crop Cardigan & Brown Parachute Pants",
+      "source": "25049.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 156,
+      "title": "Gray Ribbed Hoodie & Studded Flares",
+      "source": "25071.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 160,
+      "title": "Cream Henley & Striped Mini",
+      "source": "25069.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 164,
+      "title": "Denim Bustier, Maxi Skirt & Fur Bag",
+      "source": "25051.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 168,
+      "title": "Beige Knit Crop & Denim Maxi",
+      "source": "25054.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 170,
+      "title": "Black Ribbed Zip Crop & White Jeans",
+      "source": "25067.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 171,
+      "title": "Fuzzy Green Cardigan & Denim Maxi",
+      "source": "25052.jpg",
+      "chapter": "knitwear"
+    },
+    {
+      "study": 9,
+      "title": "Mustard Twist Dress",
+      "source": "4993.jpg",
+      "chapter": "studio"
+    },
+    {
+      "study": 12,
+      "title": "Polka Dot Bows & Floral Blouse",
+      "source": "5030.jpg",
+      "chapter": "studio"
+    },
+    {
+      "study": 13,
+      "title": "Black Turtleneck & White Socks",
+      "source": "5031.jpg",
+      "chapter": "studio"
+    },
+    {
+      "study": 14,
+      "title": "Red Headband Pop",
+      "source": "5032.jpg",
+      "chapter": "studio"
+    },
+    {
+      "study": 64,
+      "title": "White Pleated Collared Mini Dress",
+      "source": "24411.jpg",
+      "chapter": "studio"
+    },
+    {
+      "study": 81,
+      "title": "Sheer Black Top & Red Mini",
+      "source": "24970.jpg",
+      "chapter": "studio"
+    },
+    {
+      "study": 85,
+      "title": "Brown Leather Vest & Mini Skirt",
+      "source": "24967.jpg",
+      "chapter": "studio"
+    },
+    {
+      "study": 129,
+      "title": "Mint Crop & Patterned Trousers",
+      "source": "25011.jpg",
+      "chapter": "studio"
+    },
+    {
+      "study": 137,
+      "title": "Black Off-Shoulder Knit & Leather Wrap Skirt",
+      "source": "25028.jpg",
+      "chapter": "studio"
+    },
+    {
+      "study": 141,
+      "title": "Mock-Neck Crop & Grommet Cargo Pants",
+      "source": "25048.jpg",
+      "chapter": "studio"
+    },
+    {
+      "study": 143,
+      "title": "Sequined Halter & Leather Mini",
+      "source": "25030.jpg",
+      "chapter": "studio"
+    },
+    {
+      "study": 147,
+      "title": "Lilac Mesh Top & Metal Belt",
+      "source": "25043.jpg",
+      "chapter": "studio"
+    },
+    {
+      "study": 149,
+      "title": "Rhinestone Script Top & Cargo Pants",
+      "source": "25046.jpg",
+      "chapter": "studio"
+    },
+    {
+      "study": 150,
+      "title": "Ribbed Off-Shoulder Zip Top & Heart Belt",
+      "source": "25045.jpg",
+      "chapter": "studio"
+    },
+    {
+      "study": 151,
+      "title": "Vintage Print Top & Black Shorts",
+      "source": "25044.jpg",
+      "chapter": "studio"
+    },
+    {
+      "study": 152,
+      "title": "Lilac Mesh Top & Flare Jeans, Hands on Hips",
+      "source": "25027.jpg",
+      "chapter": "studio"
+    },
+    {
+      "study": 154,
+      "title": "Black Strapless Top & Grommet Mini",
+      "source": "25031.jpg",
+      "chapter": "studio"
+    },
+    {
+      "study": 157,
+      "title": "Striped Halter & Denim Ruffle Maxi",
+      "source": "25055.jpg",
+      "chapter": "studio"
+    },
+    {
+      "study": 158,
+      "title": "White Lace Tie Top & Balloon Skirt",
+      "source": "25070.jpg",
+      "chapter": "studio"
+    },
+    {
+      "study": 159,
+      "title": "Off-Shoulder Zip Knit & Cargo Pants",
+      "source": "25068.jpg",
+      "chapter": "studio"
+    },
+    {
+      "study": 169,
+      "title": "Black Turtleneck & Patent Trousers",
+      "source": "25063.jpg",
+      "chapter": "studio"
+    },
+    {
+      "study": 173,
+      "title": "White Mesh Graphic Tee & Ruffled Denim",
+      "source": "25056.jpg",
+      "chapter": "studio"
+    },
+    {
+      "study": 50,
+      "title": "Studded Leather & Hooded Jacket",
+      "source": "24392.jpg",
+      "chapter": "night"
+    },
+    {
+      "study": 53,
+      "title": "Striped Tank & Denim Lounge",
+      "source": "24390.jpg",
+      "chapter": "night"
+    },
+    {
+      "study": 55,
+      "title": "Brown Cardigan & Plaid Skirt Parlor",
+      "source": "24396.jpg",
+      "chapter": "night"
+    },
+    {
+      "study": 62,
+      "title": "Cream Turtleneck at a Teahouse Table",
+      "source": "24412.jpg",
+      "chapter": "night"
+    },
+    {
+      "study": 66,
+      "title": "Close-Up at the Teahouse Table",
+      "source": "24319.jpg",
+      "chapter": "night"
+    },
+    {
+      "study": 69,
+      "title": "Black Sleeveless Dress by the Lanterns",
+      "source": "24318.jpg",
+      "chapter": "night"
+    },
+    {
+      "study": 76,
+      "title": "Black Dress by the Lanterns, Looking Back",
+      "source": "24409.jpg",
+      "chapter": "night"
+    },
+    {
+      "study": 86,
+      "title": "Red Lace Dress & Rose Sleeves",
+      "source": "24968.jpg",
+      "chapter": "night"
+    },
+    {
+      "study": 113,
+      "title": "Red Velvet Hoodie & Space Buns",
+      "source": "25006.jpg",
+      "chapter": "night"
+    },
+    {
+      "study": 123,
+      "title": "Black Lace-Sleeve Top & Bob",
+      "source": "25013.jpg",
+      "chapter": "night"
+    },
+    {
+      "study": 124,
+      "title": "Black Mini Dress at Night",
+      "source": "25017.jpg",
+      "chapter": "night"
+    },
+    {
+      "study": 126,
+      "title": "Red Velvet Hoodie & Space Buns",
+      "source": "25006.jpg",
+      "chapter": "night"
+    },
+    {
+      "study": 132,
+      "title": "Burgundy Cutout Gown",
+      "source": "25018.jpg",
+      "chapter": "night"
+    },
+    {
+      "study": 133,
+      "title": "Black One-Shoulder Top & Lace Pants",
+      "source": "25019.jpg",
+      "chapter": "night"
+    },
+    {
+      "study": 136,
+      "title": "Leopard Maxi Skirt & Velvet Crop",
+      "source": "25022.jpg",
+      "chapter": "night"
+    },
+    {
+      "study": 155,
+      "title": "Dark Leather Jacket on a Parisian Balcony",
+      "source": "25058.jpg",
+      "chapter": "night"
+    },
+    {
+      "study": 166,
+      "title": "Graphic Skull Tank & Mini Dress",
+      "source": "25064.jpg",
+      "chapter": "night"
+    },
+    {
+      "study": 167,
+      "title": "Black Leather Jacket & Navy Cami",
+      "source": "25060.png",
+      "chapter": "night"
+    },
+    {
+      "study": 174,
+      "title": "Pink Button-Up & Rimless Glasses at Night",
+      "source": "25065.jpg",
+      "chapter": "night"
+    },
+    {
+      "study": 18,
+      "title": "Crimson Wool Coat by the Car",
+      "source": "24603.jpg",
+      "chapter": "street"
+    },
+    {
+      "study": 39,
+      "title": "Blue Hair & Plaid Skirt Street Style",
+      "source": "24385.jpg",
+      "chapter": "street"
+    },
+    {
+      "study": 45,
+      "title": "Cream Knit & Brown Pleated Skirt",
+      "source": "24382.jpg",
+      "chapter": "street"
+    },
+    {
+      "study": 48,
+      "title": "Hot Pink Crop Top & Mini Skirt",
+      "source": "24389.jpg",
+      "chapter": "street"
+    },
+    {
+      "study": 49,
+      "title": "Black Collared Dress with Cream Trim",
+      "source": "24378.jpg",
+      "chapter": "street"
+    },
+    {
+      "study": 68,
+      "title": "Y2K Crop Top & Studded Cargo",
+      "source": "24403.jpg",
+      "chapter": "street"
+    },
+    {
+      "study": 75,
+      "title": "Pink Crop Top & Quilted Skirt",
+      "source": "24317.jpg",
+      "chapter": "street"
+    },
+    {
+      "study": 78,
+      "title": "Floral Sheer Blouse & Flare Jeans",
+      "source": "24982.jpg",
+      "chapter": "street"
+    },
+    {
+      "study": 84,
+      "title": "Gray Pleated Skirt & Charm Bag Street",
+      "source": "24966.jpg",
+      "chapter": "street"
+    },
+    {
+      "study": 91,
+      "title": "Gray Top & Black Mini with Knee Boots",
+      "source": "24971.jpg",
+      "chapter": "street"
+    },
+    {
+      "study": 100,
+      "title": "Black Zip Crop with Thumbholes",
+      "source": "24996.jpg",
+      "chapter": "street"
+    },
+    {
+      "study": 101,
+      "title": "White Zip Shirt & Plaid Mini",
+      "source": "25004.jpg",
+      "chapter": "street"
+    },
+    {
+      "study": 105,
+      "title": "Brown Lace Top & Western Belt",
+      "source": "24990.jpg",
+      "chapter": "street"
+    },
+    {
+      "study": 111,
+      "title": "Light Blue Zip Shirt & Pleated Skirt",
+      "source": "25003.jpg",
+      "chapter": "street"
+    },
+    {
+      "study": 112,
+      "title": "Blue Baby Tee & Black Fur Vest",
+      "source": "24999.jpg",
+      "chapter": "street"
+    },
+    {
+      "study": 114,
+      "title": "Raglan Cross Graphic Tee & Cargo",
+      "source": "24998.jpg",
+      "chapter": "street"
+    },
+    {
+      "study": 116,
+      "title": "Racing Zip Jacket & Sunglasses",
+      "source": "24995.jpg",
+      "chapter": "street"
+    },
+    {
+      "study": 122,
+      "title": "Purple Velvet Crop & Burnout Skirt",
+      "source": "25023.jpg",
+      "chapter": "street"
+    },
+    {
+      "study": 130,
+      "title": "Purple Lace Top & Cargo Pants on Campus",
+      "source": "25009.jpg",
+      "chapter": "street"
+    },
+    {
+      "study": 135,
+      "title": "Black Lace Top & Blue Sky",
+      "source": "25021.jpg",
+      "chapter": "street"
+    },
+    {
+      "study": 140,
+      "title": "Rust Velvet Jacket & Floral Skirt",
+      "source": "25032.jpg",
+      "chapter": "street"
+    },
+    {
+      "study": 142,
+      "title": "Purple Velvet Crop & Burnout Skirt",
+      "source": "25023.jpg",
+      "chapter": "street"
+    },
+    {
+      "study": 148,
+      "title": "Black Off-Shoulder Gown on the Street",
+      "source": "25029.jpg",
+      "chapter": "street"
+    },
+    {
+      "study": 162,
+      "title": "Brown Long-Sleeve Top & Cargo Parachute Pants",
+      "source": "25062.jpg",
+      "chapter": "street"
+    },
+    {
+      "study": 163,
+      "title": "Burgundy Leather Jacket & Belted Mini",
+      "source": "25057.jpg",
+      "chapter": "street"
+    },
+    {
+      "study": 172,
+      "title": "Blue Lace-Trim Tank & Low-Rise Jeans",
+      "source": "25066.jpg",
+      "chapter": "street"
+    }
+  ]
+}
